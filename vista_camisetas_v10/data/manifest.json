@@ -1,0 +1,20 @@
+{
+  "fuenteFrontend": "datos.json",
+  "fallbackLocal": "datos-local.js (generado automáticamente)",
+  "datosSHA256": "2940a03bee452abc5ae7edf4801a6d3a48fd67ebfd6b5ecaf0ae78be3679fee8",
+  "conteos": {
+    "candidatos": 8469,
+    "masDeUnaCamiseta": 998,
+    "conFoto": 8463,
+    "cortesAfiliacion": {
+      "2025-10-07": 1960,
+      "2026-01-07": 2319
+    }
+  },
+  "fuentesSHA256": {
+    "dim_organizaciones_politicas.csv": "30dcf6fc9f139877e314e89611428c413783c04cfa40f1c949df5e1c652f4ac3",
+    "erm2026_educacion_limpia.csv": "828c320bcde5adb34735eb7d94f2634fdb931262abdb4f24b7a926a3c48282a3",
+    "hechos_afiliaciones.csv": "9a447285e5e7b6eef31b3a852fce0378c1c917634d17a8ab21b0b3432c8b84b9",
+    "hechos_procesos_electorales.csv": "95a8b3eb52ac4dfa518d26a855c56b4031302c9b5d5f6ebc695dd57664b1d7a3"
+  }
+}

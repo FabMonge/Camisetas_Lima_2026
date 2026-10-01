@@ -1,0 +1,20 @@
+RECONCILIACIÓN
+
+Se ejecutaron los motores v2, v3, v4 y v5 sobre los mismos cuatro CSV originales.
+Las métricas de los 8469 candidatos del JSON aportado con las fotos coinciden
+exactamente con la salida del motor v2. La salida v5 coincide con todas las
+métricas de la web v5. Se adopta v5 porque incorpora las reglas finales
+confirmadas: genealogías, exclusión de organizaciones locales e independientes,
+absorción de alianzas y cómputo exclusivo de la afiliación vigente.
+
+336 personas cambian su número de camisetas; 159 dejan de tener más de una.
+No cambia el universo ni el total de postulaciones de ninguna persona.
+Las correcciones también afectan los indicadores de afiliación: v2 no es
+una fuente válida para recalcular éstos.
+
+El CSV detalla los troncos anteriores y nuevos, exclusiones, equivalencias y
+absorciones aplicadas a cada candidato. Esas columnas documentan reglas
+aplicadas; pueden intervenir varias reglas sobre una misma persona.
+
+La actualización no consulta ni vuelve a raspar el JNE: usa exclusivamente
+los cuatro CSV del usuario, las reglas acordadas y el mapa de imágenes.

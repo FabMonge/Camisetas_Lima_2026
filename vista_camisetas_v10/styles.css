@@ -1,0 +1,789 @@
+/* =========================================
+   DECLARACIÓN DE FUENTE IVY JOURNAL
+   ========================================= */
+
+
+/* =========================================
+   1. RESET (LIBERACIÓN DE SCROLL)
+   ========================================= */
+body, html {
+    margin: 0; 
+    padding: 0; 
+    background-color: #ffffff; 
+    font-family: 'Arial', sans-serif;
+}
+
+/* =========================================
+   2. HEADER DEL ESPECIAL
+   ========================================= */
+.special-header {
+    max-width: 900px; 
+    margin: 60px auto 40px auto;
+    padding: 0 20px;
+    text-align: center;
+}
+
+.kicker { margin-bottom: 25px; display: flex; justify-content: center; align-items: center; }
+.kicker img { height: 55px; width: auto; display: block; max-width: 100%; }
+
+.headline {
+    font-family: 'Georgia', 'Times New Roman', serif; 
+    font-size: 76px; font-weight: 900; color: #111;
+    line-height: 1.05; margin-top: 0; margin-bottom: 5px;
+    letter-spacing: -1.5px; 
+}
+
+.subheadline {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: 46px; font-weight: 400; color: #444;
+    line-height: 1.15; margin-top: 0; margin-bottom: 30px;
+    letter-spacing: -0.5px;
+}
+
+.intro-text {
+    font-size: 18px; color: #444; line-height: 1.6;
+    margin-bottom: 25px; max-width: 750px; margin-left: auto; margin-right: auto;
+}
+
+.header-divider { width: 50px; height: 1px; background-color: #333; margin: 30px auto 15px auto; }
+.date-published { font-size: 14px; color: #444; letter-spacing: normal; }
+
+.social-share-container { display: flex; justify-content: center; align-items: center; gap: 12px; margin-top: 15px; }
+.social-btn {
+    display: flex; justify-content: center; align-items: center;
+    width: 38px; height: 38px; border: 1px solid #333;
+    border-radius: 4px; color: #333; text-decoration: none;
+    background-color: transparent; transition: all 0.2s ease;
+}
+.social-btn:hover { background-color: #333; color: #ffffff; transform: translateY(-2px); }
+
+/* =========================================
+   3. TEXTO EDITORIAL & CAJAS DE INSTRUCCIÓN
+   ========================================= */
+.story-text { max-width: 700px; margin: 0 auto; padding: 0 20px; }
+.story-text p { font-family: 'Arial', sans-serif; font-size: 18px; line-height: 1.6; color: #333; margin-bottom: 20px; }
+.story-text h2 { font-family: 'Georgia', serif; font-size: 26px; font-weight: bold; color: #111; margin-top: 50px; margin-bottom: 20px; }
+
+.story-image-container { margin: 50px auto; max-width: 900px; padding: 0 20px; box-sizing: border-box; }
+.story-image { width: 100%; height: auto; display: block; border-radius: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); }
+.story-image-caption { font-family: 'Arial', sans-serif; font-size: 13px; color: #777; margin-top: 12px; line-height: 1.4; text-align: left; border-bottom: 1px solid #eaeaea; padding-bottom: 10px; }
+
+.instrucciones-caja {
+    max-width: 650px; margin-top: 50px !important; margin: 10px auto 30px auto;
+    background-color: #f9f9f9; border: 1px solid #eaeaea; border-left: 4px solid #111;
+    padding: 15px 20px; border-radius: 0 4px 4px 0; font-family: 'Arial', sans-serif;
+}
+.instrucciones-titulo { color: #111; font-weight: 900; font-size: 15px; display: block; margin-bottom: 10px; text-transform: uppercase; letter-spacing: 0.5px; }
+.instrucciones-caja ul { margin: 0; padding-left: 20px; }
+.instrucciones-caja li { font-size: 14px; line-height: 1.5; margin-bottom: 8px; color: #444; }
+.instrucciones-caja li:last-child { margin-bottom: 0; }
+.instrucciones-caja li strong { color: #111; }
+
+/* =========================================
+   4. CONTENEDOR DEL INTERACTIVO (FASE 1)
+   ========================================= */
+.viz-container {
+    position: relative; width: 100%; height: 860px; min-height: 860px; 
+    background-color: transparent; overflow: hidden; margin: 10px 0 30px 0; 
+}
+#map { width: 100%; height: 100%; background-color: transparent !important; }
+
+/* =========================================
+   5. CONTROLES Y UI DEL MAPA
+   ========================================= */
+.ui-element {
+    position: absolute; z-index: 3000; background: white;
+    border: 1.5px solid #000; color: #000; font-weight: 900; text-transform: uppercase;
+    box-shadow: 3px 3px 0px rgba(0,0,0,0.1);
+}
+.controls-container {
+    top: 20px; left: 19%; display: flex; padding: 0; 
+    border: 1.5px solid #ccc !important; border-radius: 4px; 
+    overflow: hidden; box-shadow: 2px 2px 5px rgba(0,0,0,0.1) !important;
+}
+.control-btn {
+    background: white; border: none; border-right: 1px solid #ccc; 
+    padding: 8px 12px; font-size: 14px; cursor: pointer;
+    transition: background-color 0.2s, opacity 0.2s, color 0.2s;
+    color: #000; display: flex; justify-content: center; align-items: center;
+}
+.control-btn:last-child { border-right: none; }
+.control-btn:disabled { opacity: 0.3; cursor: not-allowed; background-color: #fafafa; }
+.control-btn.main-btn { font-weight: 900; width: 45px; font-size: 16px; background-color: #333; color: #fff; }
+.control-btn:hover:not(:disabled) { background-color: #f0f0f0; }
+.control-btn.main-btn:hover:not(:disabled) { background-color: #111; color: #fff; }
+
+.year-label { top: 20px; left: 50%; transform: translateX(-50%); padding: 10px 20px; font-size: 18px; }
+
+/* =========================================
+   6. TARJETAS DE CANDIDATOS
+   ========================================= */
+.cand-info-container { display: flex; flex-direction: column; }
+.cand-name { font-weight: 900; color: #000; text-transform: uppercase; line-height: 1; }
+.cand-party { color: #666; text-transform: uppercase; font-weight: 400; letter-spacing: 1.5px; }
+.cand-pct { font-weight: 900; display: flex; align-items: center; color: #000; }
+.dot { border-radius: 3px; }
+
+.candidate-big { position: absolute; z-index: 2500; top: 50%; transform: translateY(-50%); width: 250px; text-align: center; align-items: center; display: flex; flex-direction: column; }
+.pos-left { left: 13%; } .pos-right { right: 13%; }
+.candidate-big .photo { width: 170px; height: 170px; border-radius: 50%; background-color: transparent; border: 1.5px solid #d1d1d1; box-shadow: 0 6px 12px rgba(0,0,0,0.1); margin-bottom: 12px; }
+.candidate-big .cand-info-container { align-items: center; text-align: center; }
+.candidate-big .cand-name { font-size: 24px; margin-bottom: 4px; }
+.candidate-big .cand-party { font-size: 12px; margin-bottom: 8px; }
+.candidate-big .cand-pct { font-size: 32px; justify-content: center; }
+.candidate-big .dot { width: 16px; height: 16px; margin: 0 12px; }
+
+.bottom-legend-container { position: absolute; bottom: 60px; left: 50%; transform: translateX(-50%); z-index: 2500; display: flex; gap: 40px; flex-wrap: wrap; justify-content: center; }
+.candidate-small { display: flex; align-items: center; background: rgba(255,255,255,0.8); padding: 5px 10px; border-radius: 4px; text-align: left; }
+.candidate-small .photo { width: 50px; height: 50px; border-radius: 50%; background-color: transparent; border: 1px solid #d1d1d1; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-right: 10px; }
+.candidate-small .cand-info-container { align-items: flex-start; text-align: left; }
+.candidate-small .cand-name { font-size: 16px; margin-bottom: 2px;}
+.candidate-small .cand-party { font-size: 9px; margin-bottom: 4px;}
+.candidate-small .cand-pct { font-size: 20px; justify-content: flex-start; }
+.candidate-small .dot { width: 12px; height: 12px; margin-right: 8px; }
+
+/* =========================================
+   7. MAPA, POPUPS Y EXTRANJERO
+   ========================================= */
+.leaflet-container { background: transparent !important; }
+.pex-globe-container { display: flex; flex-direction: column; align-items: center; cursor: pointer; }
+.pex-globe { width: 60px; height: 60px; border-radius: 50%; background-image: url('fotos/mundo.png'); background-size: 115%; background-position: center; background-repeat: no-repeat; background-color: #eeeeee; border: 1px solid rgba(0, 0, 0, 0.15); box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 5px; transition: background-color 0.4s ease-in-out !important; }
+.pex-globe-container:hover .pex-globe { transform: scale(1.08); }
+.pex-label { font-weight: 900; font-size: 11px; color: #333; text-transform: uppercase; text-align: center; letter-spacing: 1px; pointer-events: none; text-shadow: 1px 1px 0px rgba(255,255,255,0.8); }
+
+.leaflet-popup-content-wrapper { border-radius: 0px; border: 1px solid #000; padding: 2px; }
+.popup-region { font-weight: 900; text-transform: uppercase; font-size: 14px; border-bottom: 1px solid #eee; margin-bottom: 5px; padding-bottom: 3px; display: block; }
+.popup-local-winner { font-weight: 900; font-size: 13px; color: #111; background-color: #f0f0f0; padding: 3px 5px; margin-bottom: 3px; border-radius: 3px; display: inline-block; }
+.popup-historical-note { font-size: 12px; color: #555; font-style: italic; line-height: 1.3; padding-top: 5px; max-width: 180px; }
+.popup-party { font-size: 10px; color: #666; display: block; margin-bottom: 2px; }
+.popup-pct { font-size: 18px; font-weight: 900; display: flex; align-items: baseline; gap: 4px; }
+.popup-pct-label { font-size: 10px; font-weight: 400; color: #444; }
+
+path.leaflet-interactive { transition: fill 0.8s ease-in-out, stroke 0.8s ease-in-out !important; }
+
+/* =========================================
+   8. NOTAS DE CONTEXTO DINÁMICAS
+   ========================================= */
+.year-context-note {
+    position: absolute; top: 70px; left: 50%; transform: translateX(-50%); z-index: 3500;
+    background-color: rgba(255, 255, 255, 0.95); border-left: 4px solid #111; padding: 10px 15px;
+    width: 90%; max-width: 600px; font-family: 'Arial', sans-serif; font-size: 13px; line-height: 1.5;
+    color: #333; box-shadow: 0 4px 10px rgba(0,0,0,0.15); border-radius: 4px; text-align: left; display: none; 
+}
+.year-context-note strong { color: #000; font-weight: 900; display: block; margin-bottom: 4px; text-transform: uppercase; font-size: 11px; letter-spacing: 1px; }
+
+/* =========================================
+   9. COMBO VISUAL (FASE 2)
+   ========================================= */
+.combo-visual-container { display: flex; max-width: 1200px; margin: 40px auto; gap: 30px; padding: 0 20px; align-items: stretch; justify-content: center; }
+.columna-mitad { flex: 1; min-width: 320px; display: flex; flex-direction: column; justify-content: flex-start; }
+.anio-titulo { font-family: 'Georgia', serif; font-size: 22px; font-weight: bold; color: #333; margin-bottom: 15px; text-align: center; }
+.mapa-impacto-box { width: 100%; height: 450px; background-color: transparent; z-index: 1; }
+.grafico-wrapper { width: 100%; height: 400px; background-color: #fff; }
+.columna-leyenda { flex: 0 0 160px; display: flex; flex-direction: column; justify-content: center; gap: 15px; }
+.leyenda-item { display: flex; align-items: center; gap: 12px; cursor: pointer; font-family: 'Arial', sans-serif; font-size: 13px; font-weight: 900; color: #333; transition: opacity 0.2s ease, background-color 0.2s ease; padding: 6px; border-radius: 6px; }
+.leyenda-item:hover { background-color: #f0f0f0; }
+.leyenda-color { width: 24px; height: 24px; border-radius: 4px; border: 1px solid rgba(0,0,0,0.1); }
+
+/* =========================================
+   10. FASE 3: PARTICIPACIÓN
+   ========================================= */
+.participacion-wrapper { max-width: 1200px; margin: 0 auto 60px auto; }
+.slider-container { width: 100%; max-width: 1100px; margin: 0 auto; padding: 0 20px; text-align: center; }
+.fase3-title { font-family: 'Georgia', serif; font-size: 28px; font-weight: bold; color: #111; display: inline-block; margin-bottom: 15px; background-color: #f0f0f0; padding: 5px 15px; border-radius: 4px; }
+.custom-slider { -webkit-appearance: none; appearance: none; width: 100%; height: 8px; border-radius: 4px; background: #d1d1d1; outline: none; margin-bottom: 20px; }
+.custom-slider::-webkit-slider-thumb { -webkit-appearance: none; appearance: none; width: 24px; height: 24px; border-radius: 50%; background: #0047ab; cursor: pointer; box-shadow: 0 2px 5px rgba(0,0,0,0.2); transition: transform 0.1s; }
+.custom-slider::-webkit-slider-thumb:hover { transform: scale(1.2); }
+#mapa-fase3 { width: 100%; height: 500px; background-color: transparent !important; }
+#mapa-fase3 path.leaflet-interactive { stroke: #444444 !important; stroke-width: 0.8px !important; transition: fill 0.4s ease !important; }
+
+/* Ajustes de espaciado Fase 3 (Solo Escritorio) */
+.fase3-combo { margin-top: 10px; margin-bottom: -75px; }
+.source-fase3 { margin-top: 20px; }
+
+/* =========================================
+   11. FUENTE DE DATOS Y CRÉDITOS
+   ========================================= */
+.source-note { font-family: 'Arial', sans-serif; font-size: 12px; color: #888888; max-width: 1200px; margin: 10px auto 50px auto; padding: 0 20px; text-align: center; line-height: 1.4; }
+.source-fase1 { position: absolute; bottom: 30px; left: 50%; transform: translateX(-50%); z-index: 3000; margin: 0; width: 90%; text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.9), -1px -1px 2px rgba(255, 255, 255, 0.9); }
+.editor-note-fase1 { position: absolute; bottom: 10px; left: 50%; transform: translateX(-50%); z-index: 3000; width: 90%; text-align: center; font-family: 'Arial', sans-serif; font-size: 11px; color: #555; display: none; }
+
+.special-credits-black { background-color: #111111; color: #ffffff; padding: 70px 20px; text-align: center; margin-top: 60px; }
+.credits-logo-container { margin-bottom: 40px; }
+.credits-logo-container img { 
+    height: 40px; /* Ajusta este número si lo ves muy grande o muy chico */
+    width: auto; 
+    display: block; 
+    margin: 0 auto; 
+    /* Hemos borrado la línea 'filter: brightness(0) invert(1);' para que respete tu PNG blanco */
+}
+.copyright-text { font-family: 'Arial', sans-serif; font-size: 11px; color: #777777; margin-top: 15px; letter-spacing: 0.5px; }
+.credits-main-title { font-family: 'Georgia', 'Times New Roman', serif; font-size: 22px; font-weight: bold; text-transform: uppercase; letter-spacing: 2px; margin-top: 0; margin-bottom: 40px; color: #ffffff; }
+.credit-block { margin-bottom: 25px; display: flex; flex-direction: column; align-items: center; }
+.credit-role { font-family: 'Arial', sans-serif; font-size: 11px; font-weight: bold; text-transform: uppercase; color: #aaaaaa; margin-bottom: 5px; letter-spacing: 1.5px; }
+.credit-name { font-family: 'Georgia', serif; font-size: 18px; color: #ffffff; }
+
+/* =========================================
+   12. MEDIA QUERIES (TABLETS Y MOVILES)
+   ========================================= */
+
+@media (max-width: 850px) {
+    body, html { overflow-x: hidden; }
+    .combo-visual-container { flex-direction: column; align-items: center; gap: 20px; margin: 20px auto; }
+    .columna-mitad { width: 100%; min-width: 100%; }
+    .mapa-impacto-box { height: 350px; }
+    .grafico-wrapper { height: 300px; }
+    .columna-leyenda { flex-direction: row; flex-wrap: wrap; width: 100%; justify-content: center; margin: 10px 0; gap: 8px; }
+    .leyenda-item { flex: 0 0 auto; font-size: 11px; padding: 4px; }
+    .leyenda-color { width: 16px; height: 16px; }
+
+    #mapa-fase3 { height: 350px; margin-bottom: 20px; }
+    .slider-container { padding: 0 10px; box-sizing: border-box; }
+    .custom-slider { width: 95%; }
+    .fase3-title { font-size: 20px; }
+    .fase3-combo { margin-bottom: 10px !important; }
+    .source-fase3 { margin-top: 95px !important; margin-bottom: -40px; }
+}
+
+@media (max-width: 768px) {
+    .headline { font-size: 40px; letter-spacing: -0.5px; line-height: 1.1; margin-top: 20px;}
+    .subheadline { font-size: 24px; margin-bottom: 20px; }
+    .intro-text { font-size: 16px; }
+    .story-text p { font-size: 16px; }
+    .special-header { margin-top: 30px; }
+    
+    .viz-container { height: 620px; min-height: 620px; margin: 20px 0 30px 0; }
+    .controls-container { top: 10px; left: 50%; transform: translateX(-50%) scale(0.70); transform-origin: center top; width: max-content; }
+    .year-label { top: 50px; left: 50%; transform: translateX(-50%); font-size: 12px; padding: 4px 10px; white-space: nowrap; }
+    
+    .candidate-big { width: 110px; top: auto; bottom: 80px; transform: translateY(0); }
+    .pos-left { left: 0%; } .pos-right { right: 0%; }
+    .candidate-big .photo { width: 65px; height: 65px; margin-bottom: 5px; }
+    .candidate-big .cand-info-container { align-items: center; }
+    .candidate-big .cand-name { font-size: 9px; text-align: center; line-height: 1.1; margin-bottom: 4px; }
+    .candidate-big .cand-party { display: none; }
+    .candidate-big .cand-pct { font-size: 16px; justify-content: center; display: flex; align-items: center; }
+    .candidate-big .dot { width: 12px; height: 12px; border-radius: 2px; margin: 0 5px 0 0; } 
+
+    .bottom-legend-container { gap: 10px; bottom: 35px; width: 100%; flex-wrap: nowrap; justify-content: center; }
+    .candidate-small { padding: 0; background: transparent; flex-direction: column; text-align: center; width: 85px; }
+    .candidate-small .photo { width: 35px; height: 35px; margin: 0 auto 3px auto;}
+    .candidate-small .cand-info-container { align-items: center; text-align: center; }
+    .candidate-small .cand-name { font-size: 8px; margin-bottom: 2px; line-height: 1.1; font-weight: 900;}
+    .candidate-small .cand-party { display: none; }
+    .candidate-small .cand-pct { font-size: 12px; justify-content: center; font-weight: 900;}
+    .candidate-small .dot { display: none; } 
+    
+    .source-fase1 { bottom: 10px; font-size: 10px; }
+    .editor-note-fase1 { bottom: 10px; }
+
+    .pex-globe { width: 45px !important; height: 45px !important; border:1px solid rgba(0, 0, 0, 0.15) !important; margin-bottom: 2px; }
+    .pex-label { font-size: 9px !important; line-height: 1.1; letter-spacing: 0px; }
+    
+    .year-context-note { top: 80px; font-size: 13px; padding: 10px 15px; }
+    
+    .instrucciones-caja { margin: 10px 20px 20px 20px; padding: 12px 15px; }
+    .instrucciones-caja li { font-size: 13px; }
+
+    .special-credits-black { padding: 40px 15px; }
+    .credits-main-title { font-size: 18px; margin-bottom: 30px; }
+    .credit-name { font-size: 16px; }
+    .copyright-text { font-size: 9px; }
+}
+
+/* =========================================
+   13. CAMALEONES POLITICOS (NUEVOS MÓDULOS)
+   ========================================= */
+
+/* 13.1 FASE 1: RANKINGS (PODIOS DINÁMICOS) */
+.ranking-filters-container { text-align: center; margin-bottom: 30px; }
+.ranking-dropdown { padding: 12px 20px; font-size: 14px; font-family: 'Arial', sans-serif; font-weight: bold; border-radius: 4px; border: 2px solid #333; outline: none; cursor: pointer; max-width: 90%; background: #fff; }
+.ranking-dropdown:focus { border-color: #F39C12; }
+
+.rankings-wrapper { 
+    display: grid; 
+    grid-template-columns: repeat(2, 1fr); /* Bajamos de 3 a 2 columnas */
+    gap: 30px; 
+    max-width: 800px; /* Reducimos un poco el ancho máximo para que no se estiren tanto */
+    margin: 0 auto 30px auto; 
+    padding: 0 20px; 
+}
+
+.ranking-column { background: #fdfdfd; border: 1px solid #eaeaea; border-top: 4px solid #111; border-radius: 4px; padding: 20px 15px; display: flex; flex-direction: column; align-items: center; }
+.ranking-header { font-family: 'Georgia', serif; font-size: 18px; font-weight: bold; color: #111; margin-bottom: 25px; text-align: center; border-bottom: 1px solid #ccc; padding-bottom: 10px; width: 100%; line-height: 1.3;}
+.chameleon-top { display: flex; flex-direction: column; align-items: center; margin-bottom: 30px; text-align: center; }
+.chameleon-top .photo { width: 140px; height: 140px; border-radius: 50%; border: 3px solid #E53935; box-shadow: 0 6px 12px rgba(0,0,0,0.1); margin-bottom: 15px; background-size: cover; background-position: center; }
+.chameleon-name { font-weight: 900; font-size: 18px; color: #111; text-transform: uppercase; line-height: 1.1; margin-bottom: 5px;}
+.chameleon-metric { font-size: 14px; font-weight: bold; color: #555; background: #eee; padding: 4px 10px; border-radius: 20px;}
+.chameleon-metric span { color: #E53935; font-size: 18px; font-weight: 900; }
+.chameleon-list { width: 100%; display: flex; flex-direction: column; gap: 15px; }
+.chameleon-item { display: flex; align-items: center; background: #fff; border: 1px solid #eee; padding: 10px; border-radius: 6px; }
+.chameleon-item .pos { font-weight: 900; font-size: 16px; color: #999; margin-right: 12px; min-width: 15px;}
+.chameleon-item .photo { width: 50px; height: 50px; border-radius: 50%; border: 1px solid #ccc; margin-right: 12px; background-size: cover;}
+.chameleon-item .info { display: flex; flex-direction: column; flex: 1;}
+.chameleon-item .info .name { font-weight: bold; font-size: 13px; color: #333; line-height: 1.2; text-transform: uppercase;}
+.chameleon-item .info .metric { font-size: 12px; color: #666; margin-top: 2px;}
+
+/* 13.2 FASE 2: COMPARADOR (DOS COLUMNAS) */
+.comparator-wrapper { display: flex; gap: 30px; max-width: 1100px; margin: 0 auto 30px auto; padding: 0 20px; align-items: flex-start; }
+.comparator-column { flex: 1; display: flex; flex-direction: column; position: relative; min-width: 0; }
+
+.comparator-controls { display: flex; flex-direction: column; gap: 10px; margin-bottom: 15px; background: #fdfdfd; padding: 15px; border: 1px solid #d1d1d1; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.02); }
+.comparator-select { width: 100%; border: 1px solid #ccc; font-weight: normal; padding: 10px; font-size: 14px;}
+.input-group { position: relative; display: flex; align-items: center; width: 100%;}
+.search-icon { position: absolute; left: 12px; color: #666; }
+.comparator-controls input { width: 100%; padding: 12px 15px 12px 35px; border: 1px solid #ccc; border-radius: 4px; font-family: 'Arial', sans-serif; font-size: 14px; color: #333; outline: none; transition: border-color 0.2s; box-sizing: border-box; background: #fff;}
+.comparator-controls input:focus { border-color: #111; }
+
+.preselector-container { background: #fff; border: 1px solid #111; border-radius: 6px; max-height: 350px; overflow-y: auto; margin-bottom: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.1); position: absolute; top: 120px; left: 0; width: 100%; z-index: 100;}
+.preselector-item { display: flex; align-items: center; padding: 12px 15px; border-bottom: 1px solid #eee; cursor: pointer; transition: background 0.2s; }
+.preselector-item:hover { background: #f4f4f4; }
+.preselector-avatar { width: 35px; height: 35px; border-radius: 50%; background: #e0e0e0; margin-right: 15px; display: flex; align-items: center; justify-content: center; color: #fff; font-size: 16px; flex-shrink: 0; border: 1px solid #ccc;}
+.preselector-info { flex: 1; }
+.preselector-name { font-weight: 900; color: #111; font-size: 14px; text-transform: uppercase;}
+.preselector-detail { font-size: 12px; color: #666; margin-top: 2px;}
+.preselector-badge { font-size: 11px; background: #eee; padding: 3px 6px; border-radius: 4px; color: #444; font-weight: bold;}
+
+.results-container { display: flex; flex-direction: column; gap: 20px; }
+.candidate-card { display: flex; flex-direction: column; background: #fff; border: 1px solid #eaeaea; border-top: 5px solid #333; border-radius: 6px; padding: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.06); gap: 20px; }
+.card-header-flex { display: flex; align-items: center; gap: 20px; border-bottom: 1px solid #f0f0f0; padding-bottom: 20px; }
+.avatar-initials { width: 60px; height: 60px; border-radius: 50%; background-color: #eee; color: #333; display: flex; justify-content: center; align-items: center; font-weight: 900; font-size: 24px; flex-shrink: 0; border: 2px solid #fff; box-shadow: 0 2px 5px rgba(0,0,0,0.1);}
+.card-info { flex: 1; }
+.card-name { font-weight: 900; font-size: 20px; color: #111; text-transform: uppercase; margin-bottom: 4px; line-height: 1.1;}
+.card-current-party { font-size: 13px; color: #555; font-weight: bold; text-transform: uppercase; letter-spacing: 0.5px;}
+
+.histories-container { display: flex; flex-direction: column; gap: 20px; }
+.history-section { background: #fafafa; border: 1px dashed #ddd; border-radius: 6px; padding: 20px; }
+.history-title { font-family: 'Georgia', serif; font-size: 14px; font-weight: bold; color: #111; margin-bottom: 20px; text-align: left; border-bottom: 1px solid #ddd; padding-bottom: 8px; }
+
+.jersey-track { display: flex; flex-wrap: wrap; gap: 15px; justify-content: flex-start; }
+.jersey-item { display: flex; flex-direction: column; align-items: center; width: 75px; text-align: center; }
+.jersey-placeholder { width: 60px; height: 80px; background-color: #d9d9d9; border: 1px solid #ccc; border-radius: 4px; margin-bottom: 8px; position: relative; box-shadow: inset 0 -3px 0 rgba(0,0,0,0.05); display: flex; justify-content: center; align-items: center; font-size: 11px; color: #888; text-transform: uppercase; }
+.jersey-year { font-weight: 900; font-size: 12px; color: #111; margin-bottom: 2px; line-height: 1; }
+.jersey-party-name { font-size: 9px; color: #666; line-height: 1.2; font-weight: bold; text-transform: uppercase; }
+.jersey-role { font-size: 9px; color: #999; font-style: italic; margin-top: 3px;}
+
+/* 13.3 FASE 3: HEATMAP NATIVO CSS GRID */
+.heatmap-module { max-width: 900px; margin: 0 auto 40px auto; padding: 0 20px; }
+.heatmap-wrapper { display: flex; flex-wrap: wrap; background: #fff; padding: 20px 10px; border: 1px solid #eaeaea; border-top: 4px solid #111; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.03); }
+
+.heatmap-y-labels { display: flex; flex-direction: column; justify-content: space-around; width: 130px; padding-right: 15px; font-size: 12px; font-weight: bold; color: #555; text-align: right; }
+.heatmap-y-labels span { flex: 1; display: flex; align-items: center; justify-content: flex-end; }
+
+.heatmap-grid-container { flex: 1; display: grid; grid-template-columns: repeat(10, 1fr); grid-template-rows: repeat(5, 1fr); gap: 4px; min-height: 400px; }
+
+.heatmap-x-labels { width: 100%; display: flex; margin-top: 10px; margin-left: 145px; position: relative; padding-bottom: 25px; }
+.heatmap-x-labels span { flex: 1; text-align: center; font-size: 13px; font-weight: bold; color: #555; }
+.x-axis-title { position: absolute; bottom: 0; left: 0; width: 100%; text-align: center; font-size: 11px; text-transform: uppercase; color: #888; letter-spacing: 1px; font-weight: bold;}
+
+.heatmap-cell { border-radius: 4px; display: flex; justify-content: center; align-items: center; font-size: 13px; font-weight: 900; color: transparent; cursor: pointer; transition: transform 0.1s, box-shadow 0.2s; position: relative;}
+.heatmap-cell:hover { transform: scale(1.05); box-shadow: 0 4px 8px rgba(0,0,0,0.15); z-index: 10; color: #fff;}
+
+.heatmap-cell .tooltip { visibility: hidden; position: absolute; bottom: 110%; left: 50%; transform: translateX(-50%); width: 220px; background-color: rgba(17,17,17,0.95); color: #fff; text-align: left; padding: 12px; border-radius: 6px; z-index: 100; font-size: 12px; font-weight: normal; pointer-events: none; opacity: 0; transition: opacity 0.2s; box-shadow: 0 4px 10px rgba(0,0,0,0.2);}
+.heatmap-cell .tooltip strong { color: #F39C12; font-size: 14px; display: block; margin-bottom: 5px; }
+.heatmap-cell:hover .tooltip { visibility: visible; opacity: 1; }
+
+.heat-0 { background-color: #f8f9fa; border: 1px solid #eee; color: #aaa; pointer-events: none;} 
+.heat-1 { background-color: #fde0dc; color: #333;}
+.heat-2 { background-color: #f9a9a3; color: #111;}
+.heat-3 { background-color: #f26f65; color: #fff;}
+.heat-4 { background-color: #e53935; color: #fff;} 
+.heat-5 { background-color: #b71c1c; color: #fff;} 
+
+/* 13.4 FASE 4: TIMELINE 1D */
+.timeline-module { max-width: 1000px; margin: 0 auto 40px auto; padding: 0 20px; }
+.timeline-wrapper { height: 400px; width: 100%; position: relative; background: #fff; border: 1px solid #eee; padding: 15px; border-radius: 6px; box-sizing: border-box; }
+
+/* MEDIA QUERIES NUEVAS */
+@media (max-width: 850px) {
+    .rankings-wrapper { grid-template-columns: 1fr; gap: 40px; }
+    .comparator-wrapper { flex-direction: column; gap: 40px; }
+    .card-header-flex { flex-direction: column; align-items: flex-start; text-align: left; gap: 15px;}
+    .jersey-track { justify-content: center; }
+    .history-title { text-align: center; }
+    
+    .heatmap-y-labels { width: 80px; font-size: 10px; padding-right: 8px; }
+    .heatmap-x-labels { margin-left: 88px; }
+    .heatmap-x-labels span { font-size: 10px; }
+    .heatmap-grid-container { min-height: 300px; gap: 2px;}
+    .heatmap-cell:hover { color: transparent; }
+    .heatmap-cell .tooltip { width: 180px; bottom: 50%; left: 10%; transform: translate(0, 50%); }
+    
+    .timeline-wrapper { height: 350px; padding: 5px; }
+}
+
+
+/* =========================================
+   NUEVO CSS: FILTROS SUCESIVOS COMPARADOR
+   ========================================= */
+.filters-row { display: flex; gap: 10px; width: 100%; }
+.filters-row select { flex: 1; }
+.main-name-select { font-weight: bold; font-size: 15px; color: #111; border-color: #333; }
+.main-name-select:disabled { background-color: #f4f4f4; color: #999; border-color: #ddd; cursor: not-allowed; font-weight: normal; }
+
+/* En móviles, apilamos los filtros pequeños */
+@media (max-width: 600px) {
+    .filters-row { flex-direction: column; gap: 8px; }
+}
+
+/* =========================================
+   DISEÑO DEL UNIFORME CSS (CAMISETA + SHORT)
+   ========================================= */
+.uniform-kit {
+    width: 60px;
+    height: 75px;
+    position: relative;
+    margin-bottom: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* --- LA CAMISETA --- */
+.uniform-shirt {
+    width: 50px;
+    height: 45px;
+    background-color: var(--party-color, #ccc); /* El color dinámico */
+    border-radius: 6px 6px 2px 2px;
+    position: relative;
+    box-shadow: inset 0 -3px 0 rgba(0,0,0,0.15); /* Sombra para dar volumen */
+    z-index: 2;
+}
+
+/* Las mangas (Usando pseudo-elementos ::before y ::after) */
+.uniform-shirt::before, .uniform-shirt::after {
+    content: '';
+    position: absolute;
+    top: 5px;
+    width: 14px;
+    height: 20px;
+    background-color: inherit;
+    border-radius: 4px;
+    z-index: -1;
+}
+.uniform-shirt::before { left: -8px; transform: rotate(25deg); }
+.uniform-shirt::after { right: -8px; transform: rotate(-25deg); }
+
+/* Logo como escudo en la camiseta (Pecho derecho) */
+.logo-shirt {
+    position: absolute;
+    top: 10px;
+    right: 8px; /* Pegado a la derecha */
+    width: 14px;
+    height: 14px;
+    object-fit: contain;
+    z-index: 5;
+    background-color: rgba(255,255,255,0.8); /* Fondo blanco sutil por si el logo se pierde */
+    border-radius: 50%;
+    padding: 1px;
+}
+
+/* --- EL SHORT --- */
+.uniform-shorts {
+    width: 44px;
+    height: 22px;
+    background-color: #ffffff; /* Short blanco */
+    border: 2px solid var(--party-color, #ccc); /* Borde con el color del partido */
+    border-top: none;
+    border-radius: 0 0 6px 6px;
+    position: relative;
+    margin-top: -2px; /* Se mete un poquito bajo la camiseta */
+}
+
+/* Hueco de las piernas */
+.uniform-shorts::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 6px;
+    height: 10px;
+    background-color: #fafafa; /* Debe ser del mismo color que tu fondo .history-section */
+    border-radius: 4px 4px 0 0;
+}
+
+/* Logo en el short (Pierna izquierda visual) */
+.logo-shorts {
+    position: absolute;
+    bottom: 4px;
+    left: 4px; /* Pegado a la izquierda */
+    width: 10px;
+    height: 10px;
+    object-fit: contain;
+    z-index: 5;
+}
+
+/* =========================================
+   SELECTORES PERSONALIZADOS (CON LOGOS)
+   ========================================= */
+.custom-select-wrapper {
+    position: relative;
+    width: 100%;
+    user-select: none;
+    font-family: inherit;
+}
+.custom-select-trigger {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 15px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 14px;
+    color: #333;
+    min-height: 42px;
+}
+.custom-select-trigger .c-text { display: flex; align-items: center; font-weight: 500;}
+.custom-select-trigger .c-arrow { font-size: 10px; color: #888; }
+.c-logo {
+    width: 22px; height: 22px; object-fit: contain; margin-right: 10px;
+}
+.c-icon-placeholder {
+    width: 22px; height: 22px; margin-right: 10px; background: #f0f0f0; 
+    border-radius: 50%; display: flex; align-items: center; 
+    justify-content: center; font-size: 11px;
+}
+.custom-select-options {
+    position: absolute; top: 100%; left: 0; right: 0; margin-top: 5px;
+    background-color: #fff; border: 1px solid #ddd; border-radius: 6px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15); z-index: 999;
+    max-height: 250px; overflow-y: auto; display: none;
+}
+.custom-select-options.open { display: block; }
+.custom-option {
+    display: flex; align-items: center; padding: 10px 15px;
+    cursor: pointer; font-size: 14px; border-bottom: 1px solid #f9f9f9;
+    transition: background 0.2s;
+}
+.custom-option:hover { background-color: #f1f1f1; }
+
+/* =========================================
+   RANKING DE PERDEDORES (HORIZONTAL)
+   ========================================= */
+.losers-section {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #fbfbfb;
+    border-radius: 12px;
+    border: 1px solid #eaeaea;
+}
+
+.losers-header {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.losers-title {
+    font-family: 'Georgia', serif;
+    font-size: 26px;
+    color: #111;
+    margin: 0 0 5px 0;
+}
+
+.losers-subtitle {
+    font-size: 14px;
+    color: #666;
+    margin: 0;
+}
+
+/* Contenedor flexible horizontal */
+.losers-container {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    gap: 15px;
+    overflow-x: auto; /* Permite scroll en celulares */
+    padding-bottom: 10px;
+}
+
+/* Tarjeta individual */
+.loser-card {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 15px 10px;
+    width: 140px; /* Ancho fijo para que todas sean iguales */
+    min-width: 140px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.03);
+}
+
+/* El circulito de su partido actual */
+/* El circulito de su partido actual */
+.loser-party-circle {
+    width: 26px; /* Agrandado para que el logo respire */
+    height: 26px; /* Agrandado para que el logo respire */
+    border-radius: 50%;
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    border: 2px solid #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.15); /* Sombra un poco más fuerte para que resalte */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden; /* Asegura que la imagen no se salga de la bolita */
+    z-index: 2;
+}
+/* Rostros idénticos */
+.loser-avatar {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    object-fit: cover;
+    filter: grayscale(100%);
+    margin-bottom: 12px;
+    background-color: #f0f0f0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.loser-name {
+    font-size: 13px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 6px;
+    line-height: 1.2;
+}
+
+.loser-stats {
+    font-size: 12px;
+    color: #c0392b; /* Rojo oscuro para resaltar la derrota */
+    font-weight: bold;
+    background: #fdf2f2;
+    padding: 4px 8px;
+    border-radius: 4px;
+}
+
+/* =========================================
+   IMAGEN DE PORTADA (100% ANCHO)
+   ========================================= */
+.mega-nota-container {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Evita que aparezca scroll horizontal si hay algún desborde */
+}
+
+.mega-nota-img {
+    width: 100%;
+    height: auto;
+    display: block; /* Elimina el pequeño margen invisible que dejan las imágenes por defecto */
+    object-fit: cover; /* Asegura que la imagen mantenga su proporción sin deformarse */
+}
+
+
+/* =========================================
+   CORRECCIÓN CARRUSEL PERDEDORES (CELULARES)
+   ========================================= */
+@media (max-width: 850px) {
+    /* 1. Arregla el corte a la mitad y le da fluidez al deslizar */
+    .losers-container {
+        justify-content: flex-start !important; /* Evita que el primer elemento se salga de la pantalla */
+        padding: 10px 20px 20px 20px !important;
+        scroll-snap-type: x mandatory; /* Scroll con efecto "imán" tipo app nativa */
+        -webkit-overflow-scrolling: touch; /* Deslizamiento ultra suave en iPhones */
+    }
+
+    /* 2. Hace que cada tarjeta no se aplaste y encaje en la pantalla */
+    .loser-card {
+        scroll-snap-align: center;
+        flex-shrink: 0;
+    }
+
+    /* 3. Añade la instrucción mágica solo en celulares */
+    .losers-subtitle::after {
+        content: "👉 Desliza hacia la derecha para ver los demás candidatos.";
+        display: block;
+        margin-top: 12px;
+        font-weight: 900;
+        color: #111; /* Color oscuro que combina con tu diseño */
+        font-size: 13px;
+    }
+}
+
+/* =========================================
+   INYECCIÓN DE IVY JOURNAL A TODOS LOS TÍTULOS
+   ========================================= */
+.headline, 
+.subheadline, 
+.anio-titulo, 
+.ranking-header,
+.history-title, 
+.losers-title, 
+.fase3-title, 
+.credits-main-title,
+.story-text h2, 
+.credit-name {
+    font-family: 'IvyJournal', 'Georgia', serif !important;
+}
+
+.story-text p i{
+	font-style: italic;
+}
+
+.instrucciones-caja
+li strong {
+    color:#111;
+    font-weight: 900;
+}
+.cover-placeholder{background:#111;color:#fff;min-height:230px;display:flex;flex-direction:column;justify-content:center;align-items:center;padding:32px 20px;box-sizing:border-box}.cover-placeholder span{font:bold 18px Arial;letter-spacing:3px}.cover-placeholder p{font:bold 66px Georgia;margin:14px 0}.kicker{font:bold 26px Arial;letter-spacing:-1px}.heatmap-grid-container{grid-template-rows:repeat(5,1fr);min-height:420px}.timeline-wrapper{height:auto;min-height:350px}.timeline-plot{width:100%;height:340px;display:block}.timeline-caption{font:12px Arial;color:#666;text-align:center;padding:8px}.ranking-filters-container{display:flex;flex-wrap:wrap;justify-content:center;gap:12px}.ranking-dropdown{max-width:100%}.heatmap-cell{min-height:58px}.jersey-placeholder .uniform-kit{transform:scale(.65);transform-origin:top center;margin:0 auto}.jersey-item .jersey-party-name{font-size:10px;min-height:24px}.jersey-item .jersey-role{font-size:9px}.heatmap-y-labels{width:110px}.heatmap-x-labels{margin-left:125px}.custom-select-options{z-index:1000}.custom-select-trigger .c-text{min-width:0;white-space:normal}#timeline-chart{width:100%}@media(max-width:600px){.cover-placeholder p{font-size:46px}.headline{font-size:48px}.subheadline{font-size:30px}.heatmap-y-labels{width:64px;padding-right:8px}.heatmap-x-labels{margin-left:72px}.heatmap-cell{font-size:11px;min-height:46px}.timeline-plot{height:320px}.social-share-container{margin-bottom:20px}}
+
+.fichajes-subtitle{font-family:Georgia,serif;font-size:24px;line-height:1.3;text-align:center;max-width:750px;margin:8px auto 22px;padding:0 20px;color:#333}.fichajes-intro{max-width:700px;margin:0 auto 28px;padding:0 20px;font-size:17px;line-height:1.6;color:#555}.fichajes-controls,.fichajes-module{max-width:900px;margin:0 auto 28px;padding:0 20px;box-sizing:border-box}.fichajes-dates,.fichajes-windows{display:flex;flex-wrap:wrap;justify-content:center;gap:8px;margin-bottom:14px}.fichajes-controls button{font:600 14px Arial;color:#333;background:#fff;border:1px solid #ccc;border-radius:5px;padding:12px 18px;min-height:44px;cursor:pointer}.fichajes-controls button[aria-pressed=true]{background:#111;color:#fff;border-color:#111}.fichajes-controls button:hover{border-color:#111}.fichajes-controls button:focus-visible{outline:3px solid #f39c12;outline-offset:3px}.fichajes-heading{display:flex;justify-content:space-between;gap:16px;font-size:12px;font-weight:bold;letter-spacing:.5px;text-transform:uppercase;color:#777;border-bottom:1px solid #ddd;padding:12px 0}.fichajes-row{display:grid;grid-template-columns:28px minmax(0,1fr) 46px;align-items:center;column-gap:12px;padding:15px 0;border-bottom:1px solid #eee}.fichajes-position{font-weight:700;color:#aaa;font-size:18px}.fichajes-party{font-size:14px;font-weight:700;color:#222;overflow-wrap:anywhere;line-height:1.3;margin-bottom:8px}.fichajes-track{height:9px;background:#f1f1f1;border-radius:2px;overflow:hidden}.fichajes-fill{height:100%;background:#e53935;transition:width .2s}.fichajes-count{text-align:right;font-size:24px;font-weight:700;color:#111;font-variant-numeric:tabular-nums}.fichajes-caption{text-align:center;font-size:12px;color:#777;line-height:1.5;padding-top:16px}.fichajes-empty{padding:36px 20px;text-align:center;color:#777;border-bottom:1px solid #eee}@media(max-width:600px){.fichajes-subtitle{font-size:21px}.fichajes-controls button{padding:10px 12px}.fichajes-windows{display:grid;grid-template-columns:1fr 1fr}.fichajes-party{font-size:12px}.fichajes-row{column-gap:8px}.fichajes-count{font-size:21px}}@media(prefers-reduced-motion:reduce){.fichajes-fill{transition:none}}
+
+.fichajes-party {display:flex;align-items:center;gap:10px;}
+.fichajes-logo {width:32px;height:32px;object-fit:contain;flex-shrink:0;background:#fff;}
+
+/* Cargo y jurisdicción de los candidatos y alineación de sus tarjetas. */
+.candidate-postulation {font:11px/1.4 Arial,sans-serif;color:#666;margin:5px 0 8px;overflow-wrap:anywhere;}
+.chameleon-top {min-height:0;}
+.chameleon-top .chameleon-metric {margin-top:6px;}
+.chameleon-item .photo {flex-shrink:0;}
+.chameleon-item .info,.candidate-card .card-info {min-width:0;}
+.loser-card .candidate-postulation {max-width:100%;}
+.candidate-card .histories-container,.candidate-card .history-section {width:100%;min-width:0;box-sizing:border-box;}
+.candidate-card .history-section {margin-top:0;}
+.candidate-card .jersey-track {justify-content:center;align-items:flex-start;box-sizing:border-box;gap:16px;}
+.candidate-card .jersey-item {width:82px;flex:0 0 82px;}
+.candidate-card .jersey-placeholder {width:76px;height:82px;display:flex;align-items:center;justify-content:center;background:transparent;border:0;box-shadow:none;margin-bottom:8px;}
+.candidate-card .jersey-placeholder .uniform-kit {transform:none;margin:0;width:60px;height:75px;justify-content:flex-start;}
+.candidate-card .uniform-shirt .logo-shirt {left:50%;top:50%;right:auto;transform:translate(-50%,-50%);width:24px;height:24px;object-fit:contain;box-sizing:border-box;background:#fff;border-radius:4px;padding:2px;}
+.candidate-card .jersey-party-name {min-height:26px;}
+@media(max-width:600px){.candidate-card {padding:18px;}.candidate-card .history-section {padding:14px;}.candidate-card .card-header-flex {gap:12px;}.candidate-card .card-name {font-size:17px;}}
+
+/* V9: jerarquía editorial y pistas compartidas para alinear cada puesto. */
+.special-header .subheadline {font-size:32px;line-height:1.25;max-width:850px;margin:0 auto 24px;}
+.publication-author {margin-top:6px;}
+#rankings-wrapper .chameleon-top {min-height:0;box-sizing:border-box;width:100%;margin-bottom:0;}
+#rankings-wrapper .chameleon-top .chameleon-metric {margin-top:6px;}
+@media(min-width:851px){
+    #rankings-wrapper.rankings-wrapper {grid-template-rows:repeat(6,auto);row-gap:15px !important;}
+    #rankings-wrapper > .ranking-column {display:grid;grid-template-rows:subgrid;grid-row:1 / span 6;align-items:stretch;min-width:0;}
+    #rankings-wrapper > .ranking-column:nth-child(1) {grid-column:1;}
+    #rankings-wrapper > .ranking-column:nth-child(2) {grid-column:2;}
+    #rankings-wrapper .chameleon-list {display:contents;}
+    #rankings-wrapper .ranking-header {margin-bottom:0;}
+    #rankings-wrapper .chameleon-item {box-sizing:border-box;width:100%;}
+}
+@media(max-width:850px){#rankings-wrapper .chameleon-top {margin-bottom:15px;}}
+@media(max-width:600px){.special-header .subheadline {font-size:25px;}}
+
+/* Ranking de experiencia electoral: comparte las tarjetas y el carrusel. */
+.postulations-stats { color: #245779; background: #edf4f8; }
+
+/* Rankings horizontales y nota metodológica. */
+.party-ranking-avatar { filter: none; object-fit: contain; background: #fff; }
+.loser-avatar[hidden] { display: none; }
+.legal-note { max-width: 900px; margin: 12px auto 24px; padding: 0 20px; text-align: left; line-height: 1.6; box-sizing: border-box; }
+.legal-note a { color: inherit; text-decoration: underline; }

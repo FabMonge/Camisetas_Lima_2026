@@ -1,0 +1,12 @@
+{
+  "universo": 8469,
+  "candidatos": {
+    "descargada": 8463,
+    "no_publicada_404": 6
+  },
+  "partidos": {
+    "descargada": 42,
+    "sin_correspondencia": 1,
+    "error": 1
+  }
+}

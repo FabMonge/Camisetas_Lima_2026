@@ -1,0 +1,3106 @@
+[
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "ACCION POPULAR",
+    "totalCandidatos": 487,
+    "afiliacionesValidas": 181,
+    "coberturaPct": 37.17,
+    "antiguedadPromedioDias": 4670.87,
+    "antiguedadPromedioAnios": 12.7884,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 303,
+      "valido": 181,
+      "afiliacion_posterior_al_corte": 3
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "AHORA NACION - AN",
+    "totalCandidatos": 371,
+    "afiliacionesValidas": 32,
+    "coberturaPct": 8.63,
+    "antiguedadPromedioDias": 417.94,
+    "antiguedadPromedioAnios": 1.1443,
+    "estadosDatos": {
+      "valido": 32,
+      "sin_afiliacion_vigente_al_partido_actual": 294,
+      "afiliacion_posterior_al_corte": 45
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "ALIANZA ELECTORAL VENCEREMOS",
+    "totalCandidatos": 75,
+    "afiliacionesValidas": 0,
+    "coberturaPct": 0.0,
+    "antiguedadPromedioDias": null,
+    "antiguedadPromedioAnios": null,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 74,
+      "afiliacion_posterior_al_corte": 1
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "ALIANZA PARA EL PROGRESO",
+    "totalCandidatos": 367,
+    "afiliacionesValidas": 120,
+    "coberturaPct": 32.7,
+    "antiguedadPromedioDias": 1753.56,
+    "antiguedadPromedioAnios": 4.8011,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 235,
+      "valido": 120,
+      "afiliacion_posterior_al_corte": 12
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 1,
+        "pctSobreTotalCandidatos": 0.27,
+        "pctSobreAfiliacionesValidas": 0.83
+      },
+      "ultimos30Dias": {
+        "cantidad": 4,
+        "pctSobreTotalCandidatos": 1.09,
+        "pctSobreAfiliacionesValidas": 3.33
+      },
+      "ultimos6Meses": {
+        "cantidad": 7,
+        "pctSobreTotalCandidatos": 1.91,
+        "pctSobreAfiliacionesValidas": 5.83
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "ALIANZA REGIONAL POR EL PERU",
+    "totalCandidatos": 75,
+    "afiliacionesValidas": 0,
+    "coberturaPct": 0.0,
+    "antiguedadPromedioDias": null,
+    "antiguedadPromedioAnios": null,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 75
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+    "totalCandidatos": 536,
+    "afiliacionesValidas": 77,
+    "coberturaPct": 14.37,
+    "antiguedadPromedioDias": 1046.06,
+    "antiguedadPromedioAnios": 2.864,
+    "estadosDatos": {
+      "afiliacion_posterior_al_corte": 77,
+      "valido": 77,
+      "sin_afiliacion_vigente_al_partido_actual": 382
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 1,
+        "pctSobreTotalCandidatos": 0.19,
+        "pctSobreAfiliacionesValidas": 1.3
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "BATALLA PERU",
+    "totalCandidatos": 65,
+    "afiliacionesValidas": 0,
+    "coberturaPct": 0.0,
+    "antiguedadPromedioDias": null,
+    "antiguedadPromedioAnios": null,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 57,
+      "afiliacion_posterior_al_corte": 8
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "COALICION TRANSFORMADORA TIERRA VERDE",
+    "totalCandidatos": 73,
+    "afiliacionesValidas": 12,
+    "coberturaPct": 16.44,
+    "antiguedadPromedioDias": 524.83,
+    "antiguedadPromedioAnios": 1.4369,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 61,
+      "valido": 12
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "COOPERACION, VERDAD Y HONRADEZ",
+    "totalCandidatos": 114,
+    "afiliacionesValidas": 0,
+    "coberturaPct": 0.0,
+    "antiguedadPromedioDias": null,
+    "antiguedadPromedioAnios": null,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 114
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "FE EN EL PERU",
+    "totalCandidatos": 130,
+    "afiliacionesValidas": 21,
+    "coberturaPct": 16.15,
+    "antiguedadPromedioDias": 825.33,
+    "antiguedadPromedioAnios": 2.2597,
+    "estadosDatos": {
+      "afiliacion_posterior_al_corte": 6,
+      "sin_afiliacion_vigente_al_partido_actual": 103,
+      "valido": 21
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "FRENTE POPULAR AGRICOLA FIA DEL PERU",
+    "totalCandidatos": 230,
+    "afiliacionesValidas": 107,
+    "coberturaPct": 46.52,
+    "antiguedadPromedioDias": 1226.99,
+    "antiguedadPromedioAnios": 3.3594,
+    "estadosDatos": {
+      "valido": 107,
+      "sin_afiliacion_vigente_al_partido_actual": 120,
+      "afiliacion_posterior_al_corte": 3
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "FUERZA CIUDADANA",
+    "totalCandidatos": 50,
+    "afiliacionesValidas": 3,
+    "coberturaPct": 6.0,
+    "antiguedadPromedioDias": 200.0,
+    "antiguedadPromedioAnios": 0.5476,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 47,
+      "valido": 3
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "FUERZA POPULAR",
+    "totalCandidatos": 279,
+    "afiliacionesValidas": 80,
+    "coberturaPct": 28.67,
+    "antiguedadPromedioDias": 1644.25,
+    "antiguedadPromedioAnios": 4.5018,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 191,
+      "valido": 80,
+      "afiliacion_posterior_al_corte": 8
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "JUNTOS POR EL PERU",
+    "totalCandidatos": 254,
+    "afiliacionesValidas": 73,
+    "coberturaPct": 28.74,
+    "antiguedadPromedioDias": 1470.86,
+    "antiguedadPromedioAnios": 4.0271,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 179,
+      "valido": 73,
+      "afiliacion_posterior_al_corte": 2
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "LIBERTAD POPULAR",
+    "totalCandidatos": 74,
+    "afiliacionesValidas": 8,
+    "coberturaPct": 10.81,
+    "antiguedadPromedioDias": 362.38,
+    "antiguedadPromedioAnios": 0.9921,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 62,
+      "valido": 8,
+      "afiliacion_posterior_al_corte": 4
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 2,
+        "pctSobreTotalCandidatos": 2.7,
+        "pctSobreAfiliacionesValidas": 25.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 2,
+        "pctSobreTotalCandidatos": 2.7,
+        "pctSobreAfiliacionesValidas": 25.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 2,
+        "pctSobreTotalCandidatos": 2.7,
+        "pctSobreAfiliacionesValidas": 25.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "PARTIDO APRISTA PERUANO",
+    "totalCandidatos": 294,
+    "afiliacionesValidas": 103,
+    "coberturaPct": 35.03,
+    "antiguedadPromedioDias": 1009.42,
+    "antiguedadPromedioAnios": 2.7637,
+    "estadosDatos": {
+      "valido": 103,
+      "sin_afiliacion_vigente_al_partido_actual": 184,
+      "afiliacion_posterior_al_corte": 7
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "PARTIDO CIVICO OBRAS",
+    "totalCandidatos": 282,
+    "afiliacionesValidas": 37,
+    "coberturaPct": 13.12,
+    "antiguedadPromedioDias": 594.22,
+    "antiguedadPromedioAnios": 1.6269,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 225,
+      "afiliacion_posterior_al_corte": 20,
+      "valido": 37
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "PARTIDO DE LOS TRABAJADORES Y EMPRENDEDORES PTE PERU - COMUNIDAD POLITICA INKA PERU",
+    "totalCandidatos": 40,
+    "afiliacionesValidas": 0,
+    "coberturaPct": 0.0,
+    "antiguedadPromedioDias": null,
+    "antiguedadPromedioAnios": null,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 40
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "PARTIDO DEL BUEN GOBIERNO",
+    "totalCandidatos": 183,
+    "afiliacionesValidas": 30,
+    "coberturaPct": 16.39,
+    "antiguedadPromedioDias": 507.47,
+    "antiguedadPromedioAnios": 1.3894,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 151,
+      "valido": 30,
+      "afiliacion_posterior_al_corte": 2
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "PARTIDO DEMOCRATA UNIDO PERU",
+    "totalCandidatos": 79,
+    "afiliacionesValidas": 10,
+    "coberturaPct": 12.66,
+    "antiguedadPromedioDias": 741.2,
+    "antiguedadPromedioAnios": 2.0293,
+    "estadosDatos": {
+      "valido": 10,
+      "sin_afiliacion_vigente_al_partido_actual": 65,
+      "afiliacion_posterior_al_corte": 4
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 2,
+        "pctSobreTotalCandidatos": 2.53,
+        "pctSobreAfiliacionesValidas": 20.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 2,
+        "pctSobreTotalCandidatos": 2.53,
+        "pctSobreAfiliacionesValidas": 20.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 3,
+        "pctSobreTotalCandidatos": 3.8,
+        "pctSobreAfiliacionesValidas": 30.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "PARTIDO DEMOCRATA VERDE",
+    "totalCandidatos": 182,
+    "afiliacionesValidas": 38,
+    "coberturaPct": 20.88,
+    "antiguedadPromedioDias": 1084.74,
+    "antiguedadPromedioAnios": 2.9699,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 144,
+      "valido": 38
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "PARTIDO DEMOCRATICO SOMOS PERU",
+    "totalCandidatos": 558,
+    "afiliacionesValidas": 234,
+    "coberturaPct": 41.94,
+    "antiguedadPromedioDias": 1910.47,
+    "antiguedadPromedioAnios": 5.2307,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 301,
+      "valido": 234,
+      "afiliacion_posterior_al_corte": 23
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+    "totalCandidatos": 221,
+    "afiliacionesValidas": 75,
+    "coberturaPct": 33.94,
+    "antiguedadPromedioDias": 995.48,
+    "antiguedadPromedioAnios": 2.7255,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 141,
+      "valido": 75,
+      "afiliacion_posterior_al_corte": 5
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "PARTIDO MORADO",
+    "totalCandidatos": 224,
+    "afiliacionesValidas": 54,
+    "coberturaPct": 24.11,
+    "antiguedadPromedioDias": 1355.35,
+    "antiguedadPromedioAnios": 3.7108,
+    "estadosDatos": {
+      "valido": 54,
+      "sin_afiliacion_vigente_al_partido_actual": 165,
+      "afiliacion_posterior_al_corte": 5
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "PARTIDO PAIS PARA TODOS",
+    "totalCandidatos": 233,
+    "afiliacionesValidas": 16,
+    "coberturaPct": 6.87,
+    "antiguedadPromedioDias": 516.19,
+    "antiguedadPromedioAnios": 1.4133,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 203,
+      "afiliacion_posterior_al_corte": 14,
+      "valido": 16
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "PARTIDO PATRIOTICO DEL PERU",
+    "totalCandidatos": 140,
+    "afiliacionesValidas": 21,
+    "coberturaPct": 15.0,
+    "antiguedadPromedioDias": 666.57,
+    "antiguedadPromedioAnios": 1.825,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 116,
+      "valido": 21,
+      "afiliacion_posterior_al_corte": 3
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "PARTIDO POLITICO ADP",
+    "totalCandidatos": 41,
+    "afiliacionesValidas": 5,
+    "coberturaPct": 12.2,
+    "antiguedadPromedioDias": 457.8,
+    "antiguedadPromedioAnios": 1.2534,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 36,
+      "valido": 5
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "PARTIDO POLITICO INTEGRIDAD DEMOCRATICA",
+    "totalCandidatos": 56,
+    "afiliacionesValidas": 2,
+    "coberturaPct": 3.57,
+    "antiguedadPromedioDias": 497.0,
+    "antiguedadPromedioAnios": 1.3607,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 53,
+      "afiliacion_posterior_al_corte": 1,
+      "valido": 2
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+    "totalCandidatos": 95,
+    "afiliacionesValidas": 41,
+    "coberturaPct": 43.16,
+    "antiguedadPromedioDias": 1362.05,
+    "antiguedadPromedioAnios": 3.7292,
+    "estadosDatos": {
+      "valido": 41,
+      "sin_afiliacion_vigente_al_partido_actual": 54
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "PARTIDO POLITICO PERU ACCION",
+    "totalCandidatos": 17,
+    "afiliacionesValidas": 2,
+    "coberturaPct": 11.76,
+    "antiguedadPromedioDias": 365.0,
+    "antiguedadPromedioAnios": 0.9993,
+    "estadosDatos": {
+      "valido": 2,
+      "sin_afiliacion_vigente_al_partido_actual": 15
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "PARTIDO POLITICO PERU PRIMERO",
+    "totalCandidatos": 225,
+    "afiliacionesValidas": 31,
+    "coberturaPct": 13.78,
+    "antiguedadPromedioDias": 522.94,
+    "antiguedadPromedioAnios": 1.4317,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 180,
+      "valido": 31,
+      "afiliacion_posterior_al_corte": 14
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 2,
+        "pctSobreTotalCandidatos": 0.89,
+        "pctSobreAfiliacionesValidas": 6.45
+      },
+      "ultimos6Meses": {
+        "cantidad": 2,
+        "pctSobreTotalCandidatos": 0.89,
+        "pctSobreAfiliacionesValidas": 6.45
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "PARTIDO POLITICO PRIN",
+    "totalCandidatos": 127,
+    "afiliacionesValidas": 18,
+    "coberturaPct": 14.17,
+    "antiguedadPromedioDias": 702.39,
+    "antiguedadPromedioAnios": 1.9231,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 103,
+      "afiliacion_posterior_al_corte": 6,
+      "valido": 18
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "PARTIDO POLITICO PUEBLO CONSCIENTE",
+    "totalCandidatos": 72,
+    "afiliacionesValidas": 4,
+    "coberturaPct": 5.56,
+    "antiguedadPromedioDias": 369.0,
+    "antiguedadPromedioAnios": 1.0103,
+    "estadosDatos": {
+      "afiliacion_posterior_al_corte": 1,
+      "sin_afiliacion_vigente_al_partido_actual": 67,
+      "valido": 4
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "PARTIDO POPULAR CRISTIANO - PPC",
+    "totalCandidatos": 457,
+    "afiliacionesValidas": 125,
+    "coberturaPct": 27.35,
+    "antiguedadPromedioDias": 573.26,
+    "antiguedadPromedioAnios": 1.5695,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 318,
+      "afiliacion_posterior_al_corte": 14,
+      "valido": 125
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 3,
+        "pctSobreTotalCandidatos": 0.66,
+        "pctSobreAfiliacionesValidas": 2.4
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "PARTIDO SICREO",
+    "totalCandidatos": 75,
+    "afiliacionesValidas": 1,
+    "coberturaPct": 1.33,
+    "antiguedadPromedioDias": 456.0,
+    "antiguedadPromedioAnios": 1.2485,
+    "estadosDatos": {
+      "valido": 1,
+      "sin_afiliacion_vigente_al_partido_actual": 70,
+      "afiliacion_posterior_al_corte": 4
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "PARTIDO UNIDAD Y PAZ",
+    "totalCandidatos": 93,
+    "afiliacionesValidas": 8,
+    "coberturaPct": 8.6,
+    "antiguedadPromedioDias": 417.0,
+    "antiguedadPromedioAnios": 1.1417,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 83,
+      "valido": 8,
+      "afiliacion_posterior_al_corte": 2
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 1,
+        "pctSobreTotalCandidatos": 1.08,
+        "pctSobreAfiliacionesValidas": 12.5
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "PERU MODERNO",
+    "totalCandidatos": 93,
+    "afiliacionesValidas": 23,
+    "coberturaPct": 24.73,
+    "antiguedadPromedioDias": 497.35,
+    "antiguedadPromedioAnios": 1.3617,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 66,
+      "valido": 23,
+      "afiliacion_posterior_al_corte": 4
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "PODEMOS PERU",
+    "totalCandidatos": 461,
+    "afiliacionesValidas": 145,
+    "coberturaPct": 31.45,
+    "antiguedadPromedioDias": 1306.96,
+    "antiguedadPromedioAnios": 3.5783,
+    "estadosDatos": {
+      "valido": 145,
+      "afiliacion_posterior_al_corte": 22,
+      "sin_afiliacion_vigente_al_partido_actual": 294
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 2,
+        "pctSobreTotalCandidatos": 0.43,
+        "pctSobreAfiliacionesValidas": 1.38
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "PRIMERO LA GENTE - COMUNIDAD, ECOLOGIA, LIBERTAD Y PROGRESO",
+    "totalCandidatos": 15,
+    "afiliacionesValidas": 1,
+    "coberturaPct": 6.67,
+    "antiguedadPromedioDias": 365.0,
+    "antiguedadPromedioAnios": 0.9993,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 14,
+      "valido": 1
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "PROGRESEMOS",
+    "totalCandidatos": 244,
+    "afiliacionesValidas": 18,
+    "coberturaPct": 7.38,
+    "antiguedadPromedioDias": 418.5,
+    "antiguedadPromedioAnios": 1.1458,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 216,
+      "valido": 18,
+      "afiliacion_posterior_al_corte": 10
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "RENOVACION POPULAR PERU",
+    "totalCandidatos": 558,
+    "afiliacionesValidas": 188,
+    "coberturaPct": 33.69,
+    "antiguedadPromedioDias": 1369.31,
+    "antiguedadPromedioAnios": 3.7491,
+    "estadosDatos": {
+      "valido": 188,
+      "sin_afiliacion_vigente_al_partido_actual": 348,
+      "afiliacion_posterior_al_corte": 22
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 1,
+        "pctSobreTotalCandidatos": 0.18,
+        "pctSobreAfiliacionesValidas": 0.53
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "SALVEMOS AL PERU",
+    "totalCandidatos": 32,
+    "afiliacionesValidas": 3,
+    "coberturaPct": 9.38,
+    "antiguedadPromedioDias": 440.67,
+    "antiguedadPromedioAnios": 1.2065,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 29,
+      "valido": 3
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "UN CAMINO DIFERENTE",
+    "totalCandidatos": 9,
+    "afiliacionesValidas": 2,
+    "coberturaPct": 22.22,
+    "antiguedadPromedioDias": 409.5,
+    "antiguedadPromedioAnios": 1.1212,
+    "estadosDatos": {
+      "valido": 2,
+      "sin_afiliacion_vigente_al_partido_actual": 7
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2025-10-07",
+    "partido": "VISION PERU",
+    "totalCandidatos": 183,
+    "afiliacionesValidas": 11,
+    "coberturaPct": 6.01,
+    "antiguedadPromedioDias": 479.64,
+    "antiguedadPromedioAnios": 1.3132,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 164,
+      "valido": 11,
+      "afiliacion_posterior_al_corte": 8
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "ACCION POPULAR",
+    "totalCandidatos": 487,
+    "afiliacionesValidas": 184,
+    "coberturaPct": 37.78,
+    "antiguedadPromedioDias": 4685.6,
+    "antiguedadPromedioAnios": 12.8287,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 303,
+      "valido": 184
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 1,
+        "pctSobreTotalCandidatos": 0.21,
+        "pctSobreAfiliacionesValidas": 0.54
+      },
+      "ultimos7Dias": {
+        "cantidad": 1,
+        "pctSobreTotalCandidatos": 0.21,
+        "pctSobreAfiliacionesValidas": 0.54
+      },
+      "ultimos30Dias": {
+        "cantidad": 1,
+        "pctSobreTotalCandidatos": 0.21,
+        "pctSobreAfiliacionesValidas": 0.54
+      },
+      "ultimos6Meses": {
+        "cantidad": 3,
+        "pctSobreTotalCandidatos": 0.62,
+        "pctSobreAfiliacionesValidas": 1.63
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "AHORA NACION - AN",
+    "totalCandidatos": 371,
+    "afiliacionesValidas": 77,
+    "coberturaPct": 20.75,
+    "antiguedadPromedioDias": 219.34,
+    "antiguedadPromedioAnios": 0.6005,
+    "estadosDatos": {
+      "valido": 77,
+      "sin_afiliacion_vigente_al_partido_actual": 294
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 6,
+        "pctSobreTotalCandidatos": 1.62,
+        "pctSobreAfiliacionesValidas": 7.79
+      },
+      "ultimos7Dias": {
+        "cantidad": 27,
+        "pctSobreTotalCandidatos": 7.28,
+        "pctSobreAfiliacionesValidas": 35.06
+      },
+      "ultimos30Dias": {
+        "cantidad": 40,
+        "pctSobreTotalCandidatos": 10.78,
+        "pctSobreAfiliacionesValidas": 51.95
+      },
+      "ultimos6Meses": {
+        "cantidad": 45,
+        "pctSobreTotalCandidatos": 12.13,
+        "pctSobreAfiliacionesValidas": 58.44
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "ALIANZA ELECTORAL VENCEREMOS",
+    "totalCandidatos": 75,
+    "afiliacionesValidas": 0,
+    "coberturaPct": 0.0,
+    "antiguedadPromedioDias": null,
+    "antiguedadPromedioAnios": null,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 74,
+      "afiliacion_posterior_al_corte": 1
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "ALIANZA PARA EL PROGRESO",
+    "totalCandidatos": 367,
+    "afiliacionesValidas": 132,
+    "coberturaPct": 35.97,
+    "antiguedadPromedioDias": 1679.06,
+    "antiguedadPromedioAnios": 4.5971,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 235,
+      "valido": 132
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 5,
+        "pctSobreTotalCandidatos": 1.36,
+        "pctSobreAfiliacionesValidas": 3.79
+      },
+      "ultimos7Dias": {
+        "cantidad": 9,
+        "pctSobreTotalCandidatos": 2.45,
+        "pctSobreAfiliacionesValidas": 6.82
+      },
+      "ultimos30Dias": {
+        "cantidad": 9,
+        "pctSobreTotalCandidatos": 2.45,
+        "pctSobreAfiliacionesValidas": 6.82
+      },
+      "ultimos6Meses": {
+        "cantidad": 19,
+        "pctSobreTotalCandidatos": 5.18,
+        "pctSobreAfiliacionesValidas": 14.39
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "ALIANZA REGIONAL POR EL PERU",
+    "totalCandidatos": 75,
+    "afiliacionesValidas": 0,
+    "coberturaPct": 0.0,
+    "antiguedadPromedioDias": null,
+    "antiguedadPromedioAnios": null,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 75
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+    "totalCandidatos": 536,
+    "afiliacionesValidas": 154,
+    "coberturaPct": 28.73,
+    "antiguedadPromedioDias": 569.08,
+    "antiguedadPromedioAnios": 1.5581,
+    "estadosDatos": {
+      "valido": 154,
+      "sin_afiliacion_vigente_al_partido_actual": 382
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 70,
+        "pctSobreTotalCandidatos": 13.06,
+        "pctSobreAfiliacionesValidas": 45.45
+      },
+      "ultimos7Dias": {
+        "cantidad": 77,
+        "pctSobreTotalCandidatos": 14.37,
+        "pctSobreAfiliacionesValidas": 50.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 77,
+        "pctSobreTotalCandidatos": 14.37,
+        "pctSobreAfiliacionesValidas": 50.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 78,
+        "pctSobreTotalCandidatos": 14.55,
+        "pctSobreAfiliacionesValidas": 50.65
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "BATALLA PERU",
+    "totalCandidatos": 65,
+    "afiliacionesValidas": 8,
+    "coberturaPct": 12.31,
+    "antiguedadPromedioDias": 0.0,
+    "antiguedadPromedioAnios": 0.0,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 57,
+      "valido": 8
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 8,
+        "pctSobreTotalCandidatos": 12.31,
+        "pctSobreAfiliacionesValidas": 100.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 8,
+        "pctSobreTotalCandidatos": 12.31,
+        "pctSobreAfiliacionesValidas": 100.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 8,
+        "pctSobreTotalCandidatos": 12.31,
+        "pctSobreAfiliacionesValidas": 100.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 8,
+        "pctSobreTotalCandidatos": 12.31,
+        "pctSobreAfiliacionesValidas": 100.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "COALICION TRANSFORMADORA TIERRA VERDE",
+    "totalCandidatos": 73,
+    "afiliacionesValidas": 12,
+    "coberturaPct": 16.44,
+    "antiguedadPromedioDias": 616.83,
+    "antiguedadPromedioAnios": 1.6888,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 61,
+      "valido": 12
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "COOPERACION, VERDAD Y HONRADEZ",
+    "totalCandidatos": 114,
+    "afiliacionesValidas": 0,
+    "coberturaPct": 0.0,
+    "antiguedadPromedioDias": null,
+    "antiguedadPromedioAnios": null,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 114
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "FE EN EL PERU",
+    "totalCandidatos": 130,
+    "afiliacionesValidas": 27,
+    "coberturaPct": 20.77,
+    "antiguedadPromedioDias": 713.48,
+    "antiguedadPromedioAnios": 1.9534,
+    "estadosDatos": {
+      "valido": 27,
+      "sin_afiliacion_vigente_al_partido_actual": 103
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 6,
+        "pctSobreTotalCandidatos": 4.62,
+        "pctSobreAfiliacionesValidas": 22.22
+      },
+      "ultimos7Dias": {
+        "cantidad": 6,
+        "pctSobreTotalCandidatos": 4.62,
+        "pctSobreAfiliacionesValidas": 22.22
+      },
+      "ultimos30Dias": {
+        "cantidad": 6,
+        "pctSobreTotalCandidatos": 4.62,
+        "pctSobreAfiliacionesValidas": 22.22
+      },
+      "ultimos6Meses": {
+        "cantidad": 6,
+        "pctSobreTotalCandidatos": 4.62,
+        "pctSobreAfiliacionesValidas": 22.22
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "FRENTE POPULAR AGRICOLA FIA DEL PERU",
+    "totalCandidatos": 230,
+    "afiliacionesValidas": 110,
+    "coberturaPct": 47.83,
+    "antiguedadPromedioDias": 1283.65,
+    "antiguedadPromedioAnios": 3.5145,
+    "estadosDatos": {
+      "valido": 110,
+      "sin_afiliacion_vigente_al_partido_actual": 120
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 1,
+        "pctSobreTotalCandidatos": 0.43,
+        "pctSobreAfiliacionesValidas": 0.91
+      },
+      "ultimos7Dias": {
+        "cantidad": 1,
+        "pctSobreTotalCandidatos": 0.43,
+        "pctSobreAfiliacionesValidas": 0.91
+      },
+      "ultimos30Dias": {
+        "cantidad": 1,
+        "pctSobreTotalCandidatos": 0.43,
+        "pctSobreAfiliacionesValidas": 0.91
+      },
+      "ultimos6Meses": {
+        "cantidad": 3,
+        "pctSobreTotalCandidatos": 1.3,
+        "pctSobreAfiliacionesValidas": 2.73
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "FUERZA CIUDADANA",
+    "totalCandidatos": 50,
+    "afiliacionesValidas": 3,
+    "coberturaPct": 6.0,
+    "antiguedadPromedioDias": 292.0,
+    "antiguedadPromedioAnios": 0.7995,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 47,
+      "valido": 3
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "FUERZA POPULAR",
+    "totalCandidatos": 279,
+    "afiliacionesValidas": 88,
+    "coberturaPct": 31.54,
+    "antiguedadPromedioDias": 1578.81,
+    "antiguedadPromedioAnios": 4.3226,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 191,
+      "valido": 88
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 7,
+        "pctSobreTotalCandidatos": 2.51,
+        "pctSobreAfiliacionesValidas": 7.95
+      },
+      "ultimos7Dias": {
+        "cantidad": 7,
+        "pctSobreTotalCandidatos": 2.51,
+        "pctSobreAfiliacionesValidas": 7.95
+      },
+      "ultimos30Dias": {
+        "cantidad": 7,
+        "pctSobreTotalCandidatos": 2.51,
+        "pctSobreAfiliacionesValidas": 7.95
+      },
+      "ultimos6Meses": {
+        "cantidad": 8,
+        "pctSobreTotalCandidatos": 2.87,
+        "pctSobreAfiliacionesValidas": 9.09
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "JUNTOS POR EL PERU",
+    "totalCandidatos": 254,
+    "afiliacionesValidas": 75,
+    "coberturaPct": 29.53,
+    "antiguedadPromedioDias": 1521.19,
+    "antiguedadPromedioAnios": 4.1649,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 179,
+      "valido": 75
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 2,
+        "pctSobreTotalCandidatos": 0.79,
+        "pctSobreAfiliacionesValidas": 2.67
+      },
+      "ultimos7Dias": {
+        "cantidad": 2,
+        "pctSobreTotalCandidatos": 0.79,
+        "pctSobreAfiliacionesValidas": 2.67
+      },
+      "ultimos30Dias": {
+        "cantidad": 2,
+        "pctSobreTotalCandidatos": 0.79,
+        "pctSobreAfiliacionesValidas": 2.67
+      },
+      "ultimos6Meses": {
+        "cantidad": 2,
+        "pctSobreTotalCandidatos": 0.79,
+        "pctSobreAfiliacionesValidas": 2.67
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "LIBERTAD POPULAR",
+    "totalCandidatos": 74,
+    "afiliacionesValidas": 12,
+    "coberturaPct": 16.22,
+    "antiguedadPromedioDias": 302.92,
+    "antiguedadPromedioAnios": 0.8294,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 62,
+      "valido": 12
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 4,
+        "pctSobreTotalCandidatos": 5.41,
+        "pctSobreAfiliacionesValidas": 33.33
+      },
+      "ultimos7Dias": {
+        "cantidad": 4,
+        "pctSobreTotalCandidatos": 5.41,
+        "pctSobreAfiliacionesValidas": 33.33
+      },
+      "ultimos30Dias": {
+        "cantidad": 4,
+        "pctSobreTotalCandidatos": 5.41,
+        "pctSobreAfiliacionesValidas": 33.33
+      },
+      "ultimos6Meses": {
+        "cantidad": 6,
+        "pctSobreTotalCandidatos": 8.11,
+        "pctSobreAfiliacionesValidas": 50.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "PARTIDO APRISTA PERUANO",
+    "totalCandidatos": 294,
+    "afiliacionesValidas": 110,
+    "coberturaPct": 37.41,
+    "antiguedadPromedioDias": 1033.55,
+    "antiguedadPromedioAnios": 2.8298,
+    "estadosDatos": {
+      "valido": 110,
+      "sin_afiliacion_vigente_al_partido_actual": 184
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 7,
+        "pctSobreTotalCandidatos": 2.38,
+        "pctSobreAfiliacionesValidas": 6.36
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "PARTIDO CIVICO OBRAS",
+    "totalCandidatos": 282,
+    "afiliacionesValidas": 57,
+    "coberturaPct": 20.21,
+    "antiguedadPromedioDias": 450.35,
+    "antiguedadPromedioAnios": 1.233,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 225,
+      "valido": 57
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 12,
+        "pctSobreTotalCandidatos": 4.26,
+        "pctSobreAfiliacionesValidas": 21.05
+      },
+      "ultimos7Dias": {
+        "cantidad": 12,
+        "pctSobreTotalCandidatos": 4.26,
+        "pctSobreAfiliacionesValidas": 21.05
+      },
+      "ultimos30Dias": {
+        "cantidad": 12,
+        "pctSobreTotalCandidatos": 4.26,
+        "pctSobreAfiliacionesValidas": 21.05
+      },
+      "ultimos6Meses": {
+        "cantidad": 20,
+        "pctSobreTotalCandidatos": 7.09,
+        "pctSobreAfiliacionesValidas": 35.09
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "PARTIDO DE LOS TRABAJADORES Y EMPRENDEDORES PTE PERU - COMUNIDAD POLITICA INKA PERU",
+    "totalCandidatos": 40,
+    "afiliacionesValidas": 0,
+    "coberturaPct": 0.0,
+    "antiguedadPromedioDias": null,
+    "antiguedadPromedioAnios": null,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 40
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": null
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "PARTIDO DEL BUEN GOBIERNO",
+    "totalCandidatos": 183,
+    "afiliacionesValidas": 32,
+    "coberturaPct": 17.49,
+    "antiguedadPromedioDias": 562.0,
+    "antiguedadPromedioAnios": 1.5387,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 151,
+      "valido": 32
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 2,
+        "pctSobreTotalCandidatos": 1.09,
+        "pctSobreAfiliacionesValidas": 6.25
+      },
+      "ultimos7Dias": {
+        "cantidad": 2,
+        "pctSobreTotalCandidatos": 1.09,
+        "pctSobreAfiliacionesValidas": 6.25
+      },
+      "ultimos30Dias": {
+        "cantidad": 2,
+        "pctSobreTotalCandidatos": 1.09,
+        "pctSobreAfiliacionesValidas": 6.25
+      },
+      "ultimos6Meses": {
+        "cantidad": 2,
+        "pctSobreTotalCandidatos": 1.09,
+        "pctSobreAfiliacionesValidas": 6.25
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "PARTIDO DEMOCRATA UNIDO PERU",
+    "totalCandidatos": 79,
+    "afiliacionesValidas": 14,
+    "coberturaPct": 17.72,
+    "antiguedadPromedioDias": 595.14,
+    "antiguedadPromedioAnios": 1.6294,
+    "estadosDatos": {
+      "valido": 14,
+      "sin_afiliacion_vigente_al_partido_actual": 65
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 4,
+        "pctSobreTotalCandidatos": 5.06,
+        "pctSobreAfiliacionesValidas": 28.57
+      },
+      "ultimos7Dias": {
+        "cantidad": 4,
+        "pctSobreTotalCandidatos": 5.06,
+        "pctSobreAfiliacionesValidas": 28.57
+      },
+      "ultimos30Dias": {
+        "cantidad": 4,
+        "pctSobreTotalCandidatos": 5.06,
+        "pctSobreAfiliacionesValidas": 28.57
+      },
+      "ultimos6Meses": {
+        "cantidad": 7,
+        "pctSobreTotalCandidatos": 8.86,
+        "pctSobreAfiliacionesValidas": 50.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "PARTIDO DEMOCRATA VERDE",
+    "totalCandidatos": 182,
+    "afiliacionesValidas": 38,
+    "coberturaPct": 20.88,
+    "antiguedadPromedioDias": 1176.74,
+    "antiguedadPromedioAnios": 3.2218,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 144,
+      "valido": 38
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "PARTIDO DEMOCRATICO SOMOS PERU",
+    "totalCandidatos": 558,
+    "afiliacionesValidas": 257,
+    "coberturaPct": 46.06,
+    "antiguedadPromedioDias": 1823.72,
+    "antiguedadPromedioAnios": 4.9932,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 301,
+      "valido": 257
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 12,
+        "pctSobreTotalCandidatos": 2.15,
+        "pctSobreAfiliacionesValidas": 4.67
+      },
+      "ultimos7Dias": {
+        "cantidad": 21,
+        "pctSobreTotalCandidatos": 3.76,
+        "pctSobreAfiliacionesValidas": 8.17
+      },
+      "ultimos30Dias": {
+        "cantidad": 21,
+        "pctSobreTotalCandidatos": 3.76,
+        "pctSobreAfiliacionesValidas": 8.17
+      },
+      "ultimos6Meses": {
+        "cantidad": 23,
+        "pctSobreTotalCandidatos": 4.12,
+        "pctSobreAfiliacionesValidas": 8.95
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+    "totalCandidatos": 221,
+    "afiliacionesValidas": 80,
+    "coberturaPct": 36.2,
+    "antiguedadPromedioDias": 1019.51,
+    "antiguedadPromedioAnios": 2.7913,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 141,
+      "valido": 80
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 5,
+        "pctSobreTotalCandidatos": 2.26,
+        "pctSobreAfiliacionesValidas": 6.25
+      },
+      "ultimos7Dias": {
+        "cantidad": 5,
+        "pctSobreTotalCandidatos": 2.26,
+        "pctSobreAfiliacionesValidas": 6.25
+      },
+      "ultimos30Dias": {
+        "cantidad": 5,
+        "pctSobreTotalCandidatos": 2.26,
+        "pctSobreAfiliacionesValidas": 6.25
+      },
+      "ultimos6Meses": {
+        "cantidad": 5,
+        "pctSobreTotalCandidatos": 2.26,
+        "pctSobreAfiliacionesValidas": 6.25
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "PARTIDO MORADO",
+    "totalCandidatos": 224,
+    "afiliacionesValidas": 59,
+    "coberturaPct": 26.34,
+    "antiguedadPromedioDias": 1324.69,
+    "antiguedadPromedioAnios": 3.6269,
+    "estadosDatos": {
+      "valido": 59,
+      "sin_afiliacion_vigente_al_partido_actual": 165
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 5,
+        "pctSobreTotalCandidatos": 2.23,
+        "pctSobreAfiliacionesValidas": 8.47
+      },
+      "ultimos7Dias": {
+        "cantidad": 5,
+        "pctSobreTotalCandidatos": 2.23,
+        "pctSobreAfiliacionesValidas": 8.47
+      },
+      "ultimos30Dias": {
+        "cantidad": 5,
+        "pctSobreTotalCandidatos": 2.23,
+        "pctSobreAfiliacionesValidas": 8.47
+      },
+      "ultimos6Meses": {
+        "cantidad": 5,
+        "pctSobreTotalCandidatos": 2.23,
+        "pctSobreAfiliacionesValidas": 8.47
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "PARTIDO PAIS PARA TODOS",
+    "totalCandidatos": 233,
+    "afiliacionesValidas": 30,
+    "coberturaPct": 12.88,
+    "antiguedadPromedioDias": 327.1,
+    "antiguedadPromedioAnios": 0.8956,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 203,
+      "valido": 30
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 12,
+        "pctSobreTotalCandidatos": 5.15,
+        "pctSobreAfiliacionesValidas": 40.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 12,
+        "pctSobreTotalCandidatos": 5.15,
+        "pctSobreAfiliacionesValidas": 40.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 12,
+        "pctSobreTotalCandidatos": 5.15,
+        "pctSobreAfiliacionesValidas": 40.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 14,
+        "pctSobreTotalCandidatos": 6.01,
+        "pctSobreAfiliacionesValidas": 46.67
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "PARTIDO PATRIOTICO DEL PERU",
+    "totalCandidatos": 140,
+    "afiliacionesValidas": 24,
+    "coberturaPct": 17.14,
+    "antiguedadPromedioDias": 663.75,
+    "antiguedadPromedioAnios": 1.8173,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 116,
+      "valido": 24
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 3,
+        "pctSobreTotalCandidatos": 2.14,
+        "pctSobreAfiliacionesValidas": 12.5
+      },
+      "ultimos7Dias": {
+        "cantidad": 3,
+        "pctSobreTotalCandidatos": 2.14,
+        "pctSobreAfiliacionesValidas": 12.5
+      },
+      "ultimos30Dias": {
+        "cantidad": 3,
+        "pctSobreTotalCandidatos": 2.14,
+        "pctSobreAfiliacionesValidas": 12.5
+      },
+      "ultimos6Meses": {
+        "cantidad": 3,
+        "pctSobreTotalCandidatos": 2.14,
+        "pctSobreAfiliacionesValidas": 12.5
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "PARTIDO POLITICO ADP",
+    "totalCandidatos": 41,
+    "afiliacionesValidas": 5,
+    "coberturaPct": 12.2,
+    "antiguedadPromedioDias": 549.8,
+    "antiguedadPromedioAnios": 1.5053,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 36,
+      "valido": 5
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "PARTIDO POLITICO INTEGRIDAD DEMOCRATICA",
+    "totalCandidatos": 56,
+    "afiliacionesValidas": 3,
+    "coberturaPct": 5.36,
+    "antiguedadPromedioDias": 404.33,
+    "antiguedadPromedioAnios": 1.107,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 53,
+      "valido": 3
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 1,
+        "pctSobreTotalCandidatos": 1.79,
+        "pctSobreAfiliacionesValidas": 33.33
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+    "totalCandidatos": 95,
+    "afiliacionesValidas": 41,
+    "coberturaPct": 43.16,
+    "antiguedadPromedioDias": 1454.05,
+    "antiguedadPromedioAnios": 3.9811,
+    "estadosDatos": {
+      "valido": 41,
+      "sin_afiliacion_vigente_al_partido_actual": 54
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "PARTIDO POLITICO PERU ACCION",
+    "totalCandidatos": 17,
+    "afiliacionesValidas": 2,
+    "coberturaPct": 11.76,
+    "antiguedadPromedioDias": 457.0,
+    "antiguedadPromedioAnios": 1.2512,
+    "estadosDatos": {
+      "valido": 2,
+      "sin_afiliacion_vigente_al_partido_actual": 15
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "PARTIDO POLITICO PERU PRIMERO",
+    "totalCandidatos": 225,
+    "afiliacionesValidas": 45,
+    "coberturaPct": 20.0,
+    "antiguedadPromedioDias": 432.51,
+    "antiguedadPromedioAnios": 1.1842,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 180,
+      "valido": 45
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 4,
+        "pctSobreTotalCandidatos": 1.78,
+        "pctSobreAfiliacionesValidas": 8.89
+      },
+      "ultimos7Dias": {
+        "cantidad": 4,
+        "pctSobreTotalCandidatos": 1.78,
+        "pctSobreAfiliacionesValidas": 8.89
+      },
+      "ultimos30Dias": {
+        "cantidad": 4,
+        "pctSobreTotalCandidatos": 1.78,
+        "pctSobreAfiliacionesValidas": 8.89
+      },
+      "ultimos6Meses": {
+        "cantidad": 16,
+        "pctSobreTotalCandidatos": 7.11,
+        "pctSobreAfiliacionesValidas": 35.56
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "PARTIDO POLITICO PRIN",
+    "totalCandidatos": 127,
+    "afiliacionesValidas": 24,
+    "coberturaPct": 18.9,
+    "antiguedadPromedioDias": 603.67,
+    "antiguedadPromedioAnios": 1.6528,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 103,
+      "valido": 24
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 3,
+        "pctSobreTotalCandidatos": 2.36,
+        "pctSobreAfiliacionesValidas": 12.5
+      },
+      "ultimos7Dias": {
+        "cantidad": 3,
+        "pctSobreTotalCandidatos": 2.36,
+        "pctSobreAfiliacionesValidas": 12.5
+      },
+      "ultimos30Dias": {
+        "cantidad": 3,
+        "pctSobreTotalCandidatos": 2.36,
+        "pctSobreAfiliacionesValidas": 12.5
+      },
+      "ultimos6Meses": {
+        "cantidad": 6,
+        "pctSobreTotalCandidatos": 4.72,
+        "pctSobreAfiliacionesValidas": 25.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "PARTIDO POLITICO PUEBLO CONSCIENTE",
+    "totalCandidatos": 72,
+    "afiliacionesValidas": 5,
+    "coberturaPct": 6.94,
+    "antiguedadPromedioDias": 368.8,
+    "antiguedadPromedioAnios": 1.0097,
+    "estadosDatos": {
+      "valido": 5,
+      "sin_afiliacion_vigente_al_partido_actual": 67
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 1,
+        "pctSobreTotalCandidatos": 1.39,
+        "pctSobreAfiliacionesValidas": 20.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 1,
+        "pctSobreTotalCandidatos": 1.39,
+        "pctSobreAfiliacionesValidas": 20.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 1,
+        "pctSobreTotalCandidatos": 1.39,
+        "pctSobreAfiliacionesValidas": 20.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 1,
+        "pctSobreTotalCandidatos": 1.39,
+        "pctSobreAfiliacionesValidas": 20.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "PARTIDO POPULAR CRISTIANO - PPC",
+    "totalCandidatos": 457,
+    "afiliacionesValidas": 139,
+    "coberturaPct": 30.42,
+    "antiguedadPromedioDias": 601.75,
+    "antiguedadPromedioAnios": 1.6475,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 318,
+      "valido": 139
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 7,
+        "pctSobreTotalCandidatos": 1.53,
+        "pctSobreAfiliacionesValidas": 5.04
+      },
+      "ultimos7Dias": {
+        "cantidad": 7,
+        "pctSobreTotalCandidatos": 1.53,
+        "pctSobreAfiliacionesValidas": 5.04
+      },
+      "ultimos30Dias": {
+        "cantidad": 7,
+        "pctSobreTotalCandidatos": 1.53,
+        "pctSobreAfiliacionesValidas": 5.04
+      },
+      "ultimos6Meses": {
+        "cantidad": 14,
+        "pctSobreTotalCandidatos": 3.06,
+        "pctSobreAfiliacionesValidas": 10.07
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "PARTIDO SICREO",
+    "totalCandidatos": 75,
+    "afiliacionesValidas": 5,
+    "coberturaPct": 6.67,
+    "antiguedadPromedioDias": 109.6,
+    "antiguedadPromedioAnios": 0.3001,
+    "estadosDatos": {
+      "valido": 5,
+      "sin_afiliacion_vigente_al_partido_actual": 70
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 4,
+        "pctSobreTotalCandidatos": 5.33,
+        "pctSobreAfiliacionesValidas": 80.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 4,
+        "pctSobreTotalCandidatos": 5.33,
+        "pctSobreAfiliacionesValidas": 80.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 4,
+        "pctSobreTotalCandidatos": 5.33,
+        "pctSobreAfiliacionesValidas": 80.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 4,
+        "pctSobreTotalCandidatos": 5.33,
+        "pctSobreAfiliacionesValidas": 80.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "PARTIDO UNIDAD Y PAZ",
+    "totalCandidatos": 93,
+    "afiliacionesValidas": 10,
+    "coberturaPct": 10.75,
+    "antiguedadPromedioDias": 407.2,
+    "antiguedadPromedioAnios": 1.1149,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 83,
+      "valido": 10
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 2,
+        "pctSobreTotalCandidatos": 2.15,
+        "pctSobreAfiliacionesValidas": 20.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 2,
+        "pctSobreTotalCandidatos": 2.15,
+        "pctSobreAfiliacionesValidas": 20.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 2,
+        "pctSobreTotalCandidatos": 2.15,
+        "pctSobreAfiliacionesValidas": 20.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 3,
+        "pctSobreTotalCandidatos": 3.23,
+        "pctSobreAfiliacionesValidas": 30.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "PERU MODERNO",
+    "totalCandidatos": 93,
+    "afiliacionesValidas": 27,
+    "coberturaPct": 29.03,
+    "antiguedadPromedioDias": 502.33,
+    "antiguedadPromedioAnios": 1.3753,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 66,
+      "valido": 27
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 3,
+        "pctSobreTotalCandidatos": 3.23,
+        "pctSobreAfiliacionesValidas": 11.11
+      },
+      "ultimos7Dias": {
+        "cantidad": 3,
+        "pctSobreTotalCandidatos": 3.23,
+        "pctSobreAfiliacionesValidas": 11.11
+      },
+      "ultimos30Dias": {
+        "cantidad": 4,
+        "pctSobreTotalCandidatos": 4.3,
+        "pctSobreAfiliacionesValidas": 14.81
+      },
+      "ultimos6Meses": {
+        "cantidad": 4,
+        "pctSobreTotalCandidatos": 4.3,
+        "pctSobreAfiliacionesValidas": 14.81
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "PODEMOS PERU",
+    "totalCandidatos": 461,
+    "afiliacionesValidas": 167,
+    "coberturaPct": 36.23,
+    "antiguedadPromedioDias": 1214.8,
+    "antiguedadPromedioAnios": 3.326,
+    "estadosDatos": {
+      "valido": 167,
+      "sin_afiliacion_vigente_al_partido_actual": 294
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 11,
+        "pctSobreTotalCandidatos": 2.39,
+        "pctSobreAfiliacionesValidas": 6.59
+      },
+      "ultimos7Dias": {
+        "cantidad": 22,
+        "pctSobreTotalCandidatos": 4.77,
+        "pctSobreAfiliacionesValidas": 13.17
+      },
+      "ultimos30Dias": {
+        "cantidad": 22,
+        "pctSobreTotalCandidatos": 4.77,
+        "pctSobreAfiliacionesValidas": 13.17
+      },
+      "ultimos6Meses": {
+        "cantidad": 22,
+        "pctSobreTotalCandidatos": 4.77,
+        "pctSobreAfiliacionesValidas": 13.17
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "PRIMERO LA GENTE - COMUNIDAD, ECOLOGIA, LIBERTAD Y PROGRESO",
+    "totalCandidatos": 15,
+    "afiliacionesValidas": 1,
+    "coberturaPct": 6.67,
+    "antiguedadPromedioDias": 457.0,
+    "antiguedadPromedioAnios": 1.2512,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 14,
+      "valido": 1
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "PROGRESEMOS",
+    "totalCandidatos": 244,
+    "afiliacionesValidas": 28,
+    "coberturaPct": 11.48,
+    "antiguedadPromedioDias": 328.18,
+    "antiguedadPromedioAnios": 0.8985,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 216,
+      "valido": 28
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 10,
+        "pctSobreTotalCandidatos": 4.1,
+        "pctSobreAfiliacionesValidas": 35.71
+      },
+      "ultimos7Dias": {
+        "cantidad": 10,
+        "pctSobreTotalCandidatos": 4.1,
+        "pctSobreAfiliacionesValidas": 35.71
+      },
+      "ultimos30Dias": {
+        "cantidad": 10,
+        "pctSobreTotalCandidatos": 4.1,
+        "pctSobreAfiliacionesValidas": 35.71
+      },
+      "ultimos6Meses": {
+        "cantidad": 10,
+        "pctSobreTotalCandidatos": 4.1,
+        "pctSobreAfiliacionesValidas": 35.71
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "RENOVACION POPULAR PERU",
+    "totalCandidatos": 558,
+    "afiliacionesValidas": 210,
+    "coberturaPct": 37.63,
+    "antiguedadPromedioDias": 1308.22,
+    "antiguedadPromedioAnios": 3.5818,
+    "estadosDatos": {
+      "valido": 210,
+      "sin_afiliacion_vigente_al_partido_actual": 348
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 22,
+        "pctSobreTotalCandidatos": 3.94,
+        "pctSobreAfiliacionesValidas": 10.48
+      },
+      "ultimos7Dias": {
+        "cantidad": 22,
+        "pctSobreTotalCandidatos": 3.94,
+        "pctSobreAfiliacionesValidas": 10.48
+      },
+      "ultimos30Dias": {
+        "cantidad": 22,
+        "pctSobreTotalCandidatos": 3.94,
+        "pctSobreAfiliacionesValidas": 10.48
+      },
+      "ultimos6Meses": {
+        "cantidad": 22,
+        "pctSobreTotalCandidatos": 3.94,
+        "pctSobreAfiliacionesValidas": 10.48
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "SALVEMOS AL PERU",
+    "totalCandidatos": 32,
+    "afiliacionesValidas": 3,
+    "coberturaPct": 9.38,
+    "antiguedadPromedioDias": 532.67,
+    "antiguedadPromedioAnios": 1.4584,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 29,
+      "valido": 3
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "UN CAMINO DIFERENTE",
+    "totalCandidatos": 9,
+    "afiliacionesValidas": 2,
+    "coberturaPct": 22.22,
+    "antiguedadPromedioDias": 501.5,
+    "antiguedadPromedioAnios": 1.3731,
+    "estadosDatos": {
+      "valido": 2,
+      "sin_afiliacion_vigente_al_partido_actual": 7
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos7Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos30Dias": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      },
+      "ultimos6Meses": {
+        "cantidad": 0,
+        "pctSobreTotalCandidatos": 0.0,
+        "pctSobreAfiliacionesValidas": 0.0
+      }
+    }
+  },
+  {
+    "fechaReferencia": "2026-01-07",
+    "partido": "VISION PERU",
+    "totalCandidatos": 183,
+    "afiliacionesValidas": 19,
+    "coberturaPct": 10.38,
+    "antiguedadPromedioDias": 333.63,
+    "antiguedadPromedioAnios": 0.9135,
+    "estadosDatos": {
+      "sin_afiliacion_vigente_al_partido_actual": 164,
+      "valido": 19
+    },
+    "ventanas": {
+      "ultimoDia": {
+        "cantidad": 3,
+        "pctSobreTotalCandidatos": 1.64,
+        "pctSobreAfiliacionesValidas": 15.79
+      },
+      "ultimos7Dias": {
+        "cantidad": 7,
+        "pctSobreTotalCandidatos": 3.83,
+        "pctSobreAfiliacionesValidas": 36.84
+      },
+      "ultimos30Dias": {
+        "cantidad": 7,
+        "pctSobreTotalCandidatos": 3.83,
+        "pctSobreAfiliacionesValidas": 36.84
+      },
+      "ultimos6Meses": {
+        "cantidad": 8,
+        "pctSobreTotalCandidatos": 4.37,
+        "pctSobreAfiliacionesValidas": 42.11
+      }
+    }
+  }
+]

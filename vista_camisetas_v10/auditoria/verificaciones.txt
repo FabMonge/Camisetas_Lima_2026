@@ -1,0 +1,3 @@
+OK: reglas, alianzas, exclusiones, afiliación vigente e integridad del universo.
+OK: 78 clasificaciones incorporadas; cero pendientes; OBRAS unificado.
+OK: fuente JSON única, copia local y exportaciones iguales, resúmenes por partido y afiliación consistentes.

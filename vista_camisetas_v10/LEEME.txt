@@ -1,0 +1,81 @@
+CAMISETAS — VERSIÓN UNIFICADA V10
+
+ABRIR LA PÁGINA
+Coloca vista_camisetas_v10 directamente dentro de CAMISETAS_2_0, junto a
+imagenes_voto_informado. Abre index.html con doble clic, o abre CAMISETAS_2_0
+en VS Code y usa Live Server sobre vista_camisetas_v10/index.html.
+No hace falta repetir el scraper de fotos.
+
+DATOS VALIDADOS
+8469 candidatos, 998 con más de una camiseta y 8463 fotos enlazadas.
+El JSON que acompañó las fotos tenía las métricas antiguas del motor v2:
+1157 personas con más de una camiseta. Se compararon los 8469 DNI y se
+recalcularon los cuatro CSV con el motor v5 y las reglas finales acordadas.
+El recálculo coincide exactamente con las métricas de la página anterior.
+
+FUENTE DEL FRENTE
+Por HTTP/HTTPS, la página lee data/datos.json directamente. index.html ya no
+contiene candidatos ni métricas incrustados.
+Al abrir con doble clic (file:), se carga data/datos-local.js, una copia de
+ese mismo JSON creada automáticamente. Es necesaria porque el navegador
+no permite fetch de JSON locales en ese modo. No se edita manualmente.
+Los JSON individuales de data son exportaciones de la misma generación.
+El archivo candidatos_con_fotos.json de data ya contiene las métricas
+corregidas y las mismas fotos. Sustituye al archivo anterior con métricas v2.
+data/manifest.json registra los conteos y las huellas SHA256 de las fuentes.
+
+AUDITORÍA
+- auditoria/diferencias_por_dni.csv: 336 candidatos cuyo conteo cambia.
+- auditoria/diferencias_por_partido.csv: comparación de las organizaciones.
+- auditoria/reconciliacion.json: resultados del control de versiones.
+- auditoria/LEEME.txt: explicación del origen y alcance de los cambios.
+
+ACTUALIZAR DATOS EN EL FUTURO
+Ejecuta desde esta carpeta, con la ruta real de tus cuatro CSV:
+py actualizar_datos.py --entrada "CARPETA_CON_LOS_CUATRO_CSV" --mapa "..\imagenes_voto_informado\mapa_imagenes.json"
+
+Los CSV deben llamarse:
+erm2026_educacion_limpia.csv
+dim_organizaciones_politicas.csv
+hechos_afiliaciones.csv
+hechos_procesos_electorales.csv
+
+El comando recalcula, enlaza las imágenes y reconstruye todos los JSON y
+la copia local. No uses generar_jsons_v2.py ni reemplaces archivos aislados
+con exportaciones antiguas.
+Para verificar los resultados:
+py verificar_datos.py
+
+IMÁGENES
+Se conservan las rutas a ../imagenes_voto_informado/candidatos y /partidos.
+La portada y los logos de ECData y El Comercio están incluidos en assets.
+Los 6 candidatos sin foto mantienen iniciales.
+Los dos logos manuales se esperan en:
+imagenes_voto_informado/partidos/alianza_para_el_progreso.png
+imagenes_voto_informado/partidos/primero_la_gente.png
+
+DESPLIEGUE
+Este paquete todavía usa rutas locales. Cuando se cierre la página, se
+publicarán las imágenes y se configurará su URL pública HTTPS. actualizar_datos.py
+acepta --base-recursos "https://USUARIO.github.io/REPOSITORIO/imagenes_voto_informado/".
+La integración y la comprobación de rutas públicas se hará en el despliegue.
+
+VALIDACIÓN
+Se comprobaron las genealogías, organizaciones locales, movimientos regionales,
+alianzas, afiliación vigente, ventanas temporales, universo LIMA/LIMA,
+exclusión de accesitarios y consistencia de JSON y resúmenes.
+Se conservaron el diseño y los textos actuales; se incorporó la redacción aprobada y las cajas de instrucciones.
+
+V7: cargo y jurisdicción en rankings y ejemplos del mapa de calor; logo centrado en cada camiseta cuando existe una correspondencia; corrección del desbordamiento del bloque de historial. Los resultados del buscador conservan su presentación. Los datos no cambian.
+
+V8: redacción editorial, títulos, fuentes y cinco cajas de instrucciones incorporados. Los datos validados y la presentación de cargos y camisetas se conservan.
+
+V9: subtítulo proporcional y más pequeño, bajada eliminada, fecha 2 de octubre, fuentes INFOGOB, título uniforme de instrucciones, metodología final eliminada y rankings con filas compartidas para alinear los cinco puestos. Datos sin cambios.
+
+V10: análisis del mapa de postulaciones con porcentajes y contrastes por partido; orden de fichajes: título, marco legal, análisis, instrucciones, gráfico y alcance. Se elimina la explicación de cambios de nombre y el cuadro de instrucciones del ranking de derrotas. Datos sin cambios.
+
+ACTUALIZACIÓN: ranking de postulaciones
+Se añade junto al ranking de derrotas un bloque con los cinco candidatos con más postulaciones. Usa metricas.totalPostulaciones e incluye 2026. Los empates se ordenan por nombre y se mantiene el mayor conteo a la derecha, como en el bloque de derrotas. Fotos y logos conservan sus rutas originales.
+
+VERSIÓN 12
+Rankings de partidos y candidatos separados en tarjetas horizontales. Nota reorganizada y créditos actualizados. Debutantes: Avanza País 398/536. Afiliaciones al 07/01/2026: 305 en 30 días, 291 en 7 días, 235 en el día. Obras, País para Todos y Somos Perú empatan con 12. Pies de todas las visualizaciones aclaran que no se incluyen elecciones generales 2026. Se conserva el comparador después de la matriz.

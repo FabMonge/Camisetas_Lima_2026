@@ -1,0 +1,19 @@
+{
+  "universo": 8469,
+  "metricas_del_archivo_de_fotos_iguales_a_v2": 8469,
+  "metricas_recalculadas_iguales_al_frente_v5": 8469,
+  "diferencias_camisetas": 336,
+  "clasificacion_cambia": 159,
+  "mas_de_una_v2": 1157,
+  "mas_de_una_v5": 998,
+  "cambios_total_postulaciones": 0,
+  "pendientes_clasificacion": 0,
+  "afi_validos_v2": {
+    "2025-10-07": 1779,
+    "2026-01-07": 2120
+  },
+  "afi_validos_v5": {
+    "2025-10-07": 1960,
+    "2026-01-07": 2319
+  }
+}

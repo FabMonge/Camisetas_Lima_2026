@@ -1,0 +1,392 @@
+{
+  "COOPERACION, VERDAD Y HONRADEZ": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "COOPERACION VERDAD Y HONRADEZ"
+  },
+  "MOVIMIENTO INDEPENDIENTE VAMOS VECINO": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "MOVIMIENTO INDEPENDIENTE VAMOS VECINO"
+  },
+  "SOMOS LIMA": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "SOMOS LIMA"
+  },
+  "MOVIMIENTO AMPLIO PAIS UNIDO - MAPU": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "MOVIMIENTO AMPLIO PAIS UNIDO MAPU"
+  },
+  "JUNTOS SI PODEMOS": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "JUNTOS SI PODEMOS"
+  },
+  "CONFIANZA PERU": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "CONFIANZA PERU"
+  },
+  "FONAVISTAS DEL PERU": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "FONAVISTAS DEL PERU"
+  },
+  "SAN LUIS RENACE": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "SAN LUIS RENACE"
+  },
+  "MAGDALENA AVANZA": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "MAGDALENA AVANZA"
+  },
+  "MOVIMIENTO INDEPENDIENTE COMAS CON FE": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "MOVIMIENTO INDEPENDIENTE COMAS CON FE"
+  },
+  "MOVIMIENTO INDEPENDIENTE NUEVA SOCIEDAD": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "MOVIMIENTO INDEPENDIENTE NUEVA SOCIEDAD"
+  },
+  "ACUERDO SOCIALISTA DE IZQUIERDA": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "ACUERDO SOCIALISTA DE IZQUIERDA"
+  },
+  "IZQUIERDA SOCIALISTA": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "IZQUIERDA SOCIALISTA"
+  },
+  "MOVIMIENTO DEMOCRATICO DE IZQUIERDA": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "MOVIMIENTO DEMOCRATICO DE IZQUIERDA"
+  },
+  "MOVIMIENTO INDEPENDIENTE SOMOS NUEVA GENERACION": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "MOVIMIENTO INDEPENDIENTE SOMOS NUEVA GENERACION"
+  },
+  "MOVIMIENTO SOCIAL INDEPENDIENTE": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "MOVIMIENTO SOCIAL INDEPENDIENTE"
+  },
+  "SAN BARTOLO SOLIDARIO": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "SAN BARTOLO SOLIDARIO"
+  },
+  "A LA VIDA DILE SI": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "A LA VIDA DILE SI"
+  },
+  "ACCION Y TRABAJO": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "ACCION Y TRABAJO"
+  },
+  "AGRUPACION INDEPENDIENTE EL GALLO DE ORO": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "AGRUPACION INDEPENDIENTE EL GALLO DE ORO"
+  },
+  "AHORA SI SAN JUAN": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "AHORA SI SAN JUAN"
+  },
+  "ALTERNATIVA BREÑENSE": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "ALTERNATIVA BRENENSE"
+  },
+  "ANGELES DE SAN BORJA": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "ANGELES DE SAN BORJA"
+  },
+  "BLOQUE POPULAR AMAZONICO": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "BLOQUE POPULAR AMAZONICO"
+  },
+  "CAMBIEMOS SAN JUAN": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "CAMBIEMOS SAN JUAN"
+  },
+  "CHOSICA AHORA": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "CHOSICA AHORA"
+  },
+  "CODE - PAIS POSIBLE": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "CODE PAIS POSIBLE"
+  },
+  "CON FUERZA PERU": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "CON FUERZA PERU"
+  },
+  "COORDINADORA NACIONAL DE INDEPENDIENTES": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "COORDINADORA NACIONAL DE INDEPENDIENTES"
+  },
+  "DE SAN BARTOLO PARA EL PERU": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "DE SAN BARTOLO PARA EL PERU"
+  },
+  "DECIDE": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "DECIDE"
+  },
+  "FRENTE AMPLIO DEMOC. ANCONERO": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "FRENTE AMPLIO DEMOC ANCONERO"
+  },
+  "FRENTE DE INTEGRACION Y DESARROLLO COMUNAL - FIDEC": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "FRENTE DE INTEGRACION Y DESARROLLO COMUNAL FIDEC"
+  },
+  "FRENTE DE SOLIDARIDAD ANCONERA": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "FRENTE DE SOLIDARIDAD ANCONERA"
+  },
+  "FRENTE INDEPENDIENTE CONCERTACION POR ANCON": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "FRENTE INDEPENDIENTE CONCERTACION POR ANCON"
+  },
+  "FRENTE INDEPENDIENTE DEMOCRATICO": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "FRENTE INDEPENDIENTE DEMOCRATICO"
+  },
+  "FRENTE PATRIOTA PERUANO": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "FRENTE PATRIOTA PERUANO"
+  },
+  "FRENTE POPULAR Y AGROPECUARIO DE CARABAYLLO FREPAC": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "FRENTE POPULAR Y AGROPECUARIO DE CARABAYLLO FREPAC"
+  },
+  "FUERZA NACIONAL": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "FUERZA NACIONAL"
+  },
+  "JUNIN EMPRENDEDORES RUMBO AL 21": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "JUNIN EMPRENDEDORES RUMBO AL 21"
+  },
+  "LA NUEVA OPCION DE PUENTE PIEDRA": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "LA NUEVA OPCION DE PUENTE PIEDRA"
+  },
+  "MAS SAN MARTIN": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "MAS SAN MARTIN"
+  },
+  "MOVIMIENTO ACCION NACIONALISTA PERUANO": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "MOVIMIENTO ACCION NACIONALISTA PERUANO"
+  },
+  "MOVIMIENTO ACCION SOCIAL INDEPENDIENTE": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "MOVIMIENTO ACCION SOCIAL INDEPENDIENTE"
+  },
+  "MOVIMIENTO CIVICO NACIONAL OBRAS": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "MOVIMIENTO CIVICO NACIONAL OBRAS"
+  },
+  "MOVIMIENTO DE INTEGRACION LURINENSE": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "MOVIMIENTO DE INTEGRACION LURINENSE"
+  },
+  "MOVIMIENTO DE INTEGRACION VILLAMARIANA": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "MOVIMIENTO DE INTEGRACION VILLAMARIANA"
+  },
+  "MOVIMIENTO ECOLOGICO ALTERNATIVA VERDE - LOS VERDES": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "MOVIMIENTO ECOLOGICO ALTERNATIVA VERDE LOS VERDES"
+  },
+  "MOVIMIENTO INDEPENDIENTE \"CHOSICA MERECE MAS\"": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "MOVIMIENTO INDEPENDIENTE CHOSICA MERECE MAS"
+  },
+  "MOVIMIENTO INDEPENDIENTE AGRARIO": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "MOVIMIENTO INDEPENDIENTE AGRARIO"
+  },
+  "MOVIMIENTO INDEPENDIENTE COMUNIDAD CIVICA DE MAGDALENA": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "MOVIMIENTO INDEPENDIENTE COMUNIDAD CIVICA DE MAGDALENA"
+  },
+  "MOVIMIENTO INDEPENDIENTE DE CAMPESINOS Y PROFESIONALES": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "MOVIMIENTO INDEPENDIENTE DE CAMPESINOS Y PROFESIONALES"
+  },
+  "MOVIMIENTO INDEPENDIENTE DEL PUEBLO Y PARA EL PUEBLO - MIPP": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "MOVIMIENTO INDEPENDIENTE DEL PUEBLO Y PARA EL PUEBLO MIPP"
+  },
+  "MOVIMIENTO INDEPENDIENTE ECOLOGICO \"ARRIBA LORETO\"": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "MOVIMIENTO INDEPENDIENTE ECOLOGICO ARRIBA LORETO"
+  },
+  "MOVIMIENTO INDEPENDIENTE EL GALLO DE ORO": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "MOVIMIENTO INDEPENDIENTE EL GALLO DE ORO"
+  },
+  "MOVIMIENTO INDEPENDIENTE LA ARBOLEDA": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "MOVIMIENTO INDEPENDIENTE LA ARBOLEDA"
+  },
+  "MOVIMIENTO INDEPENDIENTE PUCUSANA FUERZA Y DESARROLLO": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "MOVIMIENTO INDEPENDIENTE PUCUSANA FUERZA Y DESARROLLO"
+  },
+  "MOVIMIENTO INDEPENDIENTE REVELACION HUAROCHIRANA": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "MOVIMIENTO INDEPENDIENTE REVELACION HUAROCHIRANA"
+  },
+  "MOVIMIENTO OBRAS": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "OBRAS"
+  },
+  "MOVIMIENTO UNIDOS POR SAN LUIS": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "MOVIMIENTO UNIDOS POR SAN LUIS"
+  },
+  "MOVIMIENTO VECINAL SAN MIGUEL SI": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "MOVIMIENTO VECINAL SAN MIGUEL SI"
+  },
+  "MUVA": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "MUVA"
+  },
+  "NUEVO PUCUSANA": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "NUEVO PUCUSANA"
+  },
+  "OBRAS": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "OBRAS"
+  },
+  "PAN": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "PAN"
+  },
+  "PLATAFORMA DEMOCRATICA": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "PLATAFORMA DEMOCRATICA"
+  },
+  "PROGRESANDO PERU": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "PROGRESANDO PERU"
+  },
+  "PUNTA HERMOSA UNIDO": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "PUNTA HERMOSA UNIDO"
+  },
+  "SALVEMOS MIRAFLORES": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "SALVEMOS MIRAFLORES"
+  },
+  "SAN LUIS: SOMOS INDEPENDIENTES": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "SAN LUIS SOMOS INDEPENDIENTES"
+  },
+  "SOMOS LURIN": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "SOMOS LURIN"
+  },
+  "TIERRA Y DIGNIDAD": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "TIERRA Y DIGNIDAD"
+  },
+  "TODAS LAS SANGRES": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "TODAS LAS SANGRES"
+  },
+  "TODOS POR LA VICTORIA": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "TODOS POR LA VICTORIA"
+  },
+  "UNIDOS CONSTRUYENDO": {
+    "cuenta": true,
+    "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+    "identidad": "UNIDOS CONSTRUYENDO"
+  },
+  "UNIDOS POR JULIACA": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "UNIDOS POR JULIACA"
+  },
+  "UNIDOS SALVEMOS BREÑA": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "UNIDOS SALVEMOS BRENA"
+  },
+  "UNION SANTA ROSA": {
+    "cuenta": false,
+    "tipo": "NO COMPUTABLE LOCAL",
+    "identidad": "UNION SANTA ROSA"
+  }
+}

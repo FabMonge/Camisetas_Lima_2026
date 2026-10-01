@@ -1,0 +1,13 @@
+# Archivos temporales y cachés
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+*.tmp
+*.zip
+vista_camisetas_v10/data/.*
+
+# Credenciales locales
+.env
+.env.*
+imagenes_voto_informado/perfil_navegador/

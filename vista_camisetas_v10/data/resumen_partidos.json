@@ -1,0 +1,354 @@
+[
+  {
+    "partido": "PARTIDO DEMOCRATICO SOMOS PERU",
+    "totalCandidatos": 558,
+    "camaleonesObservados": 116,
+    "conHistorialElectoral": 210,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 20.79
+  },
+  {
+    "partido": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+    "totalCandidatos": 536,
+    "camaleonesObservados": 115,
+    "conHistorialElectoral": 138,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 21.46
+  },
+  {
+    "partido": "PODEMOS PERU",
+    "totalCandidatos": 461,
+    "camaleonesObservados": 111,
+    "conHistorialElectoral": 155,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 24.08
+  },
+  {
+    "partido": "RENOVACION POPULAR PERU",
+    "totalCandidatos": 558,
+    "camaleonesObservados": 108,
+    "conHistorialElectoral": 169,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 19.35
+  },
+  {
+    "partido": "ALIANZA PARA EL PROGRESO",
+    "totalCandidatos": 367,
+    "camaleonesObservados": 57,
+    "conHistorialElectoral": 106,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 15.53
+  },
+  {
+    "partido": "PARTIDO POPULAR CRISTIANO - PPC",
+    "totalCandidatos": 457,
+    "camaleonesObservados": 54,
+    "conHistorialElectoral": 86,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 11.82
+  },
+  {
+    "partido": "FUERZA POPULAR",
+    "totalCandidatos": 279,
+    "camaleonesObservados": 43,
+    "conHistorialElectoral": 82,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 15.41
+  },
+  {
+    "partido": "AHORA NACION - AN",
+    "totalCandidatos": 371,
+    "camaleonesObservados": 38,
+    "conHistorialElectoral": 42,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 10.24
+  },
+  {
+    "partido": "PARTIDO CIVICO OBRAS",
+    "totalCandidatos": 282,
+    "camaleonesObservados": 32,
+    "conHistorialElectoral": 33,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 11.35
+  },
+  {
+    "partido": "ACCION POPULAR",
+    "totalCandidatos": 487,
+    "camaleonesObservados": 31,
+    "conHistorialElectoral": 121,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 6.37
+  },
+  {
+    "partido": "PARTIDO POLITICO PERU PRIMERO",
+    "totalCandidatos": 225,
+    "camaleonesObservados": 26,
+    "conHistorialElectoral": 27,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 11.56
+  },
+  {
+    "partido": "JUNTOS POR EL PERU",
+    "totalCandidatos": 254,
+    "camaleonesObservados": 25,
+    "conHistorialElectoral": 54,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 9.84
+  },
+  {
+    "partido": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+    "totalCandidatos": 221,
+    "camaleonesObservados": 21,
+    "conHistorialElectoral": 59,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 9.5
+  },
+  {
+    "partido": "PARTIDO DEL BUEN GOBIERNO",
+    "totalCandidatos": 183,
+    "camaleonesObservados": 20,
+    "conHistorialElectoral": 22,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 10.93
+  },
+  {
+    "partido": "PARTIDO PAIS PARA TODOS",
+    "totalCandidatos": 233,
+    "camaleonesObservados": 20,
+    "conHistorialElectoral": 21,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 8.58
+  },
+  {
+    "partido": "PARTIDO DEMOCRATA VERDE",
+    "totalCandidatos": 182,
+    "camaleonesObservados": 15,
+    "conHistorialElectoral": 15,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 8.24
+  },
+  {
+    "partido": "PARTIDO PATRIOTICO DEL PERU",
+    "totalCandidatos": 140,
+    "camaleonesObservados": 15,
+    "conHistorialElectoral": 16,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 10.71
+  },
+  {
+    "partido": "PROGRESEMOS",
+    "totalCandidatos": 244,
+    "camaleonesObservados": 15,
+    "conHistorialElectoral": 17,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 6.15
+  },
+  {
+    "partido": "FE EN EL PERU",
+    "totalCandidatos": 130,
+    "camaleonesObservados": 13,
+    "conHistorialElectoral": 13,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 10.0
+  },
+  {
+    "partido": "PARTIDO MORADO",
+    "totalCandidatos": 224,
+    "camaleonesObservados": 12,
+    "conHistorialElectoral": 42,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 5.36
+  },
+  {
+    "partido": "PERU MODERNO",
+    "totalCandidatos": 93,
+    "camaleonesObservados": 11,
+    "conHistorialElectoral": 11,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 11.83
+  },
+  {
+    "partido": "VISION PERU",
+    "totalCandidatos": 183,
+    "camaleonesObservados": 11,
+    "conHistorialElectoral": 12,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 6.01
+  },
+  {
+    "partido": "COALICION TRANSFORMADORA TIERRA VERDE",
+    "totalCandidatos": 73,
+    "camaleonesObservados": 10,
+    "conHistorialElectoral": 10,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 13.7
+  },
+  {
+    "partido": "PARTIDO APRISTA PERUANO",
+    "totalCandidatos": 294,
+    "camaleonesObservados": 10,
+    "conHistorialElectoral": 48,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 3.4
+  },
+  {
+    "partido": "COOPERACION, VERDAD Y HONRADEZ",
+    "totalCandidatos": 114,
+    "camaleonesObservados": 8,
+    "conHistorialElectoral": 8,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 7.02
+  },
+  {
+    "partido": "BATALLA PERU",
+    "totalCandidatos": 65,
+    "camaleonesObservados": 7,
+    "conHistorialElectoral": 8,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 10.77
+  },
+  {
+    "partido": "PARTIDO DEMOCRATA UNIDO PERU",
+    "totalCandidatos": 79,
+    "camaleonesObservados": 7,
+    "conHistorialElectoral": 7,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 8.86
+  },
+  {
+    "partido": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+    "totalCandidatos": 95,
+    "camaleonesObservados": 6,
+    "conHistorialElectoral": 25,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 6.32
+  },
+  {
+    "partido": "PARTIDO POLITICO PRIN",
+    "totalCandidatos": 127,
+    "camaleonesObservados": 6,
+    "conHistorialElectoral": 7,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 4.72
+  },
+  {
+    "partido": "LIBERTAD POPULAR",
+    "totalCandidatos": 74,
+    "camaleonesObservados": 5,
+    "conHistorialElectoral": 6,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 6.76
+  },
+  {
+    "partido": "PARTIDO SICREO",
+    "totalCandidatos": 75,
+    "camaleonesObservados": 5,
+    "conHistorialElectoral": 5,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 6.67
+  },
+  {
+    "partido": "PARTIDO UNIDAD Y PAZ",
+    "totalCandidatos": 93,
+    "camaleonesObservados": 4,
+    "conHistorialElectoral": 6,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 4.3
+  },
+  {
+    "partido": "SALVEMOS AL PERU",
+    "totalCandidatos": 32,
+    "camaleonesObservados": 3,
+    "conHistorialElectoral": 3,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 9.38
+  },
+  {
+    "partido": "UN CAMINO DIFERENTE",
+    "totalCandidatos": 9,
+    "camaleonesObservados": 3,
+    "conHistorialElectoral": 3,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 33.33
+  },
+  {
+    "partido": "ALIANZA ELECTORAL VENCEREMOS",
+    "totalCandidatos": 75,
+    "camaleonesObservados": 2,
+    "conHistorialElectoral": 5,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 2.67
+  },
+  {
+    "partido": "ALIANZA REGIONAL POR EL PERU",
+    "totalCandidatos": 75,
+    "camaleonesObservados": 2,
+    "conHistorialElectoral": 2,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 2.67
+  },
+  {
+    "partido": "PARTIDO DE LOS TRABAJADORES Y EMPRENDEDORES PTE PERU - COMUNIDAD POLITICA INKA PERU",
+    "totalCandidatos": 40,
+    "camaleonesObservados": 2,
+    "conHistorialElectoral": 2,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 5.0
+  },
+  {
+    "partido": "PARTIDO POLITICO ADP",
+    "totalCandidatos": 41,
+    "camaleonesObservados": 2,
+    "conHistorialElectoral": 2,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 4.88
+  },
+  {
+    "partido": "PARTIDO POLITICO INTEGRIDAD DEMOCRATICA",
+    "totalCandidatos": 56,
+    "camaleonesObservados": 2,
+    "conHistorialElectoral": 2,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 3.57
+  },
+  {
+    "partido": "PARTIDO POLITICO PUEBLO CONSCIENTE",
+    "totalCandidatos": 72,
+    "camaleonesObservados": 2,
+    "conHistorialElectoral": 2,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 2.78
+  },
+  {
+    "partido": "FRENTE POPULAR AGRICOLA FIA DEL PERU",
+    "totalCandidatos": 230,
+    "camaleonesObservados": 1,
+    "conHistorialElectoral": 36,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 0.43
+  },
+  {
+    "partido": "PARTIDO POLITICO PERU ACCION",
+    "totalCandidatos": 17,
+    "camaleonesObservados": 1,
+    "conHistorialElectoral": 1,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 5.88
+  },
+  {
+    "partido": "PRIMERO LA GENTE - COMUNIDAD, ECOLOGIA, LIBERTAD Y PROGRESO",
+    "totalCandidatos": 15,
+    "camaleonesObservados": 1,
+    "conHistorialElectoral": 1,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 6.67
+  },
+  {
+    "partido": "FUERZA CIUDADANA",
+    "totalCandidatos": 50,
+    "camaleonesObservados": 0,
+    "conHistorialElectoral": 0,
+    "candidatosConClasificacionPendiente": 0,
+    "pctCamaleonesObservados": 0.0
+  }
+]

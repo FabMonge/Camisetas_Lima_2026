@@ -1,0 +1,94 @@
+{
+  "ALIANZA:UNIDAD NACIONAL": {
+    "nombres": [
+      "UNIDAD NACIONAL",
+      "ALIANZA ELECTORAL UNIDAD NACIONAL"
+    ],
+    "miembros": [
+      "PPC",
+      "SOLIDARIDAD NACIONAL",
+      "RENOVACION NACIONAL"
+    ]
+  },
+  "ALIANZA:SOLIDARIDAD NACIONAL": {
+    "nombres": [
+      "ALIANZA SOLIDARIDAD NACIONAL",
+      "ALIANZA ELECTORAL SOLIDARIDAD NACIONAL"
+    ],
+    "miembros": [
+      "CAMBIO 90",
+      "SIEMPRE UNIDOS",
+      "UNION POR EL PERU",
+      "TODOS POR EL PERU",
+      "SOLIDARIDAD NACIONAL"
+    ]
+  },
+  "ALIANZA:SOLIDARIDAD NACIONAL UPP": {
+    "nombres": [
+      "ALIANZA ELECTORAL SOLIDARIDAD NACIONAL - UPP"
+    ],
+    "miembros": [
+      "SOLIDARIDAD NACIONAL",
+      "UNION POR EL PERU"
+    ]
+  },
+  "ALIANZA:POR EL GRAN CAMBIO": {
+    "nombres": [
+      "ALIANZA POR EL GRAN CAMBIO"
+    ],
+    "miembros": [
+      "ALIANZA PARA EL PROGRESO",
+      "RESTAURACION NACIONAL",
+      "PPC",
+      "PARTIDO HUMANISTA PERUANO"
+    ]
+  },
+  "ALIANZA:POPULAR": {
+    "nombres": [
+      "ALIANZA POPULAR"
+    ],
+    "miembros": [
+      "PARTIDO APRISTA PERUANO",
+      "PPC",
+      "VAMOS PERU"
+    ]
+  },
+  "ALIANZA:FREDEMO": {
+    "nombres": [
+      "FREDEMO"
+    ],
+    "miembros": [
+      "MOVIMIENTO LIBERTAD",
+      "ACCION POPULAR",
+      "PPC",
+      "PARTIDO SOLIDARIDAD Y DEMOCRACIA"
+    ]
+  },
+  "ALIANZA:FRENTE DE CENTRO": {
+    "nombres": [
+      "FRENTE DE CENTRO"
+    ],
+    "miembros": [
+      "ACCION POPULAR",
+      "SOMOS PERU",
+      "COORDINADORA NACIONAL DE INDEPENDIENTES"
+    ]
+  },
+  "ALIANZA:GANA PERU": {
+    "nombres": [
+      "GANA PERU"
+    ],
+    "miembros": [
+      "PARTIDO NACIONALISTA PERUANO"
+    ]
+  },
+  "ALIANZA:VAMOS VECINO": {
+    "nombres": [
+      "ALIANZA ELECTORAL VAMOS VECINO",
+      "ALIANZA ELECTORAL SOLUCION POPULAR"
+    ],
+    "miembros": [
+      "MOVIMIENTO INDEPENDIENTE VAMOS VECINO"
+    ]
+  }
+}

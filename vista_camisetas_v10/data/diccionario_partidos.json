@@ -1,0 +1,5495 @@
+{
+  "a_la_vida_dile_si": {
+    "nombre": "A LA VIDA DILE SI",
+    "logo": "",
+    "tronco": "A LA VIDA DILE SI",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "A LA VIDA DILE SI",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "accion_popular": {
+    "nombre": "ACCION POPULAR",
+    "logo": "partidos/4.jpg",
+    "tronco": "ACCION POPULAR",
+    "dimension": {
+      "Organización Política": "ACCION POPULAR",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "04/08/2004"
+    },
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "ACCION POPULAR",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "accion_solidaria": {
+    "nombre": "ACCION SOLIDARIA",
+    "logo": "",
+    "tronco": "ACCION SOLIDARIA",
+    "dimension": {
+      "Organización Política": "ACCION SOLIDARIA",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - SAN JUAN DE LURIGANCHO",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "05/03/2007"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "ACCION SOLIDARIA",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "accion_y_trabajo": {
+    "nombre": "ACCION Y TRABAJO",
+    "logo": "",
+    "tronco": "ACCION Y TRABAJO",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "ACCION Y TRABAJO",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "acuerdo_socialista_de_izquierda": {
+    "nombre": "ACUERDO SOCIALISTA DE IZQUIERDA",
+    "logo": "",
+    "tronco": "ACUERDO SOCIALISTA DE IZQUIERDA",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "ACUERDO SOCIALISTA DE IZQUIERDA",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "adelante_pueblo_unido": {
+    "nombre": "ADELANTE PUEBLO UNIDO",
+    "logo": "",
+    "tronco": "ADELANTE PUEBLO UNIDO",
+    "dimension": {
+      "Organización Política": "ADELANTE PUEBLO UNIDO",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "23/06/2025",
+      "Fecha de cancelación": ""
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "ADELANTE PUEBLO UNIDO",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "aduanec": {
+    "nombre": "ADUANEC",
+    "logo": "",
+    "tronco": "ADUANEC",
+    "dimension": {
+      "Organización Política": "ADUANEC",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "MOVIMIENTO REGIONAL",
+      "Alcance": "CALLAO",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "18/02/2015"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "MOVIMIENTO REGIONAL",
+      "identidad": "ADUANEC",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "agrupacion_independiente_avancemos": {
+    "nombre": "AGRUPACION INDEPENDIENTE AVANCEMOS",
+    "logo": "",
+    "tronco": "CAMBIO RADICAL",
+    "dimension": null,
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "CAMBIO RADICAL",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "agrupacion_independiente_el_gallo_de_oro": {
+    "nombre": "AGRUPACION INDEPENDIENTE EL GALLO DE ORO",
+    "logo": "",
+    "tronco": "AGRUPACION INDEPENDIENTE EL GALLO DE ORO",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "AGRUPACION INDEPENDIENTE EL GALLO DE ORO",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "agrupacion_independiente_si_cumple": {
+    "nombre": "AGRUPACION INDEPENDIENTE SI CUMPLE",
+    "logo": "",
+    "tronco": "CAMBIO 90 / PERU PATRIA SEGURA",
+    "dimension": {
+      "Organización Política": "AGRUPACION INDEPENDIENTE SI CUMPLE",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "30/07/2012"
+    },
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "CAMBIO 90 / PERU PATRIA SEGURA",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "agrupacion_independiente_union_por_el_peru_frente_amplio": {
+    "nombre": "AGRUPACION INDEPENDIENTE UNION POR EL PERU - FRENTE AMPLIO",
+    "logo": "",
+    "tronco": "UNION POR EL PERU",
+    "dimension": null,
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "UNION POR EL PERU",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "agrupacion_independiente_union_por_el_peru_social_democracia": {
+    "nombre": "AGRUPACION INDEPENDIENTE UNION POR EL PERU - SOCIAL DEMOCRACIA",
+    "logo": "",
+    "tronco": "UNION POR EL PERU",
+    "dimension": null,
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "UNION POR EL PERU",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "agrupacion_vecinal_viva_requena": {
+    "nombre": "AGRUPACION VECINAL VIVA REQUENA",
+    "logo": "",
+    "tronco": "AGRUPACION VECINAL VIVA REQUENA",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "LOCAL",
+      "identidad": "AGRUPACION VECINAL VIVA REQUENA",
+      "cuenta": false,
+      "fuente": "denominación local explícita"
+    }
+  },
+  "ahora_nacion_an": {
+    "nombre": "AHORA NACION - AN",
+    "logo": "partidos/2980.jpg",
+    "tronco": "AHORA NACION AN",
+    "dimension": {
+      "Organización Política": "AHORA NACION - AN",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "24/07/2024"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "AHORA NACION AN",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "ahora_si_san_juan": {
+    "nombre": "AHORA SI SAN JUAN",
+    "logo": "",
+    "tronco": "AHORA SI SAN JUAN",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "AHORA SI SAN JUAN",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "alianza_electoral_cambio_90_nueva_mayoria": {
+    "nombre": "ALIANZA ELECTORAL CAMBIO 90 - NUEVA MAYORIA",
+    "logo": "",
+    "tronco": "CAMBIO 90 / PERU PATRIA SEGURA",
+    "dimension": null,
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "CAMBIO 90 / PERU PATRIA SEGURA",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "alianza_electoral_izquierda_unida": {
+    "nombre": "ALIANZA ELECTORAL IZQUIERDA UNIDA",
+    "logo": "",
+    "tronco": "IZQUIERDA UNIDA",
+    "dimension": null,
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "IZQUIERDA UNIDA",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "alianza_electoral_lima_al_2000": {
+    "nombre": "ALIANZA ELECTORAL LIMA AL 2000",
+    "logo": "",
+    "tronco": "ALIANZA ELECTORAL LIMA AL 2000",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ALIANZA",
+      "identidad": "ALIANZA:ALIANZA ELECTORAL LIMA AL 2000",
+      "cuenta": true,
+      "fuente": "denominación de alianza explícita"
+    }
+  },
+  "alianza_electoral_solidaridad_nacional_upp": {
+    "nombre": "ALIANZA ELECTORAL SOLIDARIDAD NACIONAL - UPP",
+    "logo": "",
+    "tronco": "ALIANZA ELECTORAL SOLIDARIDAD NACIONAL UPP",
+    "dimension": {
+      "Organización Política": "ALIANZA ELECTORAL SOLIDARIDAD NACIONAL - UPP",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ALIANZA ELECTORAL",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "16/08/2016"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ALIANZA",
+      "identidad": "ALIANZA:SOLIDARIDAD NACIONAL UPP",
+      "cuenta": true,
+      "fuente": "regla editorial de alianza"
+    }
+  },
+  "alianza_electoral_solucion_popular": {
+    "nombre": "ALIANZA ELECTORAL SOLUCION POPULAR",
+    "logo": "",
+    "tronco": "ALIANZA ELECTORAL SOLUCION POPULAR",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ALIANZA",
+      "identidad": "ALIANZA:VAMOS VECINO",
+      "cuenta": true,
+      "fuente": "regla editorial de alianza"
+    }
+  },
+  "alianza_electoral_unidad_nacional": {
+    "nombre": "ALIANZA ELECTORAL UNIDAD NACIONAL",
+    "logo": "",
+    "tronco": "ALIANZA ELECTORAL UNIDAD NACIONAL",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ALIANZA",
+      "identidad": "ALIANZA:UNIDAD NACIONAL",
+      "cuenta": true,
+      "fuente": "regla editorial de alianza"
+    }
+  },
+  "alianza_electoral_vamos_vecino": {
+    "nombre": "ALIANZA ELECTORAL VAMOS VECINO",
+    "logo": "",
+    "tronco": "ALIANZA ELECTORAL VAMOS VECINO",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ALIANZA",
+      "identidad": "ALIANZA:VAMOS VECINO",
+      "cuenta": true,
+      "fuente": "regla editorial de alianza"
+    }
+  },
+  "alianza_electoral_venceremos": {
+    "nombre": "ALIANZA ELECTORAL VENCEREMOS",
+    "logo": "partidos/3028.jpg",
+    "tronco": "ALIANZA ELECTORAL VENCEREMOS",
+    "dimension": {
+      "Organización Política": "ALIANZA ELECTORAL VENCEREMOS",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "ALIANZA ELECTORAL",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "16/02/2026",
+      "Fecha de cancelación": ""
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ALIANZA ELECTORAL",
+      "identidad": "ALIANZA:ALIANZA ELECTORAL VENCEREMOS",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "alianza_nacional_de_trabajadores_agricultores_universitarios_reservistas_y_obreros": {
+    "nombre": "ALIANZA NACIONAL DE TRABAJADORES AGRICULTORES UNIVERSITARIOS RESERVISTAS Y OBREROS",
+    "logo": "",
+    "tronco": "ALIANZA NACIONAL DE TRABAJADORES AGRICULTORES UNIVERSITARIOS RESERVISTAS Y OBREROS",
+    "dimension": {
+      "Organización Política": "ALIANZA NACIONAL DE TRABAJADORES AGRICULTORES UNIVERSITARIOS RESERVISTAS Y OBREROS",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "18/03/2025"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "ALIANZA NACIONAL DE TRABAJADORES AGRICULTORES UNIVERSITARIOS RESERVISTAS Y OBREROS",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "alianza_para_el_progreso": {
+    "nombre": "ALIANZA PARA EL PROGRESO",
+    "logo": "partidos/alianza_para_el_progreso.png",
+    "tronco": "ALIANZA PARA EL PROGRESO",
+    "dimension": {
+      "Organización Política": "ALIANZA PARA EL PROGRESO",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "12/04/2007"
+    },
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "ALIANZA PARA EL PROGRESO",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "alianza_para_el_progreso_del_peru": {
+    "nombre": "ALIANZA PARA EL PROGRESO DEL PERU",
+    "logo": "",
+    "tronco": "ALIANZA PARA EL PROGRESO",
+    "dimension": {
+      "Organización Política": "ALIANZA PARA EL PROGRESO DEL PERU",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ALIANZA ELECTORAL",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "16/08/2016"
+    },
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "ALIANZA PARA EL PROGRESO",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "alianza_popular": {
+    "nombre": "ALIANZA POPULAR",
+    "logo": "",
+    "tronco": "ALIANZA POPULAR",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ALIANZA",
+      "identidad": "ALIANZA:POPULAR",
+      "cuenta": true,
+      "fuente": "regla editorial de alianza"
+    }
+  },
+  "alianza_por_el_gran_cambio": {
+    "nombre": "ALIANZA POR EL GRAN CAMBIO",
+    "logo": "",
+    "tronco": "ALIANZA POR EL GRAN CAMBIO",
+    "dimension": {
+      "Organización Política": "ALIANZA POR EL GRAN CAMBIO",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ALIANZA ELECTORAL",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "04/08/2011"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ALIANZA",
+      "identidad": "ALIANZA:POR EL GRAN CAMBIO",
+      "cuenta": true,
+      "fuente": "regla editorial de alianza"
+    }
+  },
+  "alianza_por_nuestro_desarrollo": {
+    "nombre": "ALIANZA POR NUESTRO DESARROLLO",
+    "logo": "",
+    "tronco": "ALIANZA POR NUESTRO DESARROLLO",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ALIANZA",
+      "identidad": "ALIANZA:ALIANZA POR NUESTRO DESARROLLO",
+      "cuenta": true,
+      "fuente": "denominación de alianza explícita"
+    }
+  },
+  "alianza_regional_por_el_peru": {
+    "nombre": "ALIANZA REGIONAL POR EL PERU",
+    "logo": "partidos/3036.jpg",
+    "tronco": "ALIANZA REGIONAL POR EL PERU",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "MOVIMIENTO REGIONAL",
+      "identidad": "ALIANZA REGIONAL POR EL PERU",
+      "cuenta": true,
+      "fuente": "denominación regional explícita"
+    }
+  },
+  "alianza_renovacion_popular_y_toro": {
+    "nombre": "ALIANZA RENOVACION POPULAR Y TORO",
+    "logo": "",
+    "tronco": "ALIANZA RENOVACION POPULAR Y TORO",
+    "dimension": {
+      "Organización Política": "ALIANZA RENOVACION POPULAR Y TORO",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "ALIANZA ELECTORAL",
+      "Alcance": "REGIONAL",
+      "Fecha de inscripción": "16/02/2026",
+      "Fecha de cancelación": ""
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ALIANZA ELECTORAL",
+      "identidad": "ALIANZA:ALIANZA RENOVACION POPULAR Y TORO",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "alianza_revolucionaria_integracionista_moralizadora": {
+    "nombre": "ALIANZA REVOLUCIONARIA INTEGRACIONISTA MORALIZADORA",
+    "logo": "",
+    "tronco": "ALIANZA REVOLUCIONARIA INTEGRACIONISTA MORALIZADORA",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ALIANZA",
+      "identidad": "ALIANZA:ALIANZA REVOLUCIONARIA INTEGRACIONISTA MORALIZADORA",
+      "cuenta": true,
+      "fuente": "denominación de alianza explícita"
+    }
+  },
+  "alianza_solidaridad_nacional": {
+    "nombre": "ALIANZA SOLIDARIDAD NACIONAL",
+    "logo": "",
+    "tronco": "ALIANZA SOLIDARIDAD NACIONAL",
+    "dimension": {
+      "Organización Política": "ALIANZA SOLIDARIDAD NACIONAL",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ALIANZA ELECTORAL",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "04/08/2011"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ALIANZA",
+      "identidad": "ALIANZA:SOLIDARIDAD NACIONAL",
+      "cuenta": true,
+      "fuente": "regla editorial de alianza"
+    }
+  },
+  "alianza_unidad_de_izquierda": {
+    "nombre": "ALIANZA UNIDAD DE IZQUIERDA",
+    "logo": "",
+    "tronco": "ALIANZA UNIDAD DE IZQUIERDA",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ALIANZA",
+      "identidad": "ALIANZA:ALIANZA UNIDAD DE IZQUIERDA",
+      "cuenta": true,
+      "fuente": "denominación de alianza explícita"
+    }
+  },
+  "alternativa_brenense": {
+    "nombre": "ALTERNATIVA BREÑENSE",
+    "logo": "",
+    "tronco": "ALTERNATIVA BRENENSE",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "ALTERNATIVA BRENENSE",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "alternativa_libre": {
+    "nombre": "ALTERNATIVA LIBRE",
+    "logo": "",
+    "tronco": "ALTERNATIVA LIBRE",
+    "dimension": {
+      "Organización Política": "ALTERNATIVA LIBRE",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - PUEBLO LIBRE",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "05/03/2007"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "ALTERNATIVA LIBRE",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "angeles_de_san_borja": {
+    "nombre": "ANGELES DE SAN BORJA",
+    "logo": "",
+    "tronco": "ANGELES DE SAN BORJA",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "ANGELES DE SAN BORJA",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "august_san_bartolo": {
+    "nombre": "AUGUST SAN BARTOLO",
+    "logo": "",
+    "tronco": "AUGUST SAN BARTOLO",
+    "dimension": {
+      "Organización Política": "AUGUST SAN BARTOLO",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - SAN BARTOLO",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "29/01/2019"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "AUGUST SAN BARTOLO",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "avanza_pais_partido_de_integracion_social": {
+    "nombre": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+    "logo": "partidos/2173.jpg",
+    "tronco": "AVANZA PAIS",
+    "dimension": {
+      "Organización Política": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "27/08/2007"
+    },
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "AVANZA PAIS",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "avanza_vecino": {
+    "nombre": "AVANZA VECINO",
+    "logo": "",
+    "tronco": "AVANZA VECINO",
+    "dimension": {
+      "Organización Política": "AVANZA VECINO",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - INDEPENDENCIA",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "13/01/2011"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "AVANZA VECINO",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "ayni_es_progreso": {
+    "nombre": "AYNI ES PROGRESO",
+    "logo": "",
+    "tronco": "AYNI ES PROGRESO",
+    "dimension": {
+      "Organización Política": "AYNI ES PROGRESO",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - CIENEGUILLA",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "05/03/2007"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "AYNI ES PROGRESO",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "barranco_nuevo_rumbo": {
+    "nombre": "BARRANCO NUEVO RUMBO",
+    "logo": "",
+    "tronco": "BARRANCO NUEVO RUMBO",
+    "dimension": {
+      "Organización Política": "BARRANCO NUEVO RUMBO",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - BARRANCO",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "13/01/2011"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "BARRANCO NUEVO RUMBO",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "batalla_peru": {
+    "nombre": "BATALLA PERU",
+    "logo": "partidos/2984.jpg",
+    "tronco": "BATALLA PERU",
+    "dimension": {
+      "Organización Política": "BATALLA PERU",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "31/01/2025"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "BATALLA PERU",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "bloque_popular_amazonico": {
+    "nombre": "BLOQUE POPULAR AMAZONICO",
+    "logo": "",
+    "tronco": "BLOQUE POPULAR AMAZONICO",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "BLOQUE POPULAR AMAZONICO",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "cambiemos_ate": {
+    "nombre": "CAMBIEMOS ATE",
+    "logo": "",
+    "tronco": "CAMBIEMOS ATE",
+    "dimension": {
+      "Organización Política": "CAMBIEMOS ATE",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - ATE",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "05/03/2007"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "CAMBIEMOS ATE",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "cambiemos_san_juan": {
+    "nombre": "CAMBIEMOS SAN JUAN",
+    "logo": "",
+    "tronco": "CAMBIEMOS SAN JUAN",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "CAMBIEMOS SAN JUAN",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "cambio_90": {
+    "nombre": "CAMBIO 90",
+    "logo": "",
+    "tronco": "CAMBIO 90 / PERU PATRIA SEGURA",
+    "dimension": null,
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "CAMBIO 90 / PERU PATRIA SEGURA",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "cambio_90_nueva_mayoria": {
+    "nombre": "CAMBIO 90 - NUEVA MAYORIA",
+    "logo": "",
+    "tronco": "CAMBIO 90 / PERU PATRIA SEGURA",
+    "dimension": null,
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "CAMBIO 90 / PERU PATRIA SEGURA",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "cambio_radical": {
+    "nombre": "CAMBIO RADICAL",
+    "logo": "",
+    "tronco": "CAMBIO RADICAL",
+    "dimension": {
+      "Organización Política": "CAMBIO RADICAL",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "02/07/2012"
+    },
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "CAMBIO RADICAL",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "caminemos_juntos_por_junin": {
+    "nombre": "CAMINEMOS JUNTOS POR JUNIN",
+    "logo": "",
+    "tronco": "CAMINEMOS JUNTOS POR JUNIN",
+    "dimension": {
+      "Organización Política": "CAMINEMOS JUNTOS POR JUNIN",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "MOVIMIENTO REGIONAL",
+      "Alcance": "JUNÍN",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "13/01/2006"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "MOVIMIENTO REGIONAL",
+      "identidad": "CAMINEMOS JUNTOS POR JUNIN",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "canete_avanza": {
+    "nombre": "CAÑETE AVANZA",
+    "logo": "",
+    "tronco": "CANETE AVANZA",
+    "dimension": {
+      "Organización Política": "CAÑETE AVANZA",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACIÓN LOCAL (PROVINCIAL)",
+      "Alcance": "LIMA - CAÑETE",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "29/01/2019"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL PROVINCIAL",
+      "identidad": "CANETE AVANZA",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "chosica_ahora": {
+    "nombre": "CHOSICA AHORA",
+    "logo": "",
+    "tronco": "CHOSICA AHORA",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "CHOSICA AHORA",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "coalicion_transformadora_tierra_verde": {
+    "nombre": "COALICION TRANSFORMADORA TIERRA VERDE",
+    "logo": "partidos/2982.jpg",
+    "tronco": "COALICION TRANSFORMADORA TIERRA VERDE",
+    "dimension": {
+      "Organización Política": "COALICION TRANSFORMADORA TIERRA VERDE",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "20/11/2025",
+      "Fecha de cancelación": ""
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "COALICION TRANSFORMADORA TIERRA VERDE",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "code_pais_posible": {
+    "nombre": "CODE - PAIS POSIBLE",
+    "logo": "",
+    "tronco": "CODE PAIS POSIBLE",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "CODE PAIS POSIBLE",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "comas_al_exito": {
+    "nombre": "COMAS AL EXITO",
+    "logo": "",
+    "tronco": "COMAS AL EXITO",
+    "dimension": {
+      "Organización Política": "COMAS AL EXITO",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - COMAS",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "12/02/2015"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "COMAS AL EXITO",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "combina_junin": {
+    "nombre": "COMBINA JUNIN",
+    "logo": "",
+    "tronco": "COMBINA JUNIN",
+    "dimension": {
+      "Organización Política": "COMBINA JUNIN",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "MOVIMIENTO REGIONAL",
+      "Alcance": "JUNÍN",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "16/02/2023"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "MOVIMIENTO REGIONAL",
+      "identidad": "COMBINA JUNIN",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "comunidad_politica_inka_peru": {
+    "nombre": "COMUNIDAD POLITICA INKA PERU",
+    "logo": "",
+    "tronco": "COMUNIDAD POLITICA INKA PERU",
+    "dimension": {
+      "Organización Política": "COMUNIDAD POLITICA INKA PERU",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "04/09/2025",
+      "Fecha de cancelación": ""
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "COMUNIDAD POLITICA INKA PERU",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "con_fuerza_peru": {
+    "nombre": "CON FUERZA PERU",
+    "logo": "",
+    "tronco": "CON FUERZA PERU",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "CON FUERZA PERU",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "concertacion_descentralista": {
+    "nombre": "CONCERTACION DESCENTRALISTA",
+    "logo": "",
+    "tronco": "CONCERTACION DESCENTRALISTA",
+    "dimension": {
+      "Organización Política": "CONCERTACION DESCENTRALISTA",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ALIANZA ELECTORAL",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "02/08/2006"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ALIANZA ELECTORAL",
+      "identidad": "ALIANZA:CONCERTACION DESCENTRALISTA",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "concertacion_para_el_desarrollo_regional_lima": {
+    "nombre": "CONCERTACION PARA EL DESARROLLO REGIONAL - LIMA",
+    "logo": "",
+    "tronco": "CONCERTACION PARA EL DESARROLLO REGIONAL LIMA",
+    "dimension": {
+      "Organización Política": "CONCERTACION PARA EL DESARROLLO REGIONAL - LIMA",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "MOVIMIENTO REGIONAL",
+      "Alcance": "LIMA",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "17/07/2006"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "MOVIMIENTO REGIONAL",
+      "identidad": "CONCERTACION PARA EL DESARROLLO REGIONAL LIMA",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "confianza_peru": {
+    "nombre": "CONFIANZA PERU",
+    "logo": "",
+    "tronco": "CONFIANZA PERU",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "CONFIANZA PERU",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "consenso_vecinal": {
+    "nombre": "CONSENSO VECINAL",
+    "logo": "",
+    "tronco": "CONSENSO VECINAL",
+    "dimension": {
+      "Organización Política": "CONSENSO VECINAL",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - LA VICTORIA",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "05/03/2007"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "CONSENSO VECINAL",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "construyendo_san_luis": {
+    "nombre": "CONSTRUYENDO SAN LUIS",
+    "logo": "",
+    "tronco": "CONSTRUYENDO SAN LUIS",
+    "dimension": {
+      "Organización Política": "CONSTRUYENDO SAN LUIS",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - SAN LUIS",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "05/03/2007"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "CONSTRUYENDO SAN LUIS",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "cooperacion_verdad_y_honradez": {
+    "nombre": "COOPERACION, VERDAD Y HONRADEZ",
+    "logo": "partidos/3046.jpg",
+    "tronco": "COOPERACION VERDAD Y HONRADEZ",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "COOPERACION VERDAD Y HONRADEZ",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "coordinadora_nacional_de_independientes": {
+    "nombre": "COORDINADORA NACIONAL DE INDEPENDIENTES",
+    "logo": "",
+    "tronco": "COORDINADORA NACIONAL DE INDEPENDIENTES",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "COORDINADORA NACIONAL DE INDEPENDIENTES",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "creciendo_por_brena": {
+    "nombre": "CRECIENDO POR BREÑA",
+    "logo": "",
+    "tronco": "CRECIENDO POR BRENA",
+    "dimension": {
+      "Organización Política": "CRECIENDO POR BREÑA",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - BREÑA",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "29/01/2019"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "CRECIENDO POR BRENA",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "de_san_bartolo_para_el_peru": {
+    "nombre": "DE SAN BARTOLO PARA EL PERU",
+    "logo": "",
+    "tronco": "DE SAN BARTOLO PARA EL PERU",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "DE SAN BARTOLO PARA EL PERU",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "decide": {
+    "nombre": "DECIDE",
+    "logo": "",
+    "tronco": "DECIDE",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "DECIDE",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "decision_barranco": {
+    "nombre": "DECISION BARRANCO",
+    "logo": "",
+    "tronco": "DECISION BARRANCO",
+    "dimension": {
+      "Organización Política": "DECISION BARRANCO",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - BARRANCO",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "12/02/2015"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "DECISION BARRANCO",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "decision_ciudadana": {
+    "nombre": "DECISION CIUDADANA",
+    "logo": "",
+    "tronco": "DECISION CIUDADANA",
+    "dimension": {
+      "Organización Política": "DECISION CIUDADANA",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - BARRANCO",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "13/01/2011"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "DECISION CIUDADANA",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "democracia_con_valores": {
+    "nombre": "DEMOCRACIA CON VALORES",
+    "logo": "",
+    "tronco": "DEMOCRACIA CON VALORES",
+    "dimension": {
+      "Organización Política": "DEMOCRACIA CON VALORES",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACIÓN LOCAL (PROVINCIAL)",
+      "Alcance": "LIMA - LIMA",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "21/06/2010"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL PROVINCIAL",
+      "identidad": "DEMOCRACIA CON VALORES",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "democracia_directa": {
+    "nombre": "DEMOCRACIA DIRECTA",
+    "logo": "",
+    "tronco": "DEMOCRACIA DIRECTA",
+    "dimension": {
+      "Organización Política": "DEMOCRACIA DIRECTA",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "07/09/2021"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "DEMOCRACIA DIRECTA",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "desarrollo_integral_ayacucho": {
+    "nombre": "DESARROLLO INTEGRAL AYACUCHO",
+    "logo": "",
+    "tronco": "DESARROLLO INTEGRAL AYACUCHO",
+    "dimension": {
+      "Organización Política": "DESARROLLO INTEGRAL AYACUCHO",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "MOVIMIENTO REGIONAL",
+      "Alcance": "AYACUCHO",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "16/02/2023"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "MOVIMIENTO REGIONAL",
+      "identidad": "DESARROLLO INTEGRAL AYACUCHO",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "despertar_nacional": {
+    "nombre": "DESPERTAR NACIONAL",
+    "logo": "",
+    "tronco": "DESPERTAR NACIONAL",
+    "dimension": {
+      "Organización Política": "DESPERTAR NACIONAL",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "02/07/2012"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "DESPERTAR NACIONAL",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "dialogo_vecinal": {
+    "nombre": "DIALOGO VECINAL",
+    "logo": "",
+    "tronco": "DIALOGO VECINAL",
+    "dimension": {
+      "Organización Política": "DIALOGO VECINAL",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACIÓN LOCAL (PROVINCIAL)",
+      "Alcance": "LIMA - LIMA",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "12/02/2015"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL PROVINCIAL",
+      "identidad": "DIALOGO VECINAL",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "dignidad_vecinal": {
+    "nombre": "DIGNIDAD VECINAL",
+    "logo": "",
+    "tronco": "DIGNIDAD VECINAL",
+    "dimension": {
+      "Organización Política": "DIGNIDAD VECINAL",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - ATE",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "05/03/2007"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "DIGNIDAD VECINAL",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "edificar": {
+    "nombre": "EDIFICAR",
+    "logo": "",
+    "tronco": "EDIFICAR",
+    "dimension": {
+      "Organización Política": "EDIFICAR",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - LINCE",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "05/03/2007"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "EDIFICAR",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "educa_emprende_e_innova_peru": {
+    "nombre": "EDUCA, EMPRENDE E INNOVA PERU",
+    "logo": "",
+    "tronco": "EDUCA EMPRENDE E INNOVA PERU",
+    "dimension": {
+      "Organización Política": "EDUCA, EMPRENDE E INNOVA PERU",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "14/04/2026"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "EDUCA EMPRENDE E INNOVA PERU",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "el_frente_amplio_por_justicia_vida_y_libertad": {
+    "nombre": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
+    "logo": "",
+    "tronco": "EL FRENTE AMPLIO POR JUSTICIA VIDA Y LIBERTAD",
+    "dimension": {
+      "Organización Política": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "07/09/2021"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "EL FRENTE AMPLIO POR JUSTICIA VIDA Y LIBERTAD",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "el_progreso_es_bueno": {
+    "nombre": "EL PROGRESO ES BUENO",
+    "logo": "",
+    "tronco": "EL PROGRESO ES BUENO",
+    "dimension": {
+      "Organización Política": "EL PROGRESO ES BUENO",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - LURIGANCHO",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "13/01/2011"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "EL PROGRESO ES BUENO",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "en_san_luis_los_jovenes_si_podemos": {
+    "nombre": "EN SAN LUIS ... LOS JOVENES SI PODEMOS",
+    "logo": "",
+    "tronco": "EN SAN LUIS LOS JOVENES SI PODEMOS",
+    "dimension": {
+      "Organización Política": "EN SAN LUIS ... LOS JOVENES SI PODEMOS",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - SAN LUIS",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "05/03/2007"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "EN SAN LUIS LOS JOVENES SI PODEMOS",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "fe_en_el_peru": {
+    "nombre": "FE EN EL PERU",
+    "logo": "partidos/2898.jpg",
+    "tronco": "FE EN EL PERU",
+    "dimension": {
+      "Organización Política": "FE EN EL PERU",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "14/02/2023"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "FE EN EL PERU",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "fonavistas_del_peru": {
+    "nombre": "FONAVISTAS DEL PERU",
+    "logo": "",
+    "tronco": "FONAVISTAS DEL PERU",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "FONAVISTAS DEL PERU",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "forjando_pucusana": {
+    "nombre": "FORJANDO PUCUSANA",
+    "logo": "",
+    "tronco": "FORJANDO PUCUSANA",
+    "dimension": {
+      "Organización Política": "FORJANDO PUCUSANA",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - PUCUSANA",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "13/01/2011"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "FORJANDO PUCUSANA",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "fredemo": {
+    "nombre": "FREDEMO",
+    "logo": "",
+    "tronco": "FREDEMO",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ALIANZA",
+      "identidad": "ALIANZA:FREDEMO",
+      "cuenta": true,
+      "fuente": "regla editorial de alianza"
+    }
+  },
+  "frenatraca": {
+    "nombre": "FRENATRACA",
+    "logo": "",
+    "tronco": "FRENATRACA",
+    "dimension": null,
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "FRENATRACA",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "frente_amplio_democ_anconero": {
+    "nombre": "FRENTE AMPLIO DEMOC. ANCONERO",
+    "logo": "",
+    "tronco": "FRENTE AMPLIO DEMOC ANCONERO",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "FRENTE AMPLIO DEMOC ANCONERO",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "frente_de_centro": {
+    "nombre": "FRENTE DE CENTRO",
+    "logo": "",
+    "tronco": "FRENTE DE CENTRO",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ALIANZA",
+      "identidad": "ALIANZA:FRENTE DE CENTRO",
+      "cuenta": true,
+      "fuente": "regla editorial de alianza"
+    }
+  },
+  "frente_de_integracion_y_desarrollo_comunal_fidec": {
+    "nombre": "FRENTE DE INTEGRACION Y DESARROLLO COMUNAL - FIDEC",
+    "logo": "",
+    "tronco": "FRENTE DE INTEGRACION Y DESARROLLO COMUNAL FIDEC",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "FRENTE DE INTEGRACION Y DESARROLLO COMUNAL FIDEC",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "frente_de_solidaridad_anconera": {
+    "nombre": "FRENTE DE SOLIDARIDAD ANCONERA",
+    "logo": "",
+    "tronco": "FRENTE DE SOLIDARIDAD ANCONERA",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "FRENTE DE SOLIDARIDAD ANCONERA",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "frente_electoral_izquierda_unida": {
+    "nombre": "FRENTE ELECTORAL IZQUIERDA UNIDA",
+    "logo": "",
+    "tronco": "IZQUIERDA UNIDA",
+    "dimension": null,
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "IZQUIERDA UNIDA",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "frente_esperanza": {
+    "nombre": "FRENTE ESPERANZA",
+    "logo": "",
+    "tronco": "FRENTE ESPERANZA",
+    "dimension": {
+      "Organización Política": "FRENTE ESPERANZA",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "13/07/2017"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "FRENTE ESPERANZA",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "frente_independiente_22_huarochiri": {
+    "nombre": "FRENTE INDEPENDIENTE 22 HUAROCHIRI",
+    "logo": "",
+    "tronco": "FRENTE INDEPENDIENTE 22 HUAROCHIRI",
+    "dimension": {
+      "Organización Política": "FRENTE INDEPENDIENTE 22 HUAROCHIRI",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - HUAROCHIRI - SAN ANTONIO",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "05/03/2007"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "FRENTE INDEPENDIENTE 22 HUAROCHIRI",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "frente_independiente_concertacion_por_ancon": {
+    "nombre": "FRENTE INDEPENDIENTE CONCERTACION POR ANCON",
+    "logo": "",
+    "tronco": "FRENTE INDEPENDIENTE CONCERTACION POR ANCON",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "FRENTE INDEPENDIENTE CONCERTACION POR ANCON",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "frente_independiente_democratico": {
+    "nombre": "FRENTE INDEPENDIENTE DEMOCRATICO",
+    "logo": "",
+    "tronco": "FRENTE INDEPENDIENTE DEMOCRATICO",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "FRENTE INDEPENDIENTE DEMOCRATICO",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "frente_independiente_moralizador": {
+    "nombre": "FRENTE INDEPENDIENTE MORALIZADOR",
+    "logo": "",
+    "tronco": "FIM / FRENTE DE LA ESPERANZA",
+    "dimension": {
+      "Organización Política": "FRENTE INDEPENDIENTE MORALIZADOR",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "27/08/2007"
+    },
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "FIM / FRENTE DE LA ESPERANZA",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "frente_metropolitano": {
+    "nombre": "FRENTE METROPOLITANO",
+    "logo": "",
+    "tronco": "FRENTE METROPOLITANO",
+    "dimension": {
+      "Organización Política": "FRENTE METROPOLITANO",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACIÓN LOCAL (PROVINCIAL)",
+      "Alcance": "LIMA - LIMA",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "29/01/2019"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL PROVINCIAL",
+      "identidad": "FRENTE METROPOLITANO",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "frente_nacional_de_trabajadores_y_campesinos_frenatraca": {
+    "nombre": "FRENTE NACIONAL DE TRABAJADORES Y CAMPESINOS - FRENATRACA",
+    "logo": "",
+    "tronco": "FRENATRACA",
+    "dimension": null,
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "FRENATRACA",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "frente_patriota_peruano": {
+    "nombre": "FRENTE PATRIOTA PERUANO",
+    "logo": "",
+    "tronco": "FRENTE PATRIOTA PERUANO",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "FRENTE PATRIOTA PERUANO",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "frente_popular_agricola_fia_del_peru": {
+    "nombre": "FRENTE POPULAR AGRICOLA FIA DEL PERU",
+    "logo": "partidos/2901.jpg",
+    "tronco": "FREPAP",
+    "dimension": {
+      "Organización Política": "FRENTE POPULAR AGRICOLA FIA DEL PERU",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "14/02/2023"
+    },
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "FREPAP",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "frente_popular_agricola_fia_del_peru_frepap": {
+    "nombre": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
+    "logo": "",
+    "tronco": "FREPAP",
+    "dimension": {
+      "Organización Política": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "27/08/2007"
+    },
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "FREPAP",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "frente_popular_y_agropecuario_de_carabayllo_frepac": {
+    "nombre": "FRENTE POPULAR Y AGROPECUARIO DE CARABAYLLO FREPAC",
+    "logo": "",
+    "tronco": "FRENTE POPULAR Y AGROPECUARIO DE CARABAYLLO FREPAC",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "FRENTE POPULAR Y AGROPECUARIO DE CARABAYLLO FREPAC",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "fuertes_en_san_luis": {
+    "nombre": "FUERTES EN SAN LUIS",
+    "logo": "",
+    "tronco": "FUERTES EN SAN LUIS",
+    "dimension": {
+      "Organización Política": "FUERTES EN SAN LUIS",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - SAN LUIS",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "13/01/2011"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "FUERTES EN SAN LUIS",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "fuerza_2011": {
+    "nombre": "FUERZA 2011",
+    "logo": "",
+    "tronco": "FUERZA POPULAR",
+    "dimension": null,
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "FUERZA POPULAR",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "fuerza_ciudadana": {
+    "nombre": "FUERZA CIUDADANA",
+    "logo": "partidos/3009.jpg",
+    "tronco": "FUERZA CIUDADANA",
+    "dimension": {
+      "Organización Política": "FUERZA CIUDADANA",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "24/12/2025",
+      "Fecha de cancelación": ""
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "FUERZA CIUDADANA",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "fuerza_democratica": {
+    "nombre": "FUERZA DEMOCRATICA",
+    "logo": "",
+    "tronco": "FUERZA DEMOCRATICA",
+    "dimension": {
+      "Organización Política": "FUERZA DEMOCRATICA",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "27/08/2007"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "FUERZA DEMOCRATICA",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "fuerza_nacional": {
+    "nombre": "FUERZA NACIONAL",
+    "logo": "",
+    "tronco": "FUERZA NACIONAL",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "FUERZA NACIONAL",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "fuerza_popular": {
+    "nombre": "FUERZA POPULAR",
+    "logo": "partidos/1366.jpg",
+    "tronco": "FUERZA POPULAR",
+    "dimension": {
+      "Organización Política": "FUERZA POPULAR",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "09/03/2010"
+    },
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "FUERZA POPULAR",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "fuerza_regional": {
+    "nombre": "FUERZA REGIONAL",
+    "logo": "",
+    "tronco": "FUERZA REGIONAL",
+    "dimension": {
+      "Organización Política": "FUERZA REGIONAL",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "MOVIMIENTO REGIONAL",
+      "Alcance": "LIMA",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "15/02/2023"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "MOVIMIENTO REGIONAL",
+      "identidad": "FUERZA REGIONAL",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "gana_peru": {
+    "nombre": "GANA PERU",
+    "logo": "",
+    "tronco": "GANA PERU",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ALIANZA",
+      "identidad": "ALIANZA:GANA PERU",
+      "cuenta": true,
+      "fuente": "regla editorial de alianza"
+    }
+  },
+  "independientes_de_accion": {
+    "nombre": "INDEPENDIENTES DE ACCION",
+    "logo": "",
+    "tronco": "INDEPENDIENTES DE ACCION",
+    "dimension": {
+      "Organización Política": "INDEPENDIENTES DE ACCION",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - SAN ISIDRO",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "13/01/2011"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "INDEPENDIENTES DE ACCION",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "izquierda_socialista": {
+    "nombre": "IZQUIERDA SOCIALISTA",
+    "logo": "",
+    "tronco": "IZQUIERDA SOCIALISTA",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "IZQUIERDA SOCIALISTA",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "izquierda_unida": {
+    "nombre": "IZQUIERDA UNIDA",
+    "logo": "",
+    "tronco": "IZQUIERDA UNIDA",
+    "dimension": null,
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "IZQUIERDA UNIDA",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "jesus_maria_siempre": {
+    "nombre": "JESUS MARIA SIEMPRE",
+    "logo": "",
+    "tronco": "JESUS MARIA SIEMPRE",
+    "dimension": {
+      "Organización Política": "JESUS MARIA SIEMPRE",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - JESUS MARIA",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "13/01/2011"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "JESUS MARIA SIEMPRE",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "junin_emprendedores_rumbo_al_21": {
+    "nombre": "JUNIN EMPRENDEDORES RUMBO AL 21",
+    "logo": "",
+    "tronco": "JUNIN EMPRENDEDORES RUMBO AL 21",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "JUNIN EMPRENDEDORES RUMBO AL 21",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "juntos_por_el_peru": {
+    "nombre": "JUNTOS POR EL PERU",
+    "logo": "partidos/1264.jpg",
+    "tronco": "HUMANISTA / JUNTOS POR EL PERU",
+    "dimension": {
+      "Organización Política": "JUNTOS POR EL PERU",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "23/11/2009"
+    },
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "HUMANISTA / JUNTOS POR EL PERU",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "juntos_si_podemos": {
+    "nombre": "JUNTOS SI PODEMOS",
+    "logo": "",
+    "tronco": "JUNTOS SI PODEMOS",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "JUNTOS SI PODEMOS",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "l_i_n_11_frente_independiente_democratico": {
+    "nombre": "L.I N° 11 FRENTE INDEPENDIENTE DEMOCRATICO",
+    "logo": "",
+    "tronco": "L I N 11 FRENTE INDEPENDIENTE DEMOCRATICO",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "LOCAL",
+      "identidad": "L I N 11 FRENTE INDEPENDIENTE DEMOCRATICO",
+      "cuenta": false,
+      "fuente": "denominación local explícita"
+    }
+  },
+  "l_i_nro_5_movilizacion_unidad_vecinal_de_ancon": {
+    "nombre": "L.I. NRO  5 MOVILIZACION UNIDAD VECINAL DE ANCON",
+    "logo": "",
+    "tronco": "L I NRO 5 MOVILIZACION UNIDAD VECINAL DE ANCON",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "LOCAL",
+      "identidad": "L I NRO 5 MOVILIZACION UNIDAD VECINAL DE ANCON",
+      "cuenta": false,
+      "fuente": "denominación local explícita"
+    }
+  },
+  "l_i_nro_7_corazon_molinense": {
+    "nombre": "L.I. NRO  7 CORAZON MOLINENSE",
+    "logo": "",
+    "tronco": "L I NRO 7 CORAZON MOLINENSE",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "LOCAL",
+      "identidad": "L I NRO 7 CORAZON MOLINENSE",
+      "cuenta": false,
+      "fuente": "denominación local explícita"
+    }
+  },
+  "l_i_nro_7_de_la_mano_con_el_vecino_de_brena": {
+    "nombre": "L.I. NRO  7 DE LA MANO CON EL VECINO DE BREÑA",
+    "logo": "",
+    "tronco": "L I NRO 7 DE LA MANO CON EL VECINO DE BRENA",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "LOCAL",
+      "identidad": "L I NRO 7 DE LA MANO CON EL VECINO DE BRENA",
+      "cuenta": false,
+      "fuente": "denominación local explícita"
+    }
+  },
+  "l_i_nro_7_frente_renovador_independiente_de_san_borja": {
+    "nombre": "L.I. NRO  7 FRENTE RENOVADOR INDEPENDIENTE DE SAN BORJA",
+    "logo": "",
+    "tronco": "L I NRO 7 FRENTE RENOVADOR INDEPENDIENTE DE SAN BORJA",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "LOCAL",
+      "identidad": "L I NRO 7 FRENTE RENOVADOR INDEPENDIENTE DE SAN BORJA",
+      "cuenta": false,
+      "fuente": "denominación local explícita"
+    }
+  },
+  "l_i_nro_7_gestion_popular": {
+    "nombre": "L.I. NRO  7 GESTION POPULAR",
+    "logo": "",
+    "tronco": "L I NRO 7 GESTION POPULAR",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "LOCAL",
+      "identidad": "L I NRO 7 GESTION POPULAR",
+      "cuenta": false,
+      "fuente": "denominación local explícita"
+    }
+  },
+  "l_i_nro_7_union_por_el_progreso": {
+    "nombre": "L.I. NRO  7 UNION POR EL PROGRESO",
+    "logo": "",
+    "tronco": "L I NRO 7 UNION POR EL PROGRESO",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "LOCAL",
+      "identidad": "L I NRO 7 UNION POR EL PROGRESO",
+      "cuenta": false,
+      "fuente": "denominación local explícita"
+    }
+  },
+  "l_i_nro_9_movimiento_por_el_cambio_de_lurin": {
+    "nombre": "L.I. NRO  9 MOVIMIENTO POR EL CAMBIO DE LURIN",
+    "logo": "",
+    "tronco": "L I NRO 9 MOVIMIENTO POR EL CAMBIO DE LURIN",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "LOCAL",
+      "identidad": "L I NRO 9 MOVIMIENTO POR EL CAMBIO DE LURIN",
+      "cuenta": false,
+      "fuente": "denominación local explícita"
+    }
+  },
+  "l_i_nro_9_sucre_tecnologia_y_desarrollo": {
+    "nombre": "L.I. NRO  9 SUCRE TECNOLOGIA Y DESARROLLO",
+    "logo": "",
+    "tronco": "L I NRO 9 SUCRE TECNOLOGIA Y DESARROLLO",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "LOCAL",
+      "identidad": "L I NRO 9 SUCRE TECNOLOGIA Y DESARROLLO",
+      "cuenta": false,
+      "fuente": "denominación local explícita"
+    }
+  },
+  "l_i_nro_11_los_huaristas": {
+    "nombre": "L.I. NRO 11 LOS HUARISTAS",
+    "logo": "",
+    "tronco": "L I NRO 11 LOS HUARISTAS",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "LOCAL",
+      "identidad": "L I NRO 11 LOS HUARISTAS",
+      "cuenta": false,
+      "fuente": "denominación local explícita"
+    }
+  },
+  "l_i_nro_11_por_accion_de_las_bases_libres_organizadas": {
+    "nombre": "L.I. NRO 11 POR ACCION DE LAS BASES LIBRES ORGANIZADAS",
+    "logo": "",
+    "tronco": "L I NRO 11 POR ACCION DE LAS BASES LIBRES ORGANIZADAS",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "LOCAL",
+      "identidad": "L I NRO 11 POR ACCION DE LAS BASES LIBRES ORGANIZADAS",
+      "cuenta": false,
+      "fuente": "denominación local explícita"
+    }
+  },
+  "l_i_nro_13_hechos_y_no_promesas_con_el_gran_cambio": {
+    "nombre": "L.I. NRO 13 HECHOS Y NO PROMESAS CON EL GRAN CAMBIO",
+    "logo": "",
+    "tronco": "L I NRO 13 HECHOS Y NO PROMESAS CON EL GRAN CAMBIO",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "LOCAL",
+      "identidad": "L I NRO 13 HECHOS Y NO PROMESAS CON EL GRAN CAMBIO",
+      "cuenta": false,
+      "fuente": "denominación local explícita"
+    }
+  },
+  "l_i_nro_19_juntos_por_el_desarrollo_de_huancavelica": {
+    "nombre": "L.I. NRO 19 JUNTOS POR EL DESARROLLO DE HUANCAVELICA",
+    "logo": "",
+    "tronco": "L I NRO 19 JUNTOS POR EL DESARROLLO DE HUANCAVELICA",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "LOCAL",
+      "identidad": "L I NRO 19 JUNTOS POR EL DESARROLLO DE HUANCAVELICA",
+      "cuenta": false,
+      "fuente": "denominación local explícita"
+    }
+  },
+  "l_i_nro_7_frente_amplio_democratico_anconero": {
+    "nombre": "L.I. NRO 7 FRENTE AMPLIO DEMOCRATICO ANCONERO",
+    "logo": "",
+    "tronco": "L I NRO 7 FRENTE AMPLIO DEMOCRATICO ANCONERO",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "LOCAL",
+      "identidad": "L I NRO 7 FRENTE AMPLIO DEMOCRATICO ANCONERO",
+      "cuenta": false,
+      "fuente": "denominación local explícita"
+    }
+  },
+  "l_i_n_17_cambio_93": {
+    "nombre": "L.I. N° 17 CAMBIO 93",
+    "logo": "",
+    "tronco": "L I N 17 CAMBIO 93",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "LOCAL",
+      "identidad": "L I N 17 CAMBIO 93",
+      "cuenta": false,
+      "fuente": "denominación local explícita"
+    }
+  },
+  "l_i_n_27": {
+    "nombre": "L.I. N° 27",
+    "logo": "",
+    "tronco": "L I N 27",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "LOCAL",
+      "identidad": "L I N 27",
+      "cuenta": false,
+      "fuente": "denominación local explícita"
+    }
+  },
+  "l_i_n_3_obras": {
+    "nombre": "L.I.N° 3 OBRAS",
+    "logo": "",
+    "tronco": "L I N 3 OBRAS",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "LOCAL",
+      "identidad": "L I N 3 OBRAS",
+      "cuenta": false,
+      "fuente": "denominación local explícita"
+    }
+  },
+  "l_i_n_7_frente_independiente_democratico": {
+    "nombre": "L.I.N° 7 FRENTE INDEPENDIENTE DEMOCRATICO",
+    "logo": "",
+    "tronco": "L I N 7 FRENTE INDEPENDIENTE DEMOCRATICO",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "LOCAL",
+      "identidad": "L I N 7 FRENTE INDEPENDIENTE DEMOCRATICO",
+      "cuenta": false,
+      "fuente": "denominación local explícita"
+    }
+  },
+  "la_molina_hacia_el_gran_cambio": {
+    "nombre": "LA MOLINA HACIA EL GRAN CAMBIO",
+    "logo": "",
+    "tronco": "LA MOLINA HACIA EL GRAN CAMBIO",
+    "dimension": {
+      "Organización Política": "LA MOLINA HACIA EL GRAN CAMBIO",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - LA MOLINA",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "13/01/2011"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "LA MOLINA HACIA EL GRAN CAMBIO",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "la_molina_solidaria": {
+    "nombre": "LA MOLINA SOLIDARIA",
+    "logo": "",
+    "tronco": "LA MOLINA SOLIDARIA",
+    "dimension": {
+      "Organización Política": "LA MOLINA SOLIDARIA",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - LA MOLINA",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "13/01/2011"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "LA MOLINA SOLIDARIA",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "la_nueva_opcion_de_puente_piedra": {
+    "nombre": "LA NUEVA OPCION DE PUENTE PIEDRA",
+    "logo": "",
+    "tronco": "LA NUEVA OPCION DE PUENTE PIEDRA",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "LA NUEVA OPCION DE PUENTE PIEDRA",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "libertad_popular": {
+    "nombre": "LIBERTAD POPULAR",
+    "logo": "partidos/2933.jpg",
+    "tronco": "LIBERTAD POPULAR",
+    "dimension": {
+      "Organización Política": "LIBERTAD POPULAR",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "08/06/2023",
+      "Fecha de cancelación": ""
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "LIBERTAD POPULAR",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "lista_independiente_fuerza_chanchamayo": {
+    "nombre": "LISTA INDEPENDIENTE \"FUERZA CHANCHAMAYO\"",
+    "logo": "",
+    "tronco": "LISTA INDEPENDIENTE FUERZA CHANCHAMAYO",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "LOCAL",
+      "identidad": "LISTA INDEPENDIENTE FUERZA CHANCHAMAYO",
+      "cuenta": false,
+      "fuente": "denominación local explícita"
+    }
+  },
+  "lista_independiente_de_trabajadores_socialistas": {
+    "nombre": "LISTA INDEPENDIENTE DE TRABAJADORES SOCIALISTAS",
+    "logo": "",
+    "tronco": "LISTA INDEPENDIENTE DE TRABAJADORES SOCIALISTAS",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "LOCAL",
+      "identidad": "LISTA INDEPENDIENTE DE TRABAJADORES SOCIALISTAS",
+      "cuenta": false,
+      "fuente": "denominación local explícita"
+    }
+  },
+  "lista_independiente_frente_unico_de_pobladores_de_la_urb_sn_jose_n_3": {
+    "nombre": "LISTA INDEPENDIENTE FRENTE UNICO DE POBLADORES DE LA URB. SN. JOSE N° 3",
+    "logo": "",
+    "tronco": "LISTA INDEPENDIENTE FRENTE UNICO DE POBLADORES DE LA URB SN JOSE N 3",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "LOCAL",
+      "identidad": "LISTA INDEPENDIENTE FRENTE UNICO DE POBLADORES DE LA URB SN JOSE N 3",
+      "cuenta": false,
+      "fuente": "denominación local explícita"
+    }
+  },
+  "lista_independiente_modernicemos_punta_negra": {
+    "nombre": "LISTA INDEPENDIENTE MODERNICEMOS PUNTA NEGRA",
+    "logo": "",
+    "tronco": "LISTA INDEPENDIENTE MODERNICEMOS PUNTA NEGRA",
+    "dimension": {
+      "Organización Política": "LISTA INDEPENDIENTE MODERNICEMOS PUNTA NEGRA",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - PUNTA NEGRA",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "13/01/2011"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "LISTA INDEPENDIENTE MODERNICEMOS PUNTA NEGRA",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "lista_independiente_raices_de_independencia": {
+    "nombre": "LISTA INDEPENDIENTE RAICES DE INDEPENDENCIA",
+    "logo": "",
+    "tronco": "LISTA INDEPENDIENTE RAICES DE INDEPENDENCIA",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "LOCAL",
+      "identidad": "LISTA INDEPENDIENTE RAICES DE INDEPENDENCIA",
+      "cuenta": false,
+      "fuente": "denominación local explícita"
+    }
+  },
+  "lobobras_vuelve": {
+    "nombre": "LOBOBRAS...VUELVE",
+    "logo": "",
+    "tronco": "LOBOBRAS VUELVE",
+    "dimension": {
+      "Organización Política": "LOBOBRAS...VUELVE",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - CHACLACAYO",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "13/01/2011"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "LOBOBRAS VUELVE",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "lucho_por_mi_barrio": {
+    "nombre": "LUCHO POR MI BARRIO",
+    "logo": "",
+    "tronco": "LUCHO POR MI BARRIO",
+    "dimension": {
+      "Organización Política": "LUCHO POR MI BARRIO",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - CHACLACAYO",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "29/01/2019"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "LUCHO POR MI BARRIO",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "magdalena_avanza": {
+    "nombre": "MAGDALENA AVANZA",
+    "logo": "",
+    "tronco": "MAGDALENA AVANZA",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "MAGDALENA AVANZA",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "mas_obras_y_desarrollo_social": {
+    "nombre": "MAS OBRAS Y DESARROLLO SOCIAL",
+    "logo": "",
+    "tronco": "MAS OBRAS Y DESARROLLO SOCIAL",
+    "dimension": {
+      "Organización Política": "MAS OBRAS Y DESARROLLO SOCIAL",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - CHORRILLOS",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "13/01/2011"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "MAS OBRAS Y DESARROLLO SOCIAL",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "mas_san_martin": {
+    "nombre": "MAS SAN MARTIN",
+    "logo": "",
+    "tronco": "MAS SAN MARTIN",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "MAS SAN MARTIN",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "miraflores_solidario": {
+    "nombre": "MIRAFLORES SOLIDARIO",
+    "logo": "",
+    "tronco": "MIRAFLORES SOLIDARIO",
+    "dimension": {
+      "Organización Política": "MIRAFLORES SOLIDARIO",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - MIRAFLORES",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "13/01/2011"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "MIRAFLORES SOLIDARIO",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "modernizacion_rimense": {
+    "nombre": "MODERNIZACION RIMENSE",
+    "logo": "",
+    "tronco": "MODERNIZACION RIMENSE",
+    "dimension": {
+      "Organización Política": "MODERNIZACION RIMENSE",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - RIMAC",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "13/01/2011"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "MODERNIZACION RIMENSE",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "moralizacion_independiente_carabayllo_al_futuro": {
+    "nombre": "MORALIZACION INDEPENDIENTE CARABAYLLO AL FUTURO",
+    "logo": "",
+    "tronco": "MORALIZACION INDEPENDIENTE CARABAYLLO AL FUTURO",
+    "dimension": {
+      "Organización Política": "MORALIZACION INDEPENDIENTE CARABAYLLO AL FUTURO",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - CARABAYLLO",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "05/03/2007"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "MORALIZACION INDEPENDIENTE CARABAYLLO AL FUTURO",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "movimiento_accion_nacionalista_peruano": {
+    "nombre": "MOVIMIENTO ACCION NACIONALISTA PERUANO",
+    "logo": "",
+    "tronco": "MOVIMIENTO ACCION NACIONALISTA PERUANO",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "MOVIMIENTO ACCION NACIONALISTA PERUANO",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "movimiento_accion_social_independiente": {
+    "nombre": "MOVIMIENTO ACCION SOCIAL INDEPENDIENTE",
+    "logo": "",
+    "tronco": "MOVIMIENTO ACCION SOCIAL INDEPENDIENTE",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "MOVIMIENTO ACCION SOCIAL INDEPENDIENTE",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "movimiento_amplio_pais_unido_mapu": {
+    "nombre": "MOVIMIENTO AMPLIO PAIS UNIDO - MAPU",
+    "logo": "",
+    "tronco": "MOVIMIENTO AMPLIO PAIS UNIDO MAPU",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "MOVIMIENTO AMPLIO PAIS UNIDO MAPU",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "movimiento_civico_nacional_obras": {
+    "nombre": "MOVIMIENTO CIVICO NACIONAL OBRAS",
+    "logo": "",
+    "tronco": "MOVIMIENTO CIVICO NACIONAL OBRAS",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "MOVIMIENTO CIVICO NACIONAL OBRAS",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "movimiento_de_integracion_lurinense": {
+    "nombre": "MOVIMIENTO DE INTEGRACION LURINENSE",
+    "logo": "",
+    "tronco": "MOVIMIENTO DE INTEGRACION LURINENSE",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "MOVIMIENTO DE INTEGRACION LURINENSE",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "movimiento_de_integracion_villamariana": {
+    "nombre": "MOVIMIENTO DE INTEGRACION VILLAMARIANA",
+    "logo": "",
+    "tronco": "MOVIMIENTO DE INTEGRACION VILLAMARIANA",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "MOVIMIENTO DE INTEGRACION VILLAMARIANA",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "movimiento_democratico_de_izquierda": {
+    "nombre": "MOVIMIENTO DEMOCRATICO DE IZQUIERDA",
+    "logo": "",
+    "tronco": "MOVIMIENTO DEMOCRATICO DE IZQUIERDA",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "MOVIMIENTO DEMOCRATICO DE IZQUIERDA",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "movimiento_ecologico_alternativa_verde_los_verdes": {
+    "nombre": "MOVIMIENTO ECOLOGICO ALTERNATIVA VERDE - LOS VERDES",
+    "logo": "",
+    "tronco": "MOVIMIENTO ECOLOGICO ALTERNATIVA VERDE LOS VERDES",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "MOVIMIENTO ECOLOGICO ALTERNATIVA VERDE LOS VERDES",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "movimiento_independiente_ate_a_la_modernidad": {
+    "nombre": "MOVIMIENTO INDEPENDIENTE  ATE A LA MODERNIDAD",
+    "logo": "",
+    "tronco": "MOVIMIENTO INDEPENDIENTE ATE A LA MODERNIDAD",
+    "dimension": {
+      "Organización Política": "MOVIMIENTO INDEPENDIENTE  ATE A LA MODERNIDAD",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - ATE",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "12/02/2015"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "MOVIMIENTO INDEPENDIENTE ATE A LA MODERNIDAD",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "movimiento_independiente_chosica_merece_mas": {
+    "nombre": "MOVIMIENTO INDEPENDIENTE \"CHOSICA MERECE MAS\"",
+    "logo": "",
+    "tronco": "MOVIMIENTO INDEPENDIENTE CHOSICA MERECE MAS",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "MOVIMIENTO INDEPENDIENTE CHOSICA MERECE MAS",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "movimiento_independiente_dialogo_vecinal": {
+    "nombre": "MOVIMIENTO INDEPENDIENTE \"DIALOGO VECINAL\"",
+    "logo": "",
+    "tronco": "MOVIMIENTO INDEPENDIENTE DIALOGO VECINAL",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL PROVINCIAL",
+      "identidad": "MOVIMIENTO INDEPENDIENTE DIALOGO VECINAL",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "movimiento_independiente_agrario": {
+    "nombre": "MOVIMIENTO INDEPENDIENTE AGRARIO",
+    "logo": "",
+    "tronco": "MOVIMIENTO INDEPENDIENTE AGRARIO",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "MOVIMIENTO INDEPENDIENTE AGRARIO",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "movimiento_independiente_chimpum_callao": {
+    "nombre": "MOVIMIENTO INDEPENDIENTE CHIMPUM CALLAO",
+    "logo": "",
+    "tronco": "MOVIMIENTO INDEPENDIENTE CHIMPUM CALLAO",
+    "dimension": {
+      "Organización Política": "MOVIMIENTO INDEPENDIENTE CHIMPUM CALLAO",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "MOVIMIENTO REGIONAL",
+      "Alcance": "CALLAO",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "16/02/2023"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "MOVIMIENTO REGIONAL",
+      "identidad": "MOVIMIENTO INDEPENDIENTE CHIMPUM CALLAO",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "movimiento_independiente_comas_con_fe": {
+    "nombre": "MOVIMIENTO INDEPENDIENTE COMAS CON FE",
+    "logo": "",
+    "tronco": "MOVIMIENTO INDEPENDIENTE COMAS CON FE",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "MOVIMIENTO INDEPENDIENTE COMAS CON FE",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "movimiento_independiente_comunidad_civica_de_magdalena": {
+    "nombre": "MOVIMIENTO INDEPENDIENTE COMUNIDAD CIVICA DE MAGDALENA",
+    "logo": "",
+    "tronco": "MOVIMIENTO INDEPENDIENTE COMUNIDAD CIVICA DE MAGDALENA",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "MOVIMIENTO INDEPENDIENTE COMUNIDAD CIVICA DE MAGDALENA",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "movimiento_independiente_de_campesinos_y_profesionales": {
+    "nombre": "MOVIMIENTO INDEPENDIENTE DE CAMPESINOS Y PROFESIONALES",
+    "logo": "",
+    "tronco": "MOVIMIENTO INDEPENDIENTE DE CAMPESINOS Y PROFESIONALES",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "MOVIMIENTO INDEPENDIENTE DE CAMPESINOS Y PROFESIONALES",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "movimiento_independiente_del_pueblo_y_para_el_pueblo_mipp": {
+    "nombre": "MOVIMIENTO INDEPENDIENTE DEL PUEBLO Y PARA EL PUEBLO - MIPP",
+    "logo": "",
+    "tronco": "MOVIMIENTO INDEPENDIENTE DEL PUEBLO Y PARA EL PUEBLO MIPP",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "MOVIMIENTO INDEPENDIENTE DEL PUEBLO Y PARA EL PUEBLO MIPP",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "movimiento_independiente_ecologico_arriba_loreto": {
+    "nombre": "MOVIMIENTO INDEPENDIENTE ECOLOGICO \"ARRIBA LORETO\"",
+    "logo": "",
+    "tronco": "MOVIMIENTO INDEPENDIENTE ECOLOGICO ARRIBA LORETO",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "MOVIMIENTO INDEPENDIENTE ECOLOGICO ARRIBA LORETO",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "movimiento_independiente_el_gallo_de_oro": {
+    "nombre": "MOVIMIENTO INDEPENDIENTE EL GALLO DE ORO",
+    "logo": "",
+    "tronco": "MOVIMIENTO INDEPENDIENTE EL GALLO DE ORO",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "MOVIMIENTO INDEPENDIENTE EL GALLO DE ORO",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "movimiento_independiente_fuerza_regional": {
+    "nombre": "MOVIMIENTO INDEPENDIENTE FUERZA REGIONAL",
+    "logo": "",
+    "tronco": "MOVIMIENTO INDEPENDIENTE FUERZA REGIONAL",
+    "dimension": {
+      "Organización Política": "MOVIMIENTO INDEPENDIENTE FUERZA REGIONAL",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "MOVIMIENTO REGIONAL",
+      "Alcance": "PIURA",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "04/03/2010"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "MOVIMIENTO REGIONAL",
+      "identidad": "MOVIMIENTO INDEPENDIENTE FUERZA REGIONAL",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "movimiento_independiente_la_arboleda": {
+    "nombre": "MOVIMIENTO INDEPENDIENTE LA ARBOLEDA",
+    "logo": "",
+    "tronco": "MOVIMIENTO INDEPENDIENTE LA ARBOLEDA",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "MOVIMIENTO INDEPENDIENTE LA ARBOLEDA",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "movimiento_independiente_nueva_sociedad": {
+    "nombre": "MOVIMIENTO INDEPENDIENTE NUEVA SOCIEDAD",
+    "logo": "",
+    "tronco": "MOVIMIENTO INDEPENDIENTE NUEVA SOCIEDAD",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "MOVIMIENTO INDEPENDIENTE NUEVA SOCIEDAD",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "movimiento_independiente_politico_villa_cambia": {
+    "nombre": "MOVIMIENTO INDEPENDIENTE POLITICO VILLA CAMBIA",
+    "logo": "",
+    "tronco": "MOVIMIENTO INDEPENDIENTE POLITICO VILLA CAMBIA",
+    "dimension": {
+      "Organización Política": "MOVIMIENTO INDEPENDIENTE POLITICO VILLA CAMBIA",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - VILLA EL SALVADOR",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "12/02/2015"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "MOVIMIENTO INDEPENDIENTE POLITICO VILLA CAMBIA",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "movimiento_independiente_pucusana_fuerza_y_desarrollo": {
+    "nombre": "MOVIMIENTO INDEPENDIENTE PUCUSANA FUERZA Y DESARROLLO",
+    "logo": "",
+    "tronco": "MOVIMIENTO INDEPENDIENTE PUCUSANA FUERZA Y DESARROLLO",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "MOVIMIENTO INDEPENDIENTE PUCUSANA FUERZA Y DESARROLLO",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "movimiento_independiente_regional_la_carita_feliz": {
+    "nombre": "MOVIMIENTO INDEPENDIENTE REGIONAL LA CARITA FELIZ",
+    "logo": "",
+    "tronco": "MOVIMIENTO INDEPENDIENTE REGIONAL LA CARITA FELIZ",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "MOVIMIENTO REGIONAL",
+      "identidad": "MOVIMIENTO INDEPENDIENTE REGIONAL LA CARITA FELIZ",
+      "cuenta": true,
+      "fuente": "denominación regional explícita"
+    }
+  },
+  "movimiento_independiente_regional_todos_con_ayacucho": {
+    "nombre": "MOVIMIENTO INDEPENDIENTE REGIONAL TODOS CON AYACUCHO",
+    "logo": "",
+    "tronco": "MOVIMIENTO INDEPENDIENTE REGIONAL TODOS CON AYACUCHO",
+    "dimension": {
+      "Organización Política": "MOVIMIENTO INDEPENDIENTE REGIONAL TODOS CON AYACUCHO",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "MOVIMIENTO REGIONAL",
+      "Alcance": "AYACUCHO",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "18/02/2015"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "MOVIMIENTO REGIONAL",
+      "identidad": "MOVIMIENTO INDEPENDIENTE REGIONAL TODOS CON AYACUCHO",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "movimiento_independiente_revelacion_huarochirana": {
+    "nombre": "MOVIMIENTO INDEPENDIENTE REVELACION HUAROCHIRANA",
+    "logo": "",
+    "tronco": "MOVIMIENTO INDEPENDIENTE REVELACION HUAROCHIRANA",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "MOVIMIENTO INDEPENDIENTE REVELACION HUAROCHIRANA",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "movimiento_independiente_santa_rosa_2014": {
+    "nombre": "MOVIMIENTO INDEPENDIENTE SANTA ROSA 2014",
+    "logo": "",
+    "tronco": "MOVIMIENTO INDEPENDIENTE SANTA ROSA 2014",
+    "dimension": {
+      "Organización Política": "MOVIMIENTO INDEPENDIENTE SANTA ROSA 2014",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - SANTA ROSA",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "12/02/2015"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "MOVIMIENTO INDEPENDIENTE SANTA ROSA 2014",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "movimiento_independiente_somos_nueva_generacion": {
+    "nombre": "MOVIMIENTO INDEPENDIENTE SOMOS NUEVA GENERACION",
+    "logo": "",
+    "tronco": "MOVIMIENTO INDEPENDIENTE SOMOS NUEVA GENERACION",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "MOVIMIENTO INDEPENDIENTE SOMOS NUEVA GENERACION",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "movimiento_independiente_somos_peru": {
+    "nombre": "MOVIMIENTO INDEPENDIENTE SOMOS PERU",
+    "logo": "",
+    "tronco": "SOMOS PERU",
+    "dimension": null,
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "SOMOS PERU",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "movimiento_independiente_trabajando_para_todos": {
+    "nombre": "MOVIMIENTO INDEPENDIENTE TRABAJANDO PARA TODOS",
+    "logo": "",
+    "tronco": "MOVIMIENTO INDEPENDIENTE TRABAJANDO PARA TODOS",
+    "dimension": {
+      "Organización Política": "MOVIMIENTO INDEPENDIENTE TRABAJANDO PARA TODOS",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "MOVIMIENTO REGIONAL",
+      "Alcance": "HUANCAVELICA",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "16/02/2023"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "MOVIMIENTO REGIONAL",
+      "identidad": "MOVIMIENTO INDEPENDIENTE TRABAJANDO PARA TODOS",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "movimiento_independiente_vamos_vecino": {
+    "nombre": "MOVIMIENTO INDEPENDIENTE VAMOS VECINO",
+    "logo": "",
+    "tronco": "MOVIMIENTO INDEPENDIENTE VAMOS VECINO",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "MOVIMIENTO INDEPENDIENTE VAMOS VECINO",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "movimiento_nueva_izquierda": {
+    "nombre": "MOVIMIENTO NUEVA IZQUIERDA",
+    "logo": "",
+    "tronco": "MOVIMIENTO NUEVA IZQUIERDA",
+    "dimension": {
+      "Organización Política": "MOVIMIENTO NUEVA IZQUIERDA",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "30/07/2012"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "MOVIMIENTO NUEVA IZQUIERDA",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "movimiento_obras": {
+    "nombre": "MOVIMIENTO OBRAS",
+    "logo": "",
+    "tronco": "MOVIMIENTO OBRAS",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "OBRAS",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "movimiento_politico_regional_peru_libre": {
+    "nombre": "MOVIMIENTO POLITICO REGIONAL PERU LIBRE",
+    "logo": "",
+    "tronco": "PERU LIBRE",
+    "dimension": null,
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "PERU LIBRE",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "movimiento_regional_bloque_popular_junin": {
+    "nombre": "MOVIMIENTO REGIONAL BLOQUE POPULAR JUNIN",
+    "logo": "",
+    "tronco": "MOVIMIENTO REGIONAL BLOQUE POPULAR JUNIN",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "MOVIMIENTO REGIONAL",
+      "identidad": "MOVIMIENTO REGIONAL BLOQUE POPULAR JUNIN",
+      "cuenta": true,
+      "fuente": "denominación regional explícita"
+    }
+  },
+  "movimiento_regional_construyendo": {
+    "nombre": "MOVIMIENTO REGIONAL CONSTRUYENDO",
+    "logo": "",
+    "tronco": "MOVIMIENTO REGIONAL CONSTRUYENDO",
+    "dimension": {
+      "Organización Política": "MOVIMIENTO REGIONAL CONSTRUYENDO",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "MOVIMIENTO REGIONAL",
+      "Alcance": "LAMBAYEQUE",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "30/06/2010"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "MOVIMIENTO REGIONAL",
+      "identidad": "MOVIMIENTO REGIONAL CONSTRUYENDO",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "movimiento_regional_justicia_y_capacidad": {
+    "nombre": "MOVIMIENTO REGIONAL JUSTICIA Y CAPACIDAD",
+    "logo": "",
+    "tronco": "MOVIMIENTO REGIONAL JUSTICIA Y CAPACIDAD",
+    "dimension": {
+      "Organización Política": "MOVIMIENTO REGIONAL JUSTICIA Y CAPACIDAD",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "MOVIMIENTO REGIONAL",
+      "Alcance": "LIMA",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "18/02/2015"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "MOVIMIENTO REGIONAL",
+      "identidad": "MOVIMIENTO REGIONAL JUSTICIA Y CAPACIDAD",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "movimiento_regional_mas_callao": {
+    "nombre": "MOVIMIENTO REGIONAL MAS CALLAO",
+    "logo": "",
+    "tronco": "MOVIMIENTO REGIONAL MAS CALLAO",
+    "dimension": {
+      "Organización Política": "MOVIMIENTO REGIONAL MAS CALLAO",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "MOVIMIENTO REGIONAL",
+      "Alcance": "CALLAO",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "13/09/2017"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "MOVIMIENTO REGIONAL",
+      "identidad": "MOVIMIENTO REGIONAL MAS CALLAO",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "movimiento_regional_para_el_desarrollo_con_seguridad_y_honradez": {
+    "nombre": "MOVIMIENTO REGIONAL PARA EL DESARROLLO CON SEGURIDAD Y HONRADEZ",
+    "logo": "",
+    "tronco": "MOVIMIENTO REGIONAL PARA EL DESARROLLO CON SEGURIDAD Y HONRADEZ",
+    "dimension": {
+      "Organización Política": "MOVIMIENTO REGIONAL PARA EL DESARROLLO CON SEGURIDAD Y HONRADEZ",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "MOVIMIENTO REGIONAL",
+      "Alcance": "LA LIBERTAD",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "29/01/2020"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "MOVIMIENTO REGIONAL",
+      "identidad": "MOVIMIENTO REGIONAL PARA EL DESARROLLO CON SEGURIDAD Y HONRADEZ",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "movimiento_regional_unidad_civica_lima": {
+    "nombre": "MOVIMIENTO REGIONAL UNIDAD CIVICA LIMA",
+    "logo": "",
+    "tronco": "MOVIMIENTO REGIONAL UNIDAD CIVICA LIMA",
+    "dimension": {
+      "Organización Política": "MOVIMIENTO REGIONAL UNIDAD CIVICA LIMA",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "MOVIMIENTO REGIONAL",
+      "Alcance": "LIMA",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "25/03/2014"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "MOVIMIENTO REGIONAL",
+      "identidad": "MOVIMIENTO REGIONAL UNIDAD CIVICA LIMA",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "movimiento_regional_voz_verde": {
+    "nombre": "MOVIMIENTO REGIONAL VOZ VERDE",
+    "logo": "",
+    "tronco": "MOVIMIENTO REGIONAL VOZ VERDE",
+    "dimension": {
+      "Organización Política": "MOVIMIENTO REGIONAL VOZ VERDE",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "MOVIMIENTO REGIONAL",
+      "Alcance": "LORETO",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "28/01/2011"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "MOVIMIENTO REGIONAL",
+      "identidad": "MOVIMIENTO REGIONAL VOZ VERDE",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "movimiento_social_independiente": {
+    "nombre": "MOVIMIENTO SOCIAL INDEPENDIENTE",
+    "logo": "",
+    "tronco": "MOVIMIENTO SOCIAL INDEPENDIENTE",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "MOVIMIENTO SOCIAL INDEPENDIENTE",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "movimiento_unidos_por_san_luis": {
+    "nombre": "MOVIMIENTO UNIDOS POR SAN LUIS",
+    "logo": "",
+    "tronco": "MOVIMIENTO UNIDOS POR SAN LUIS",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "MOVIMIENTO UNIDOS POR SAN LUIS",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "movimiento_vecinal_san_miguel_si": {
+    "nombre": "MOVIMIENTO VECINAL SAN MIGUEL SI",
+    "logo": "",
+    "tronco": "MOVIMIENTO VECINAL SAN MIGUEL SI",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "MOVIMIENTO VECINAL SAN MIGUEL SI",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "muva": {
+    "nombre": "MUVA",
+    "logo": "",
+    "tronco": "MUVA",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "MUVA",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "nuevo_peru_por_el_buen_vivir": {
+    "nombre": "NUEVO PERU POR EL BUEN VIVIR",
+    "logo": "",
+    "tronco": "NUEVO PERU POR EL BUEN VIVIR",
+    "dimension": {
+      "Organización Política": "NUEVO PERU POR EL BUEN VIVIR",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "03/07/2024"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "NUEVO PERU POR EL BUEN VIVIR",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "nuevo_pucusana": {
+    "nombre": "NUEVO PUCUSANA",
+    "logo": "",
+    "tronco": "NUEVO PUCUSANA",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "NUEVO PUCUSANA",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "obras": {
+    "nombre": "OBRAS",
+    "logo": "",
+    "tronco": "OBRAS",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "OBRAS",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "organizacion_independiente_participativa_lima_sur": {
+    "nombre": "ORGANIZACION INDEPENDIENTE PARTICIPATIVA - LIMA SUR",
+    "logo": "",
+    "tronco": "ORGANIZACION INDEPENDIENTE PARTICIPATIVA LIMA SUR",
+    "dimension": {
+      "Organización Política": "ORGANIZACION INDEPENDIENTE PARTICIPATIVA - LIMA SUR",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - LURIN",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "05/03/2007"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "ORGANIZACION INDEPENDIENTE PARTICIPATIVA LIMA SUR",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "organizacion_politica_local_distrital_santa_rosa_unida": {
+    "nombre": "ORGANIZACION POLITICA LOCAL DISTRITAL SANTA ROSA UNIDA",
+    "logo": "",
+    "tronco": "ORGANIZACION POLITICA LOCAL DISTRITAL SANTA ROSA UNIDA",
+    "dimension": {
+      "Organización Política": "ORGANIZACION POLITICA LOCAL DISTRITAL SANTA ROSA UNIDA",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - SANTA ROSA",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "05/03/2007"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "ORGANIZACION POLITICA LOCAL DISTRITAL SANTA ROSA UNIDA",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "organizacion_politica_local_provincial_dialogo_vecinal": {
+    "nombre": "ORGANIZACION POLITICA LOCAL PROVINCIAL DIALOGO VECINAL",
+    "logo": "",
+    "tronco": "ORGANIZACION POLITICA LOCAL PROVINCIAL DIALOGO VECINAL",
+    "dimension": {
+      "Organización Política": "ORGANIZACION POLITICA LOCAL PROVINCIAL DIALOGO VECINAL",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACIÓN LOCAL (PROVINCIAL)",
+      "Alcance": "LIMA - LIMA",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "21/06/2010"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL PROVINCIAL",
+      "identidad": "ORGANIZACION POLITICA LOCAL PROVINCIAL DIALOGO VECINAL",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "pan": {
+    "nombre": "PAN",
+    "logo": "",
+    "tronco": "PAN",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "PAN",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "participacion_popular": {
+    "nombre": "PARTICIPACION POPULAR",
+    "logo": "",
+    "tronco": "PARTICIPACION POPULAR",
+    "dimension": {
+      "Organización Política": "PARTICIPACION POPULAR",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "04/09/2012"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PARTICIPACION POPULAR",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "partido_aprista_peruano": {
+    "nombre": "PARTIDO APRISTA PERUANO",
+    "logo": "partidos/2930.jpg",
+    "tronco": "PARTIDO APRISTA PERUANO",
+    "dimension": {
+      "Organización Política": "PARTIDO APRISTA PERUANO",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "24/03/2023"
+    },
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "PARTIDO APRISTA PERUANO",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "partido_avanzada_nacional": {
+    "nombre": "PARTIDO AVANZADA NACIONAL",
+    "logo": "",
+    "tronco": "PARTIDO AVANZADA NACIONAL",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PARTIDO AVANZADA NACIONAL",
+      "cuenta": true,
+      "fuente": "denominación de partido explícita"
+    }
+  },
+  "partido_centro_unidos_unidad_nacional_independiente_dignidad_orden_y_solidaridad": {
+    "nombre": "PARTIDO CENTRO UNIDOS - UNIDAD NACIONAL INDEPENDIENTE DIGNIDAD ORDEN Y SOLIDARIDAD",
+    "logo": "",
+    "tronco": "PARTIDO CENTRO UNIDOS UNIDAD NACIONAL INDEPENDIENTE DIGNIDAD ORDEN Y SOLIDARIDAD",
+    "dimension": {
+      "Organización Política": "PARTIDO CENTRO UNIDOS - UNIDAD NACIONAL INDEPENDIENTE DIGNIDAD ORDEN Y SOLIDARIDAD",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "25/09/2026"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PARTIDO CENTRO UNIDOS UNIDAD NACIONAL INDEPENDIENTE DIGNIDAD ORDEN Y SOLIDARIDAD",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "partido_ciudadanos_por_el_peru": {
+    "nombre": "PARTIDO CIUDADANOS POR EL PERU",
+    "logo": "",
+    "tronco": "PARTIDO CIUDADANOS POR EL PERU",
+    "dimension": {
+      "Organización Política": "PARTIDO CIUDADANOS POR EL PERU",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "17/01/2025"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PARTIDO CIUDADANOS POR EL PERU",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "partido_civico_obras": {
+    "nombre": "PARTIDO CIVICO OBRAS",
+    "logo": "partidos/2941.jpg",
+    "tronco": "PARTIDO CIVICO OBRAS",
+    "dimension": {
+      "Organización Política": "PARTIDO CIVICO OBRAS",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "15/07/2024",
+      "Fecha de cancelación": ""
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PARTIDO CIVICO OBRAS",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "partido_de_los_trabajadores_y_emprendedores_pte_peru": {
+    "nombre": "PARTIDO DE LOS TRABAJADORES Y EMPRENDEDORES PTE - PERU",
+    "logo": "",
+    "tronco": "PARTIDO DE LOS TRABAJADORES Y EMPRENDEDORES PTE PERU",
+    "dimension": {
+      "Organización Política": "PARTIDO DE LOS TRABAJADORES Y EMPRENDEDORES PTE - PERU",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "05/04/2024"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PARTIDO DE LOS TRABAJADORES Y EMPRENDEDORES PTE PERU",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "partido_de_los_trabajadores_y_emprendedores_pte_peru_comunidad_politica_inka_peru": {
+    "nombre": "PARTIDO DE LOS TRABAJADORES Y EMPRENDEDORES PTE PERU - COMUNIDAD POLITICA INKA PERU",
+    "logo": "partidos/3033.jpg",
+    "tronco": "PARTIDO DE LOS TRABAJADORES Y EMPRENDEDORES PTE PERU COMUNIDAD POLITICA INKA PERU",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PARTIDO DE LOS TRABAJADORES Y EMPRENDEDORES PTE PERU COMUNIDAD POLITICA INKA PERU",
+      "cuenta": true,
+      "fuente": "denominación de partido explícita"
+    }
+  },
+  "partido_del_buen_gobierno": {
+    "nombre": "PARTIDO DEL BUEN GOBIERNO",
+    "logo": "partidos/2961.jpg",
+    "tronco": "PARTIDO DEL BUEN GOBIERNO",
+    "dimension": {
+      "Organización Política": "PARTIDO DEL BUEN GOBIERNO",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "02/08/2024"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PARTIDO DEL BUEN GOBIERNO",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "partido_democrata_unido_peru": {
+    "nombre": "PARTIDO DEMOCRATA UNIDO PERU",
+    "logo": "partidos/2867.jpg",
+    "tronco": "PARTIDO DEMOCRATA UNIDO PERU",
+    "dimension": {
+      "Organización Política": "PARTIDO DEMOCRATA UNIDO PERU",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "13/03/2023"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PARTIDO DEMOCRATA UNIDO PERU",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "partido_democrata_verde": {
+    "nombre": "PARTIDO DEMOCRATA VERDE",
+    "logo": "partidos/2895.jpg",
+    "tronco": "PARTIDO DEMOCRATA VERDE",
+    "dimension": {
+      "Organización Política": "PARTIDO DEMOCRATA VERDE",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "14/02/2023"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PARTIDO DEMOCRATA VERDE",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "partido_democratico_somos_peru": {
+    "nombre": "PARTIDO DEMOCRATICO SOMOS PERU",
+    "logo": "partidos/14.jpg",
+    "tronco": "SOMOS PERU",
+    "dimension": {
+      "Organización Política": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "22/11/2004"
+    },
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "SOMOS PERU",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "partido_descentralista_fuerza_social": {
+    "nombre": "PARTIDO DESCENTRALISTA FUERZA SOCIAL",
+    "logo": "",
+    "tronco": "PARTIDO DESCENTRALISTA FUERZA SOCIAL",
+    "dimension": {
+      "Organización Política": "PARTIDO DESCENTRALISTA FUERZA SOCIAL",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "02/07/2012"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PARTIDO DESCENTRALISTA FUERZA SOCIAL",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "partido_frente_de_la_esperanza_2021": {
+    "nombre": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+    "logo": "partidos/2857.jpg",
+    "tronco": "FIM / FRENTE DE LA ESPERANZA",
+    "dimension": {
+      "Organización Política": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "16/09/2021"
+    },
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "FIM / FRENTE DE LA ESPERANZA",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "partido_humanista_peruano": {
+    "nombre": "PARTIDO HUMANISTA PERUANO",
+    "logo": "",
+    "tronco": "HUMANISTA / JUNTOS POR EL PERU",
+    "dimension": null,
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "HUMANISTA / JUNTOS POR EL PERU",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "partido_justicia_nacional": {
+    "nombre": "PARTIDO JUSTICIA NACIONAL",
+    "logo": "",
+    "tronco": "PARTIDO JUSTICIA NACIONAL",
+    "dimension": {
+      "Organización Política": "PARTIDO JUSTICIA NACIONAL",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "27/08/2007"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PARTIDO JUSTICIA NACIONAL",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "partido_morado": {
+    "nombre": "PARTIDO MORADO",
+    "logo": "partidos/2840.jpg",
+    "tronco": "PARTIDO MORADO",
+    "dimension": {
+      "Organización Política": "PARTIDO MORADO",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "01/03/2019"
+    },
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "PARTIDO MORADO",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "partido_movimiento_humanista_peruano": {
+    "nombre": "PARTIDO MOVIMIENTO HUMANISTA PERUANO",
+    "logo": "",
+    "tronco": "HUMANISTA / JUNTOS POR EL PERU",
+    "dimension": {
+      "Organización Política": "PARTIDO MOVIMIENTO HUMANISTA PERUANO",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "17/05/2007"
+    },
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "HUMANISTA / JUNTOS POR EL PERU",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "partido_nacionalista_peruano": {
+    "nombre": "PARTIDO NACIONALISTA PERUANO",
+    "logo": "",
+    "tronco": "PARTIDO NACIONALISTA PERUANO",
+    "dimension": {
+      "Organización Política": "PARTIDO NACIONALISTA PERUANO",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "07/09/2021"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PARTIDO NACIONALISTA PERUANO",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "partido_pais_para_todos": {
+    "nombre": "PARTIDO PAIS PARA TODOS",
+    "logo": "partidos/2956.jpg",
+    "tronco": "PARTIDO PAIS PARA TODOS",
+    "dimension": {
+      "Organización Política": "PARTIDO PAIS PARA TODOS",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "02/08/2024"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PARTIDO PAIS PARA TODOS",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "partido_patriotico_del_peru": {
+    "nombre": "PARTIDO PATRIOTICO DEL PERU",
+    "logo": "partidos/2869.jpg",
+    "tronco": "PARTIDO PATRIOTICO DEL PERU",
+    "dimension": {
+      "Organización Política": "PARTIDO PATRIOTICO DEL PERU",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "29/03/2022",
+      "Fecha de cancelación": ""
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PARTIDO PATRIOTICO DEL PERU",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "partido_peru_posible": {
+    "nombre": "PARTIDO PERU POSIBLE",
+    "logo": "",
+    "tronco": "PERU POSIBLE",
+    "dimension": null,
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "PERU POSIBLE",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "partido_politico_adelante": {
+    "nombre": "PARTIDO POLITICO ADELANTE",
+    "logo": "",
+    "tronco": "PARTIDO POLITICO ADELANTE",
+    "dimension": {
+      "Organización Política": "PARTIDO POLITICO ADELANTE",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "02/07/2012"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PARTIDO POLITICO ADELANTE",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "partido_politico_adp": {
+    "nombre": "PARTIDO POLITICO ADP",
+    "logo": "partidos/2979.jpg",
+    "tronco": "PARTIDO POLITICO ADP",
+    "dimension": {
+      "Organización Política": "PARTIDO POLITICO ADP",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "17/06/2025",
+      "Fecha de cancelación": ""
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PARTIDO POLITICO ADP",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "partido_politico_contigo": {
+    "nombre": "PARTIDO POLITICO CONTIGO",
+    "logo": "",
+    "tronco": "PPK / CONTIGO",
+    "dimension": {
+      "Organización Política": "PARTIDO POLITICO CONTIGO",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "07/09/2021"
+    },
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "PPK / CONTIGO",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    },
+    "variantes": [
+      "PARTIDO POLÍTICO CONTIGO"
+    ]
+  },
+  "partido_politico_cooperacion_popular": {
+    "nombre": "PARTIDO POLITICO COOPERACION POPULAR",
+    "logo": "",
+    "tronco": "PARTIDO POLITICO COOPERACION POPULAR",
+    "dimension": {
+      "Organización Política": "PARTIDO POLITICO COOPERACION POPULAR",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "25/11/2024",
+      "Fecha de cancelación": ""
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PARTIDO POLITICO COOPERACION POPULAR",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "partido_politico_fuerza_moderna": {
+    "nombre": "PARTIDO POLITICO FUERZA MODERNA",
+    "logo": "",
+    "tronco": "PARTIDO POLITICO FUERZA MODERNA",
+    "dimension": {
+      "Organización Política": "PARTIDO POLITICO FUERZA MODERNA",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "07/08/2024"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PARTIDO POLITICO FUERZA MODERNA",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "partido_politico_integridad_democratica": {
+    "nombre": "PARTIDO POLITICO INTEGRIDAD DEMOCRATICA",
+    "logo": "partidos/2985.jpg",
+    "tronco": "PARTIDO POLITICO INTEGRIDAD DEMOCRATICA",
+    "dimension": {
+      "Organización Política": "PARTIDO POLITICO INTEGRIDAD DEMOCRATICA",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "11/04/2025",
+      "Fecha de cancelación": ""
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PARTIDO POLITICO INTEGRIDAD DEMOCRATICA",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "partido_politico_nacional_peru_libre": {
+    "nombre": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+    "logo": "partidos/2218.jpg",
+    "tronco": "PERU LIBRE",
+    "dimension": {
+      "Organización Política": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "15/01/2016"
+    },
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "PERU LIBRE",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "partido_politico_nacional_primero_peru": {
+    "nombre": "PARTIDO POLITICO NACIONAL PRIMERO PERU",
+    "logo": "",
+    "tronco": "PARTIDO POLITICO NACIONAL PRIMERO PERU",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PARTIDO POLITICO NACIONAL PRIMERO PERU",
+      "cuenta": true,
+      "fuente": "denominación de partido explícita"
+    }
+  },
+  "partido_politico_orden": {
+    "nombre": "PARTIDO POLITICO ORDEN",
+    "logo": "",
+    "tronco": "PARTIDO POLITICO ORDEN",
+    "dimension": {
+      "Organización Política": "PARTIDO POLITICO ORDEN",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "13/07/2017"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PARTIDO POLITICO ORDEN",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "partido_politico_peru_accion": {
+    "nombre": "PARTIDO POLITICO PERU ACCION",
+    "logo": "partidos/2932.jpg",
+    "tronco": "PERU NACION",
+    "dimension": {
+      "Organización Política": "PARTIDO POLITICO PERU ACCION",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "25/07/2023"
+    },
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "PERU NACION",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "partido_politico_peru_primero": {
+    "nombre": "PARTIDO POLITICO PERU PRIMERO",
+    "logo": "partidos/2925.jpg",
+    "tronco": "PARTIDO POLITICO PERU PRIMERO",
+    "dimension": {
+      "Organización Política": "PARTIDO POLITICO PERU PRIMERO",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "19/06/2023"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PARTIDO POLITICO PERU PRIMERO",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "partido_politico_peruanos_unidos_somos_libres": {
+    "nombre": "PARTIDO POLITICO PERUANOS UNIDOS : ¡SOMOS LIBRES!",
+    "logo": "",
+    "tronco": "PARTIDO POLITICO PERUANOS UNIDOS SOMOS LIBRES",
+    "dimension": {
+      "Organización Política": "PARTIDO POLITICO PERUANOS UNIDOS : ¡SOMOS LIBRES!",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "20/11/2024"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PARTIDO POLITICO PERUANOS UNIDOS SOMOS LIBRES",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "partido_politico_prin": {
+    "nombre": "PARTIDO POLITICO PRIN",
+    "logo": "partidos/2921.jpg",
+    "tronco": "PARTIDO POLITICO PRIN",
+    "dimension": {
+      "Organización Política": "PARTIDO POLITICO PRIN",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "19/01/2023"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PARTIDO POLITICO PRIN",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "partido_politico_pueblo_consciente": {
+    "nombre": "PARTIDO POLITICO PUEBLO CONSCIENTE",
+    "logo": "partidos/3001.jpg",
+    "tronco": "PARTIDO POLITICO PUEBLO CONSCIENTE",
+    "dimension": {
+      "Organización Política": "PARTIDO POLITICO PUEBLO CONSCIENTE",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "24/09/2025",
+      "Fecha de cancelación": ""
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PARTIDO POLITICO PUEBLO CONSCIENTE",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "partido_politico_todo_con_el_pueblo": {
+    "nombre": "PARTIDO POLITICO TODO CON EL PUEBLO",
+    "logo": "",
+    "tronco": "PARTIDO POLITICO TODO CON EL PUEBLO",
+    "dimension": {
+      "Organización Política": "PARTIDO POLITICO TODO CON EL PUEBLO",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "18/08/2025"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PARTIDO POLITICO TODO CON EL PUEBLO",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "partido_popular_cristiano": {
+    "nombre": "PARTIDO POPULAR CRISTIANO",
+    "logo": "",
+    "tronco": "PPC",
+    "dimension": null,
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "PPC",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "partido_popular_cristiano_ppc": {
+    "nombre": "PARTIDO POPULAR CRISTIANO - PPC",
+    "logo": "partidos/2943.jpg",
+    "tronco": "PPC",
+    "dimension": {
+      "Organización Política": "PARTIDO POPULAR CRISTIANO - PPC",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "10/05/2024"
+    },
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "PPC",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "partido_popular_cristiano_ppc_unidad_nacional": {
+    "nombre": "PARTIDO POPULAR CRISTIANO - PPC - UNIDAD NACIONAL",
+    "logo": "",
+    "tronco": "PPC",
+    "dimension": null,
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "PPC",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "partido_por_la_democracia_social_compromiso_peru": {
+    "nombre": "PARTIDO POR LA DEMOCRACIA SOCIAL - COMPROMISO PERU",
+    "logo": "",
+    "tronco": "PARTIDO POR LA DEMOCRACIA SOCIAL COMPROMISO PERU",
+    "dimension": {
+      "Organización Política": "PARTIDO POR LA DEMOCRACIA SOCIAL - COMPROMISO PERU",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "27/08/2007"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PARTIDO POR LA DEMOCRACIA SOCIAL COMPROMISO PERU",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "partido_proyecto_pais": {
+    "nombre": "PARTIDO PROYECTO PAIS",
+    "logo": "",
+    "tronco": "PROYECTO PAIS",
+    "dimension": null,
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "PROYECTO PAIS",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "partido_reconstruccion_democratica": {
+    "nombre": "PARTIDO RECONSTRUCCION DEMOCRATICA",
+    "logo": "",
+    "tronco": "PARTIDO RECONSTRUCCION DEMOCRATICA",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PARTIDO RECONSTRUCCION DEMOCRATICA",
+      "cuenta": true,
+      "fuente": "denominación de partido explícita"
+    }
+  },
+  "partido_renacimiento_andino": {
+    "nombre": "PARTIDO RENACIMIENTO ANDINO",
+    "logo": "",
+    "tronco": "PARTIDO RENACIMIENTO ANDINO",
+    "dimension": {
+      "Organización Política": "PARTIDO RENACIMIENTO ANDINO",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "19/03/2007"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PARTIDO RENACIMIENTO ANDINO",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "partido_sicreo": {
+    "nombre": "PARTIDO SICREO",
+    "logo": "partidos/2935.jpg",
+    "tronco": "PARTIDO SICREO",
+    "dimension": {
+      "Organización Política": "PARTIDO SICREO",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "18/03/2024"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PARTIDO SICREO",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "partido_socialista": {
+    "nombre": "PARTIDO SOCIALISTA",
+    "logo": "",
+    "tronco": "PARTIDO SOCIALISTA",
+    "dimension": {
+      "Organización Política": "PARTIDO SOCIALISTA",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "27/08/2007"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PARTIDO SOCIALISTA",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "partido_socialista_de_los_trabajadores": {
+    "nombre": "PARTIDO SOCIALISTA DE LOS TRABAJADORES",
+    "logo": "",
+    "tronco": "PARTIDO SOCIALISTA DE LOS TRABAJADORES",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PARTIDO SOCIALISTA DE LOS TRABAJADORES",
+      "cuenta": true,
+      "fuente": "denominación de partido explícita"
+    }
+  },
+  "partido_unidad_y_paz": {
+    "nombre": "PARTIDO UNIDAD Y PAZ",
+    "logo": "partidos/2944.jpg",
+    "tronco": "PARTIDO UNIDAD Y PAZ",
+    "dimension": {
+      "Organización Política": "PARTIDO UNIDAD Y PAZ",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "02/10/2024",
+      "Fecha de cancelación": ""
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PARTIDO UNIDAD Y PAZ",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "peru_al_2000_frenatraca": {
+    "nombre": "PERU AL 2000 - FRENATRACA",
+    "logo": "",
+    "tronco": "FRENATRACA",
+    "dimension": null,
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "FRENATRACA",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "peru_libertario": {
+    "nombre": "PERU LIBERTARIO",
+    "logo": "",
+    "tronco": "PERU LIBRE",
+    "dimension": null,
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "PERU LIBRE",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "peru_moderno": {
+    "nombre": "PERU MODERNO",
+    "logo": "partidos/2924.jpg",
+    "tronco": "PERU MODERNO",
+    "dimension": {
+      "Organización Política": "PERU MODERNO",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "07/06/2023",
+      "Fecha de cancelación": ""
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PERU MODERNO",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "peru_nacion": {
+    "nombre": "PERU NACION",
+    "logo": "",
+    "tronco": "PERU NACION",
+    "dimension": {
+      "Organización Política": "PERU NACION",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "07/09/2021"
+    },
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "PERU NACION",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "peru_patria_segura": {
+    "nombre": "PERU PATRIA SEGURA",
+    "logo": "",
+    "tronco": "CAMBIO 90 / PERU PATRIA SEGURA",
+    "dimension": {
+      "Organización Política": "PERU PATRIA SEGURA",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "07/09/2021"
+    },
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "CAMBIO 90 / PERU PATRIA SEGURA",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "peru_por_la_molina": {
+    "nombre": "PERU POR LA MOLINA",
+    "logo": "",
+    "tronco": "PERU POR LA MOLINA",
+    "dimension": {
+      "Organización Política": "PERU POR LA MOLINA",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - LA MOLINA",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "13/01/2011"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "PERU POR LA MOLINA",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "peru_posible": {
+    "nombre": "PERU POSIBLE",
+    "logo": "",
+    "tronco": "PERU POSIBLE",
+    "dimension": {
+      "Organización Política": "PERU POSIBLE",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "13/07/2017"
+    },
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "PERU POSIBLE",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    },
+    "variantes": [
+      "PERÚ POSIBLE"
+    ]
+  },
+  "peruanos_por_el_kambio": {
+    "nombre": "PERUANOS POR EL KAMBIO",
+    "logo": "",
+    "tronco": "PPK / CONTIGO",
+    "dimension": null,
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "PPK / CONTIGO",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "plataforma_democratica": {
+    "nombre": "PLATAFORMA DEMOCRATICA",
+    "logo": "",
+    "tronco": "PLATAFORMA DEMOCRATICA",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "PLATAFORMA DEMOCRATICA",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "podemos_peru": {
+    "nombre": "PODEMOS PERU",
+    "logo": "partidos/2731.jpg",
+    "tronco": "PODEMOS PERU",
+    "dimension": {
+      "Organización Política": "PODEMOS PERU",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "10/01/2018"
+    },
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "PODEMOS PERU",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "podemos_por_el_progreso_del_peru": {
+    "nombre": "PODEMOS POR EL PROGRESO DEL PERU",
+    "logo": "",
+    "tronco": "PODEMOS PERU",
+    "dimension": null,
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "PODEMOS PERU",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "primero_la_gente_comunidad_ecologia_libertad_y_progreso": {
+    "nombre": "PRIMERO LA GENTE - COMUNIDAD, ECOLOGIA, LIBERTAD Y PROGRESO",
+    "logo": "partidos/primero_la_gente.png",
+    "tronco": "PRIMERO LA GENTE COMUNIDAD ECOLOGIA LIBERTAD Y PROGRESO",
+    "dimension": {
+      "Organización Política": "PRIMERO LA GENTE - COMUNIDAD, ECOLOGIA, LIBERTAD Y PROGRESO",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "05/07/2023"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PRIMERO LA GENTE COMUNIDAD ECOLOGIA LIBERTAD Y PROGRESO",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "progresa_con_san_luis": {
+    "nombre": "PROGRESA CON SAN LUIS",
+    "logo": "",
+    "tronco": "PROGRESA CON SAN LUIS",
+    "dimension": {
+      "Organización Política": "PROGRESA CON SAN LUIS",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - SAN LUIS",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "05/03/2007"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "PROGRESA CON SAN LUIS",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "progresando_peru": {
+    "nombre": "PROGRESANDO PERU",
+    "logo": "",
+    "tronco": "PROGRESANDO PERU",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "PROGRESANDO PERU",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "progresemos": {
+    "nombre": "PROGRESEMOS",
+    "logo": "partidos/2967.jpg",
+    "tronco": "PROGRESEMOS",
+    "dimension": {
+      "Organización Política": "PROGRESEMOS",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "03/07/2024"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "PROGRESEMOS",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "proyecto_pais": {
+    "nombre": "PROYECTO PAIS",
+    "logo": "",
+    "tronco": "PROYECTO PAIS",
+    "dimension": {
+      "Organización Política": "PROYECTO PAIS",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "27/08/2007"
+    },
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "PROYECTO PAIS",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "pueblo_te_escucho": {
+    "nombre": "PUEBLO TE ESCUCHO",
+    "logo": "",
+    "tronco": "PUEBLO TE ESCUCHO",
+    "dimension": {
+      "Organización Política": "PUEBLO TE ESCUCHO",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - PUENTE PIEDRA",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "05/03/2007"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "PUEBLO TE ESCUCHO",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "pueblo_unido_ricardo_palma": {
+    "nombre": "PUEBLO UNIDO RICARDO PALMA",
+    "logo": "",
+    "tronco": "PUEBLO UNIDO RICARDO PALMA",
+    "dimension": {
+      "Organización Política": "PUEBLO UNIDO RICARDO PALMA",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - HUAROCHIRI - RICARDO PALMA",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "05/03/2007"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "PUEBLO UNIDO RICARDO PALMA",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "punta_hermosa_unido": {
+    "nombre": "PUNTA HERMOSA UNIDO",
+    "logo": "",
+    "tronco": "PUNTA HERMOSA UNIDO",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "PUNTA HERMOSA UNIDO",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "renacimiento_unido_nacional": {
+    "nombre": "RENACIMIENTO UNIDO NACIONAL",
+    "logo": "",
+    "tronco": "SIEMPRE UNIDOS / RUNA",
+    "dimension": {
+      "Organización Política": "RENACIMIENTO UNIDO NACIONAL",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "07/09/2021"
+    },
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "SIEMPRE UNIDOS / RUNA",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "renovacion_nacional": {
+    "nombre": "RENOVACION NACIONAL",
+    "logo": "",
+    "tronco": "RENOVACION NACIONAL",
+    "dimension": {
+      "Organización Política": "RENOVACION NACIONAL",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "30/07/2012"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "RENOVACION NACIONAL",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "renovacion_popular": {
+    "nombre": "RENOVACION POPULAR",
+    "logo": "partidos/3040.jpg",
+    "tronco": "SOLIDARIDAD NACIONAL / RENOVACION POPULAR",
+    "dimension": {
+      "Organización Política": "RENOVACION POPULAR",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "07/12/2004"
+    },
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "SOLIDARIDAD NACIONAL / RENOVACION POPULAR",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "renovacion_popular_peru": {
+    "nombre": "RENOVACION POPULAR PERU",
+    "logo": "partidos/3040.jpg",
+    "tronco": "SOLIDARIDAD NACIONAL / RENOVACION POPULAR",
+    "dimension": {
+      "Organización Política": "RENOVACION POPULAR PERU",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "ALIANZA ELECTORAL",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "16/02/2026",
+      "Fecha de cancelación": ""
+    },
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "SOLIDARIDAD NACIONAL / RENOVACION POPULAR",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "renovacion_y_progreso": {
+    "nombre": "RENOVACION Y PROGRESO",
+    "logo": "",
+    "tronco": "RENOVACION Y PROGRESO",
+    "dimension": {
+      "Organización Política": "RENOVACION Y PROGRESO",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - CIENEGUILLA",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "05/03/2007"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "RENOVACION Y PROGRESO",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "restauracion_nacional": {
+    "nombre": "RESTAURACION NACIONAL",
+    "logo": "",
+    "tronco": "RESTAURACION NACIONAL / VICTORIA NACIONAL",
+    "dimension": null,
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "RESTAURACION NACIONAL / VICTORIA NACIONAL",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "resurgimiento_peruano": {
+    "nombre": "RESURGIMIENTO PERUANO",
+    "logo": "",
+    "tronco": "RESURGIMIENTO PERUANO",
+    "dimension": {
+      "Organización Política": "RESURGIMIENTO PERUANO",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "27/08/2007"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "RESURGIMIENTO PERUANO",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "salvemos_al_peru": {
+    "nombre": "SALVEMOS AL PERU",
+    "logo": "partidos/2927.jpg",
+    "tronco": "SALVEMOS AL PERU",
+    "dimension": {
+      "Organización Política": "SALVEMOS AL PERU",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "29/05/2023"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "SALVEMOS AL PERU",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "salvemos_miraflores": {
+    "nombre": "SALVEMOS MIRAFLORES",
+    "logo": "",
+    "tronco": "SALVEMOS MIRAFLORES",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "SALVEMOS MIRAFLORES",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "san_bartolo_solidario": {
+    "nombre": "SAN BARTOLO SOLIDARIO",
+    "logo": "",
+    "tronco": "SAN BARTOLO SOLIDARIO",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "SAN BARTOLO SOLIDARIO",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "san_juan_unido": {
+    "nombre": "SAN JUAN UNIDO",
+    "logo": "",
+    "tronco": "SAN JUAN UNIDO",
+    "dimension": {
+      "Organización Política": "SAN JUAN UNIDO",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - SAN JUAN DE MIRAFLORES",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "05/03/2007"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "SAN JUAN UNIDO",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "san_luis_avanza": {
+    "nombre": "SAN LUIS AVANZA",
+    "logo": "",
+    "tronco": "SAN LUIS AVANZA",
+    "dimension": {
+      "Organización Política": "SAN LUIS AVANZA",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - SAN LUIS",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "05/03/2007"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "SAN LUIS AVANZA",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "san_luis_renace": {
+    "nombre": "SAN LUIS RENACE",
+    "logo": "",
+    "tronco": "SAN LUIS RENACE",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "SAN LUIS RENACE",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "san_luis_somos_independientes": {
+    "nombre": "SAN LUIS: SOMOS INDEPENDIENTES",
+    "logo": "",
+    "tronco": "SAN LUIS SOMOS INDEPENDIENTES",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "SAN LUIS SOMOS INDEPENDIENTES",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "san_miguel_me_gusta": {
+    "nombre": "SAN MIGUEL ME GUSTA",
+    "logo": "",
+    "tronco": "SAN MIGUEL ME GUSTA",
+    "dimension": {
+      "Organización Política": "SAN MIGUEL ME GUSTA",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - SAN MIGUEL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "29/01/2019"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "SAN MIGUEL ME GUSTA",
+      "cuenta": false,
+      "fuente": "dimensión"
+    },
+    "variantes": [
+      "SAN MIGUEL ME GUSTA  +"
+    ]
+  },
+  "siempre_para_barranco": {
+    "nombre": "SIEMPRE PARA BARRANCO",
+    "logo": "",
+    "tronco": "SIEMPRE PARA BARRANCO",
+    "dimension": {
+      "Organización Política": "SIEMPRE PARA BARRANCO",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - BARRANCO",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "05/03/2007"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "SIEMPRE PARA BARRANCO",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "siempre_unidos": {
+    "nombre": "SIEMPRE UNIDOS",
+    "logo": "",
+    "tronco": "SIEMPRE UNIDOS / RUNA",
+    "dimension": null,
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "SIEMPRE UNIDOS / RUNA",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "solidaridad_nacional": {
+    "nombre": "SOLIDARIDAD NACIONAL",
+    "logo": "",
+    "tronco": "SOLIDARIDAD NACIONAL / RENOVACION POPULAR",
+    "dimension": null,
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "SOLIDARIDAD NACIONAL / RENOVACION POPULAR",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "somos_lima": {
+    "nombre": "SOMOS LIMA",
+    "logo": "",
+    "tronco": "SOMOS LIMA",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "SOMOS LIMA",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "somos_lurin": {
+    "nombre": "SOMOS LURIN",
+    "logo": "",
+    "tronco": "SOMOS LURIN",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "SOMOS LURIN",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "tierra_y_dignidad": {
+    "nombre": "TIERRA Y DIGNIDAD",
+    "logo": "",
+    "tronco": "TIERRA Y DIGNIDAD",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "TIERRA Y DIGNIDAD",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "todas_las_sangres": {
+    "nombre": "TODAS LAS SANGRES",
+    "logo": "",
+    "tronco": "TODAS LAS SANGRES",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "TODAS LAS SANGRES",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "todos_por_el_peru": {
+    "nombre": "TODOS POR EL PERU",
+    "logo": "",
+    "tronco": "TODOS POR EL PERU",
+    "dimension": {
+      "Organización Política": "TODOS POR EL PERU",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "07/09/2021"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "TODOS POR EL PERU",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "todos_por_la_victoria": {
+    "nombre": "TODOS POR LA VICTORIA",
+    "logo": "",
+    "tronco": "TODOS POR LA VICTORIA",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "TODOS POR LA VICTORIA",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "todos_somos_chaclacayo": {
+    "nombre": "TODOS SOMOS CHACLACAYO",
+    "logo": "",
+    "tronco": "TODOS SOMOS CHACLACAYO",
+    "dimension": {
+      "Organización Política": "TODOS SOMOS CHACLACAYO",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - CHACLACAYO",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "12/02/2015"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "TODOS SOMOS CHACLACAYO",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "todos_vuelven": {
+    "nombre": "TODOS VUELVEN",
+    "logo": "",
+    "tronco": "TODOS VUELVEN",
+    "dimension": {
+      "Organización Política": "TODOS VUELVEN",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "ICA - CHINCHA - CHINCHA BAJA",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "13/01/2011"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "TODOS VUELVEN",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "u_t_viva_la_molina": {
+    "nombre": "U.T. VIVA LA MOLINA",
+    "logo": "",
+    "tronco": "U T VIVA LA MOLINA",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "U T VIVA LA MOLINA",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "un_camino_diferente": {
+    "nombre": "UN CAMINO DIFERENTE",
+    "logo": "partidos/2998.jpg",
+    "tronco": "UN CAMINO DIFERENTE",
+    "dimension": {
+      "Organización Política": "UN CAMINO DIFERENTE",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "11/04/2025",
+      "Fecha de cancelación": ""
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "UN CAMINO DIFERENTE",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "unidad_campesina_vecinal": {
+    "nombre": "UNIDAD CAMPESINA VECINAL",
+    "logo": "",
+    "tronco": "UNIDAD CAMPESINA VECINAL",
+    "dimension": {
+      "Organización Política": "UNIDAD CAMPESINA VECINAL",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "ANCASH - PALLASCA - CONCHUCOS",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "05/03/2007"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "UNIDAD CAMPESINA VECINAL",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "unidad_chorrillana": {
+    "nombre": "UNIDAD CHORRILLANA",
+    "logo": "",
+    "tronco": "UNIDAD CHORRILLANA",
+    "dimension": {
+      "Organización Política": "UNIDAD CHORRILLANA",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - CHORRILLOS",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "29/01/2019"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "UNIDAD CHORRILLANA",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "unidad_distrital_chorrillana": {
+    "nombre": "UNIDAD DISTRITAL CHORRILLANA",
+    "logo": "",
+    "tronco": "UNIDAD DISTRITAL CHORRILLANA",
+    "dimension": {
+      "Organización Política": "UNIDAD DISTRITAL CHORRILLANA",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - CHORRILLOS",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "13/01/2011"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "UNIDAD DISTRITAL CHORRILLANA",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "unidad_nacional": {
+    "nombre": "UNIDAD NACIONAL",
+    "logo": "",
+    "tronco": "UNIDAD NACIONAL",
+    "dimension": {
+      "Organización Política": "UNIDAD NACIONAL",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "ALIANZA ELECTORAL",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "29/08/2025",
+      "Fecha de cancelación": ""
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ALIANZA",
+      "identidad": "ALIANZA:UNIDAD NACIONAL",
+      "cuenta": true,
+      "fuente": "regla editorial de alianza"
+    }
+  },
+  "unidad_olivense": {
+    "nombre": "UNIDAD OLIVENSE",
+    "logo": "",
+    "tronco": "UNIDAD OLIVENSE",
+    "dimension": {
+      "Organización Política": "UNIDAD OLIVENSE",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - LOS OLIVOS",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "13/01/2011"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "UNIDAD OLIVENSE",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "unidos_construyendo": {
+    "nombre": "UNIDOS CONSTRUYENDO",
+    "logo": "",
+    "tronco": "UNIDOS CONSTRUYENDO",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": true,
+      "tipo": "COMPUTABLE POR CONFIRMACION EDITORIAL",
+      "identidad": "UNIDOS CONSTRUYENDO",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "unidos_por_el_pueblo": {
+    "nombre": "UNIDOS POR EL PUEBLO",
+    "logo": "",
+    "tronco": "UNIDOS POR EL PUEBLO",
+    "dimension": {
+      "Organización Política": "UNIDOS POR EL PUEBLO",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - HUAROCHIRI - RICARDO PALMA",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "13/01/2011"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "UNIDOS POR EL PUEBLO",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "unidos_por_juliaca": {
+    "nombre": "UNIDOS POR JULIACA",
+    "logo": "",
+    "tronco": "UNIDOS POR JULIACA",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "UNIDOS POR JULIACA",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "unidos_por_villa_maria": {
+    "nombre": "UNIDOS POR VILLA MARIA",
+    "logo": "",
+    "tronco": "UNIDOS POR VILLA MARIA",
+    "dimension": {
+      "Organización Política": "UNIDOS POR VILLA MARIA",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - VILLA MARIA DEL TRIUNFO",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "12/02/2015"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "UNIDOS POR VILLA MARIA",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "unidos_salvemos_brena": {
+    "nombre": "UNIDOS SALVEMOS BREÑA",
+    "logo": "",
+    "tronco": "UNIDOS SALVEMOS BRENA",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "UNIDOS SALVEMOS BRENA",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "union_por_el_peru": {
+    "nombre": "UNION POR EL PERU",
+    "logo": "",
+    "tronco": "UNION POR EL PERU",
+    "dimension": {
+      "Organización Política": "UNION POR EL PERU",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "07/09/2021"
+    },
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "UNION POR EL PERU",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "union_puntena": {
+    "nombre": "UNION PUNTEÑA",
+    "logo": "",
+    "tronco": "UNION PUNTENA",
+    "dimension": {
+      "Organización Política": "UNION PUNTEÑA",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "CALLAO - CALLAO - LA PUNTA",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "12/02/2015"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "UNION PUNTENA",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "union_sanmartiniana": {
+    "nombre": "UNION SANMARTINIANA",
+    "logo": "",
+    "tronco": "UNION SANMARTINIANA",
+    "dimension": {
+      "Organización Política": "UNION SANMARTINIANA",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - SAN MARTIN DE PORRES",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "05/03/2007"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "UNION SANMARTINIANA",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "union_santa_rosa": {
+    "nombre": "UNION SANTA ROSA",
+    "logo": "",
+    "tronco": "UNION SANTA ROSA",
+    "dimension": null,
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "cuenta": false,
+      "tipo": "NO COMPUTABLE LOCAL",
+      "identidad": "UNION SANTA ROSA",
+      "fuente": "clasificación confirmada por el usuario"
+    }
+  },
+  "up_unidad_popular": {
+    "nombre": "UP UNIDAD POPULAR",
+    "logo": "",
+    "tronco": "UP UNIDAD POPULAR",
+    "dimension": {
+      "Organización Política": "UP UNIDAD POPULAR",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "23/06/2025"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "UP UNIDAD POPULAR",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "valores_peru": {
+    "nombre": "VALORES PERU",
+    "logo": "",
+    "tronco": "VALORES PERU",
+    "dimension": {
+      "Organización Política": "VALORES PERU",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - SAN BORJA",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "13/01/2011"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "VALORES PERU",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "vamos_peru": {
+    "nombre": "VAMOS PERU",
+    "logo": "",
+    "tronco": "VAMOS PERU",
+    "dimension": {
+      "Organización Política": "VAMOS PERU",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "07/09/2021"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "VAMOS PERU",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "verdad_y_honradez": {
+    "nombre": "VERDAD Y HONRADEZ",
+    "logo": "",
+    "tronco": "VERDAD Y HONRADEZ",
+    "dimension": {
+      "Organización Política": "VERDAD Y HONRADEZ",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "07/01/2026"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "VERDAD Y HONRADEZ",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "victoria_nacional": {
+    "nombre": "VICTORIA NACIONAL",
+    "logo": "",
+    "tronco": "RESTAURACION NACIONAL / VICTORIA NACIONAL",
+    "dimension": {
+      "Organización Política": "VICTORIA NACIONAL",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "07/09/2021"
+    },
+    "equivalenciaExplicita": true,
+    "clasificacion": {
+      "tipo": "TRONCO COMPUTABLE",
+      "identidad": "RESTAURACION NACIONAL / VICTORIA NACIONAL",
+      "cuenta": true,
+      "fuente": "equivalencia confirmada"
+    }
+  },
+  "villa_cambia": {
+    "nombre": "VILLA CAMBIA",
+    "logo": "",
+    "tronco": "VILLA CAMBIA",
+    "dimension": {
+      "Organización Política": "VILLA CAMBIA",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - VILLA EL SALVADOR",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "29/01/2019"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "VILLA CAMBIA",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "villa_maria_cambia": {
+    "nombre": "VILLA MARIA CAMBIA",
+    "logo": "",
+    "tronco": "VILLA MARIA CAMBIA",
+    "dimension": {
+      "Organización Política": "VILLA MARIA CAMBIA",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - VILLA MARIA DEL TRIUNFO",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "29/01/2019"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "VILLA MARIA CAMBIA",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "vision_peru": {
+    "nombre": "VISION PERU",
+    "logo": "partidos/2988.jpg",
+    "tronco": "VISION PERU",
+    "dimension": {
+      "Organización Política": "VISION PERU",
+      "Estado Org. Política": "INSCRITO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "11/08/2025"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "VISION PERU",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  },
+  "viva_la_molina": {
+    "nombre": "VIVA LA MOLINA",
+    "logo": "",
+    "tronco": "VIVA LA MOLINA",
+    "dimension": {
+      "Organización Política": "VIVA LA MOLINA",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - LA MOLINA",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "29/01/2019"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "VIVA LA MOLINA",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "vivo_por_magdalena": {
+    "nombre": "VIVO POR MAGDALENA",
+    "logo": "",
+    "tronco": "VIVO POR MAGDALENA",
+    "dimension": {
+      "Organización Política": "VIVO POR MAGDALENA",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - MAGDALENA DEL MAR",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "29/01/2019"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "VIVO POR MAGDALENA",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "voces_de_lince": {
+    "nombre": "VOCES DE LINCE",
+    "logo": "",
+    "tronco": "VOCES DE LINCE",
+    "dimension": {
+      "Organización Política": "VOCES DE LINCE",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "ORGANIZACION LOCAL (DISTRITAL)",
+      "Alcance": "LIMA - LIMA - LINCE",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "29/01/2019"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "ORGANIZACION LOCAL DISTRITAL",
+      "identidad": "VOCES DE LINCE",
+      "cuenta": false,
+      "fuente": "dimensión"
+    }
+  },
+  "y_se_llama_peru": {
+    "nombre": "Y SE LLAMA PERU",
+    "logo": "",
+    "tronco": "Y SE LLAMA PERU",
+    "dimension": {
+      "Organización Política": "Y SE LLAMA PERU",
+      "Estado Org. Política": "CANCELADO",
+      "Tipo partido": "PARTIDO POLÍTICO",
+      "Alcance": "NACIONAL",
+      "Fecha de inscripción": "",
+      "Fecha de cancelación": "27/08/2007"
+    },
+    "equivalenciaExplicita": false,
+    "clasificacion": {
+      "tipo": "PARTIDO POLITICO",
+      "identidad": "Y SE LLAMA PERU",
+      "cuenta": true,
+      "fuente": "dimensión"
+    }
+  }
+}

@@ -20,11 +20,11 @@ const CONFIG = {
         ]
     },
     archivos: {
-        masterJSON: "data/candidatos_super_master.json",
-        partidosJSON: "data/diccionario_partidos.json" 
+        masterJSON: "https://fabmonge.github.io/Camisetas_Lima_2026/vista_camisetas_v10/data/candidatos_super_master.json",
+        partidosJSON: "https://fabmonge.github.io/Camisetas_Lima_2026/vista_camisetas_v10/data/diccionario_partidos.json" 
     },
     rutas: {
-        baseFotos: "../imagenes_voto_informado/",
+        baseFotos: "https://fabmonge.github.io/Camisetas_Lima_2026/imagenes_voto_informado/",
     }
 };
 
@@ -663,19 +663,23 @@ function calcularCamisetasUnicas(candidato) { return Math.max(1, candidato.metri
 
 // INICIALIZACIÓN
 // ===============================================
-document.addEventListener("DOMContentLoaded", initApp);
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initApp, { once: true });
+} else {
+    initApp();
+}
 
 async function cargarDatosValidados() {
     if (location.protocol === 'file:') {
         await new Promise((resolve, reject) => {
             const script = document.createElement('script');
-            script.src = 'data/datos-local.js';
+            script.src = 'https://fabmonge.github.io/Camisetas_Lima_2026/vista_camisetas_v10/data/datos-local.js';
             script.onload = resolve;
             script.onerror = () => reject(new Error('No se pudo leer data/datos-local.js'));
             document.head.appendChild(script);
         });
     } else {
-        const response = await fetch('data/datos.json', { cache: 'no-store' });
+        const response = await fetch('https://fabmonge.github.io/Camisetas_Lima_2026/vista_camisetas_v10/data/datos.json', { cache: 'no-store' });
         if (!response.ok) throw new Error('No se pudo leer data/datos.json: HTTP ' + response.status);
         window.DATOS_V5 = await response.json();
     }
@@ -685,7 +689,7 @@ async function cargarDatosValidados() {
     if (datos.candidatos.length !== conteos.candidatos ||
         datos.candidatos.filter(c => c.metricas.esCamaleon).length !== conteos.masDeUnaCamiseta)
         throw new Error('Los datos y sus conteos de control no coinciden');
-    CONFIG.rutas.baseFotos = datos.metadata.baseFotos;
+    CONFIG.rutas.baseFotos = new URL(datos.metadata.baseFotos || 'https://fabmonge.github.io/Camisetas_Lima_2026/imagenes_voto_informado/', 'https://fabmonge.github.io/Camisetas_Lima_2026/vista_camisetas_v10/').href;
 }
 async function initApp() {
     try {
@@ -896,7 +900,7 @@ function renderRankings(rankingsData) {
     renderRankingTrayectorias(rankingsData[0].data, 'camisetas');
     const container = document.getElementById('ranking-partidos-container');
     if (!container) return;
-    container.innerHTML = rankingsData[1].data.slice().reverse().map(c => {
+    container.innerHTML = rankingsData[1].data.map(c => {
         const nombre = getNombreCorto(c.nombre);
         const total = todosLosCandidatos.filter(cand => cand.partidoActual === c.nombre).length;
         const porcentaje = total ? (100 * c.metrica / total).toLocaleString('es-ES', {minimumFractionDigits: 1, maximumFractionDigits: 1}) : '0';
@@ -1237,8 +1241,7 @@ function renderRankingTrayectorias(candidatos, tipo) {
     perdedoresMapeados.sort((a, b) => b.totalPostulaciones - a.totalPostulaciones || ((esPostulaciones || esCamisetas) ? a.nombre.localeCompare(b.nombre, 'es') : 0));
     let topPerdedores = perdedoresMapeados.slice(0, 5);
 
-    // 4. Invertir visualmente (el más perdedor a la derecha)
-    topPerdedores.reverse();
+    // 4. Se conserva el orden descendente de izquierda a derecha.
 
     // 5. Generar el HTML
     let html = '';
@@ -1249,7 +1252,7 @@ function renderRankingTrayectorias(candidatos, tipo) {
         // Foto del candidato
         let iniciales = c.nombre ? c.nombre.substring(0, 2).toUpperCase() : "XX";
         let fotoHtml = c.idFoto ? 
-            `<img src="${typeof getUrlImagen === 'function' ? getUrlImagen(c.idFoto) : `fotos/${c.idFoto}`}" class="loser-avatar" onerror="this.outerHTML='<div class=\\'loser-avatar\\' style=\\'color:${colorPartido};\\'>${iniciales}</div>'"/>` : 
+            `<img src="${typeof getUrlImagen === 'function' ? getUrlImagen(c.idFoto) : `https://fabmonge.github.io/Camisetas_Lima_2026/imagenes_voto_informado/${c.idFoto}`}" class="loser-avatar" onerror="this.outerHTML='<div class=\\'loser-avatar\\' style=\\'color:${colorPartido};\\'>${iniciales}</div>'"/>` : 
             `<div class="loser-avatar" style="color:${colorPartido};">${iniciales}</div>`;
 
         // Logo del partido (Búsqueda inteligente)
@@ -1257,7 +1260,7 @@ function renderRankingTrayectorias(candidatos, tipo) {
         let logoHtml = '';
         
         if (archivoLogo) {
-            let logoUrl = typeof getUrlImagen === 'function' ? getUrlImagen(archivoLogo) : `fotos/${archivoLogo}`;
+            let logoUrl = typeof getUrlImagen === 'function' ? getUrlImagen(archivoLogo) : `https://fabmonge.github.io/Camisetas_Lima_2026/imagenes_voto_informado/${archivoLogo}`;
             // Si hay logo, lo ponemos como imagen dentro del círculo
             logoHtml = `<img src="${logoUrl}" alt="${pActual}" style="width: 100%; height: 100%; object-fit: contain; border-radius: 50%; background-color: #fff;" onerror="this.style.display='none'"/>`;
         } else {

@@ -147,7 +147,7 @@ body, html {
    ========================================= */
 .leaflet-container { background: transparent !important; }
 .pex-globe-container { display: flex; flex-direction: column; align-items: center; cursor: pointer; }
-.pex-globe { width: 60px; height: 60px; border-radius: 50%; background-image: url('fotos/mundo.png'); background-size: 115%; background-position: center; background-repeat: no-repeat; background-color: #eeeeee; border: 1px solid rgba(0, 0, 0, 0.15); box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 5px; transition: background-color 0.4s ease-in-out !important; }
+.pex-globe { width: 60px; height: 60px; border-radius: 50%; background-image: url('https://fabmonge.github.io/Camisetas_Lima_2026/vista_camisetas_v10/fotos/mundo.png'); background-size: 115%; background-position: center; background-repeat: no-repeat; background-color: #eeeeee; border: 1px solid rgba(0, 0, 0, 0.15); box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 5px; transition: background-color 0.4s ease-in-out !important; }
 .pex-globe-container:hover .pex-globe { transform: scale(1.08); }
 .pex-label { font-weight: 900; font-size: 11px; color: #333; text-transform: uppercase; text-align: center; letter-spacing: 1px; pointer-events: none; text-shadow: 1px 1px 0px rgba(255,255,255,0.8); }
 
@@ -702,13 +702,11 @@ path.leaflet-interactive { transition: fill 0.8s ease-in-out, stroke 0.8s ease-i
         flex-shrink: 0;
     }
 
-    /* 3. Añade la instrucción mágica solo en celulares */
-    .losers-subtitle::after {
-        content: "👉 Desliza hacia la derecha para ver los demás candidatos.";
+    .ranking-mobile-hint {
         display: block;
-        margin-top: 12px;
+        margin: 12px 0 0;
         font-weight: 900;
-        color: #111; /* Color oscuro que combina con tu diseño */
+        color: #111;
         font-size: 13px;
     }
 }
@@ -787,3 +785,6 @@ li strong {
 .loser-avatar[hidden] { display: none; }
 .legal-note { max-width: 900px; margin: 12px auto 24px; padding: 0 20px; text-align: left; line-height: 1.6; box-sizing: border-box; }
 .legal-note a { color: inherit; text-decoration: underline; }
+
+/* Instrucción móvil sin bajadas en los rankings horizontales. */
+@media (min-width: 851px) { .ranking-mobile-hint { display: none; } }
